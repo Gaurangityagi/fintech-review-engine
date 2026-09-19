@@ -1,0 +1,51 @@
+review_id,app_name,review_text,rating,manual_theme,manual_severity
+1,PhonePe,"worst app ever! my money is stuck for 3 days after scanning QR.",1,failed_transaction,high
+2,Paytm,"kyc process is too annoying, asking for PAN again and again.",2,kyc_friction,medium
+3,Google Pay,"refund taking more than a week, customer care not responding.",1,refund_delay,high
+4,PhonePe,"good app but sometimes hangs when opening.",4,app_crash_bug,low
+5,Paytm,"I transferred 500rs to my friend but he didn't receive it, amount debited from my bank.",1,failed_transaction,high
+6,Google Pay,"nice interface, easy to use.",5,praise_no_issue,low
+7,PhonePe,"someone called asking for OTP saying they are from phonepe support, feels like fraud.",1,fraud_security_concern,high
+8,Paytm,"I can't find the recharge button, the new update is very confusing.",2,ui_confusion,medium
+9,Google Pay,"worst customer support, bot only gives copy paste answers.",1,customer_support,high
+10,PhonePe,"excellent app for daily payments.",5,praise_no_issue,low
+11,Paytm,"app crashes on my Redmi phone every time I try to check balance.",2,app_crash_bug,medium
+12,Google Pay,"tried to do kyc using video call but it disconnects.",2,kyc_friction,high
+13,PhonePe,"my 2000 rupees refund from IRCTC is not showing in history.",1,refund_delay,high
+14,Paytm,"fraud transactions happened from my wallet, no help from support.",1,fraud_security_concern,high
+15,Google Pay,"too many ads and confusing UI in the latest update.",3,ui_confusion,medium
+16,PhonePe,"I love the auto-pay feature, very helpful.",5,praise_no_issue,low
+17,Paytm,"customer care number is switched off.",1,customer_support,high
+18,Google Pay,"payment failed but money deducted, server issue always.",1,failed_transaction,high
+19,PhonePe,"app keeps freezing when entering UPI pin.",2,app_crash_bug,high
+20,Paytm,"why do you need my location for basic recharge?",3,fraud_security_concern,low
+21,Google Pay,"the rewards are useless now, better cashbacks earlier.",3,other,low
+22,PhonePe,"kyc pending for 2 months, no resolution.",1,kyc_friction,high
+23,Paytm,"merchant refund didn't reflect in wallet.",2,refund_delay,medium
+24,Google Pay,"awesome app, fast transactions.",5,praise_no_issue,low
+25,PhonePe,"how to change language? option not visible.",3,ui_confusion,low
+26,Paytm,"tried contacting support for 3 hours, no reply.",1,customer_support,high
+27,Google Pay,"app closes automatically when scanning QR code.",2,app_crash_bug,high
+28,PhonePe,"transaction failed money debited, please return my money.",1,failed_transaction,high
+29,Paytm,"received sms about account block, fake link provided.",1,fraud_security_concern,high
+30,Google Pay,"kyc done but wallet still inactive.",2,kyc_friction,high
+31,PhonePe,"refund of 500rs is pending from myntra.",2,refund_delay,medium
+32,Paytm,"very good application for small payments.",4,praise_no_issue,low
+33,Google Pay,"bot chat is useless, need human agent.",2,customer_support,medium
+34,PhonePe,"new design is very cluttered.",3,ui_confusion,medium
+35,Paytm,"money deducted twice for electricity bill.",1,failed_transaction,high
+36,Google Pay,"black screen on startup.",1,app_crash_bug,high
+37,PhonePe,"suspicious login attempt alert received.",2,fraud_security_concern,medium
+38,Paytm,"pancard verification failed multiple times.",2,kyc_friction,medium
+39,Google Pay,"ticket cancelled but no refund for 15 days.",1,refund_delay,high
+40,PhonePe,"smooth experience, working fine.",5,praise_no_issue,low
+41,Paytm,"cant find flight booking section easily.",3,ui_confusion,low
+42,Google Pay,"no customer care email id provided.",2,customer_support,medium
+43,PhonePe,"getting server error on processing payment.",2,failed_transaction,medium
+44,Paytm,"battery drains fast while using app.",3,app_crash_bug,low
+45,Google Pay,"phishing link shared on whatsapp asking for gpay details.",1,fraud_security_concern,high
+46,PhonePe,"kyc not updating in system after submission.",2,kyc_friction,medium
+47,Paytm,"waiting for swiggy refund.",3,refund_delay,low
+48,Google Pay,"best upi app in india.",5,praise_no_issue,low
+49,PhonePe,"dark mode is not working properly.",3,ui_confusion,low
+50,Paytm,"call drops when talking to customer executive.",2,customer_support,medium

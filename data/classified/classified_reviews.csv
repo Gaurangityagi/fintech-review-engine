@@ -1,0 +1,1269 @@
+app_name,review_id,rating,review_text,date,thumbs_up_count,theme,severity,sentiment_score,one_line_summary
+Google Pay,f7415391-3eba-4d18-a05f-ae8338c4e265,5,ROAHi. LOIy,2026-09-13 10:07:09,0,other,low,0.0,Unintelligible text input
+Google Pay,d7f8184d-3621-4214-af6e-f4465c8181af,5,good 👍,2026-09-13 09:58:33,0,other,medium,0.0,No summary provided.
+Google Pay,3a88f7f8-49f1-4575-b296-5452ea0ebad7,5,good,2026-09-13 09:57:57,0,other,medium,0.0,No summary provided.
+Google Pay,9761d885-288c-40e2-be32-cc8bf8c795be,5,I like it,2026-09-13 09:56:22,0,praise_no_issue,low,0.7,User likes the app
+Google Pay,ce9e61c9-2932-4d86-9954-f4ec1f7d48f6,5,good 👍👍👍😊😊,2026-09-13 09:49:31,0,praise_no_issue,low,0.85,Positive feedback with praise emojis
+Google Pay,897756d9-a475-44ef-897d-0c43f7372640,5,Excellent,2026-09-13 09:42:28,0,praise_no_issue,low,0.9,User considers the app excellent
+Google Pay,6b2958cb-d479-4ec3-8c27-728c234db709,5,good,2026-09-13 09:34:59,0,other,medium,0.0,No summary provided.
+Google Pay,378bb964-c451-4586-9c4c-4cd410a9c584,5,ok,2026-09-13 09:32:25,0,other,medium,0.0,No summary provided.
+Google Pay,5e19a967-5384-4e0c-bb02-6310dd16dc6e,5,it.s good 👍 👌 I am in,2026-09-13 09:24:09,0,praise_no_issue,low,0.8,User expresses satisfaction and engagement
+Google Pay,2e65aca0-a1dd-412e-829b-9adafacaa9ce,3,good,2026-09-13 09:18:32,0,other,medium,0.0,No summary provided.
+Google Pay,0114d9a7-3d7b-43ef-b373-d94fcfa51008,5,Good,2026-09-13 09:06:38,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Google Pay,0db61562-19bd-45f5-8bd6-59f2019c177e,5,சிலம்பு,2026-09-13 08:55:37,0,other,low,0.0,Single Tamil word with no contextual details
+Google Pay,71672e51-e989-48cb-87d9-d9da31e19198,5,excllant,2026-09-13 08:54:10,0,praise_no_issue,low,0.9,User describes the app as excellent despite a typo
+Google Pay,2d1aee82-f7cf-485e-9eb3-8852d271d68a,5,Secure,2026-09-13 08:52:09,0,praise_no_issue,low,0.75,User praises the security of the app
+Google Pay,eecd3fdb-7545-40d0-84b4-c8168bd1e5eb,5,good,2026-09-13 08:43:10,0,other,medium,0.0,No summary provided.
+Google Pay,f851a7be-666d-4166-b7c2-9404a9fdf0b2,5,🤎🤎🤎,2026-09-13 08:27:43,0,praise_no_issue,low,0.7,Positive feedback expressed using heart emojis
+Google Pay,e812fc76-8287-4f7b-98d2-6be49e79820a,2,I am unable to add debit or credit card in the newly taken gpay account.,2026-09-13 08:18:22,0,app_crash_bug,medium,-0.6,Unable to add debit or credit card to a new account
+Google Pay,d354b1c5-48c5-492c-97a6-9fa1f3bef15a,5,good app,2026-09-13 07:48:55,0,praise_no_issue,low,0.8,Simple praise for the app
+Google Pay,1e3d269b-91d9-4e68-baff-2eb118262b98,1,manohar. tal,2026-09-13 07:40:18,0,other,low,0.0,Irrelevant text containing a person's name
+Google Pay,5e2dfc0f-af36-4d47-ad47-98b94c4eb87d,5,exilent work,2026-09-13 07:30:20,0,praise_no_issue,low,0.9,High praise for excellent performance
+Google Pay,e12c99b7-fdad-420a-a396-282075ebdbb0,5,Good 👍,2026-09-13 07:22:29,0,praise_no_issue,low,0.8,Short positive review with a thumbs-up emoji
+Google Pay,ea7cbcf3-ba6c-42b7-bbdb-18f05eddecdb,1,"Money gets deducted from our account and does not reach the other person's account and the payment process is visible, in this the person from whom we have purchased the goods asks us for money again, that is why this app is not right.",2026-09-13 07:09:39,0,failed_transaction,high,-0.9,"Money debited but not credited to payee, causing vendor disputes"
+Google Pay,22033206-1085-4539-8a3e-3ce66d511ce7,5,Very Bad,2026-09-13 06:53:51,0,other,low,-0.8,General negative feedback without specific details
+Google Pay,0ebfc191-d86f-457e-ad6e-7488279e55b1,5,good,2026-09-13 06:51:02,0,other,medium,0.0,No summary provided.
+Google Pay,99bd6b61-b8bf-4054-8820-14c728aa4c14,5,very safe this aap,2026-09-13 06:44:55,0,praise_no_issue,low,0.85,User feels the app is very safe
+Google Pay,e20a8775-9242-4ce9-b814-731e4c45aeb2,5,ok,2026-09-13 06:42:37,0,other,medium,0.0,No summary provided.
+Google Pay,8cee7d1d-93ff-426a-ab03-dd07ff235221,4,convenient way,2026-09-13 06:12:32,1,praise_no_issue,low,0.7,Praise for convenient payment experience
+Google Pay,0cd38b40-9cf4-42df-b165-b0ef261fe116,3,was this app easy to use and navigate,2026-09-13 05:57:27,0,other,low,0.1,User query asking if the app is easy to use and navigate
+Google Pay,5c4fb38e-6086-4912-901b-982181b19911,1,app is not working. the amount transferred is failing,2026-09-13 05:07:42,0,failed_transaction,high,-0.9,App is failing to process money transfers
+Google Pay,d1869667-116b-43f5-acc1-b69025b87d5f,4,nice,2026-09-13 04:15:45,0,other,medium,0.0,No summary provided.
+Google Pay,aed9a2b7-931a-49d2-a663-c32f65f0414d,5,good performance 👍,2026-09-13 04:03:30,0,praise_no_issue,low,0.8,User praises the app's good performance
+Google Pay,3a31d178-dd91-4a45-aa96-c2b66323cf0e,1,"I really hate this new update. The previous version was much more convenient, especially because Google Pay used to show the total amount spent and received for each month. It made tracking my expenses so easy. Now that feature is no longer clearly visible, and the new layout feels confusing and inconvenient. Please bring back the old monthly spending summary. The previous version was much better.",2026-09-13 00:25:38,0,ui_confusion,medium,-0.7,Dislikes new update due to confusing layout and removal of monthly expense tracking
+Google Pay,9c61c8f1-e22e-432c-a5f5-cac36040b6fc,5,Great public service,2026-09-13 00:08:35,0,praise_no_issue,low,0.7,Complements the app as a great public service
+Google Pay,2b66203f-8bf7-4967-a52a-ce1c691b456f,5,op,2026-09-12 23:29:13,0,praise_no_issue,low,0.6,Short positive comment praising the app
+Google Pay,2c3726a8-03f6-4118-bdd4-8f652619f048,5,excellent,2026-09-12 23:25:04,0,other,medium,0.0,No summary provided.
+Google Pay,4bb4eb1e-0978-49ce-af3f-526a49205e39,1,pahle paisa le liya aur bad me lone reject kar diya maharashtra chod,2026-09-12 23:23:23,0,refund_delay,high,-0.9,Complains about money being charged before loan application was rejected
+Google Pay,f44643bf-5afc-4b52-b2ef-a80f21146a6d,2,"There is a major feature missing in the app. I cannot easily see how much I have spent in each payment category, such as fuel, groceries, investments, food, entertainment, and other expenses. This is one of the most important features for users because it helps track monthly spending and understand where money is being spent. A detailed category-wise expense summary would make it much easier to manage household finances, plan budgets, control unnecessary",2026-09-12 23:20:26,0,ui_confusion,low,-0.4,Requests category-wise expense tracking to manage household budgets better
+Google Pay,8607ca86-0085-4e35-aa69-14c80da6bb69,5,Overall good experience with Google Pay. It's easy to use. Simple and straightforward.,2026-09-12 23:19:33,0,praise_no_issue,low,0.8,"Satisfied with simple, straightforward, and easy-to-use user experience"
+Google Pay,b2eb649c-c56e-4f92-b805-0a1da633fb55,5,good,2026-09-12 23:12:43,0,other,medium,0.0,No summary provided.
+Google Pay,a8f9175e-fe5d-486c-a1c3-ae0832854732,1,"New version is only for good looks, nothing new options in action,",2026-09-12 22:59:45,0,ui_confusion,low,-0.4,States the new version offers visual changes without useful new options
+Google Pay,1451fc40-f3dc-4e90-8de4-3de3ff3ca601,5,I hop most inptrtten google pay aap tq so mcha mch Google pye company,2026-09-12 22:55:50,1,praise_no_issue,low,0.8,Expresses gratitude towards Google Pay company despite minor typos
+Google Pay,b299248c-27a5-458f-89e3-5d7292c9b4a0,4,sutrgh,2026-09-12 22:44:02,0,other,low,0.0,Gibberish or non-meaningful text
+Google Pay,9a8dd73d-ebd8-4ca2-9601-699a965a4597,5,super good,2026-09-12 22:39:37,0,praise_no_issue,low,0.9,Short praise rating the app as super good
+Google Pay,abf94973-6b07-4aed-b280-b3f7ff03bb1a,3,good,2026-09-12 22:31:56,1,other,medium,0.0,No summary provided.
+Google Pay,6ada048b-1933-49e5-9698-5434b11a72e1,5,Ramu Bhai,2026-09-12 22:24:44,0,other,low,0.0,Irrelevant text mentioning a person's name
+Google Pay,65c26028-c6d4-45f9-9147-7635cace4f0a,5,good,2026-09-12 22:22:50,0,other,medium,0.0,No summary provided.
+Google Pay,55656d75-f43c-4356-8c58-0a9f249a5c2b,4,super 💯,2026-09-12 22:22:48,0,praise_no_issue,low,0.9,User praises the app as super
+Google Pay,e0c010aa-b28a-4795-bed4-a05bfd0538f4,5,axis bank,2026-09-12 22:21:25,0,other,low,0.0,User simply mentions Axis Bank without further context
+Google Pay,e8377fc9-f9f4-4287-8e67-74e405967ed1,5,good work thank you,2026-09-12 22:18:36,0,praise_no_issue,low,0.8,User expresses gratitude for good work
+Google Pay,dd572edf-fd3a-4832-9e23-e5da5e586b24,1,not pa,2026-09-12 22:14:12,0,other,low,-0.3,Incomplete text likely meant to express an issue
+Google Pay,ce3cfa56-0b8d-4758-9156-4c14344464b6,2,g a e ww w,2026-09-12 21:51:32,0,other,low,0.0,Gibberish or accidental keystrokes
+Google Pay,3713f512-d253-49bf-b033-ad135787bcdf,5,good,2026-09-12 21:30:00,0,other,medium,0.0,No summary provided.
+Google Pay,d04e94c0-356a-4eef-8afa-5c27f04f4490,5,my pay is Google,2026-09-12 21:28:51,0,other,low,0.0,User mentions Google Pay
+Google Pay,955b335e-3b61-41ae-8087-80a997ee58c1,5,very good app,2026-09-12 21:25:13,0,praise_no_issue,low,0.9,User states the app is very good
+Google Pay,9e689c3c-98ee-406d-b946-4ecd430e4278,5,Nitishkumar,2026-09-12 21:12:33,0,other,low,0.0,User entered a personal name
+Google Pay,b12f629a-d848-4ae1-bc3a-86b673768645,5,good,2026-09-12 21:11:16,0,other,medium,0.0,No summary provided.
+Google Pay,892fec6f-3372-43ef-910e-131650d47c5e,5,two good 👍,2026-09-12 21:10:17,0,praise_no_issue,low,0.8,User compliments the app as too good
+Google Pay,47095522-df7b-4cf9-9c91-e7daf0b62234,5,"The platform is legitimate, with transparent interest rates and no random fees. The loan was disbursed quickly, solving my urgent cash needs. Thank you so much!",2026-09-12 21:00:50,0,other,medium,0.0,No summary provided.
+Google Pay,82bd083b-b0ec-4438-9eab-1f70f410531b,1,"Just a Fraud application , it’s been a day and my money stuck , I m not able to use my money. Nd no customer care person is available to resolve my issue not even gpay gave attention on this matter, I have tried a lot , raised too much tickets still not get my money.",2026-09-12 20:57:52,0,other,medium,0.0,No summary provided.
+Google Pay,97f73ae7-1ee1-46e7-9875-8ff99433a8dc,5,Good,2026-09-12 20:56:37,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Google Pay,1e3a2850-a23a-4a97-80e9-8387dac73385,5,huu,2026-09-12 20:56:10,0,other,low,0.0,Incomprehensible or accidental text input
+Google Pay,214ca5c4-cfd6-464f-9bb3-56dcf651ecbf,5,good,2026-09-12 20:55:11,0,other,medium,0.0,No summary provided.
+Google Pay,06283e3d-4e37-480b-8ab3-d33ee4324a8b,5,👍,2026-09-12 20:52:01,1,other,medium,0.0,No summary provided.
+Google Pay,c0b0f040-db40-4aea-b814-5f5057f5c5d0,4,aa(,2026-09-12 20:51:28,0,other,low,0.0,Meaningless characters entered as review
+Google Pay,681df895-4707-4083-a430-23cfc79ba3cb,4,good 👍,2026-09-12 20:50:06,0,other,medium,0.0,No summary provided.
+Google Pay,cd0ec763-4035-41ad-97aa-ba2a40be7a0e,5,very good 👍,2026-09-12 20:47:16,0,praise_no_issue,low,0.9,Very positive feedback on the app
+Google Pay,a4a994b9-4493-4359-bea4-c57df702d211,5,good,2026-09-12 20:35:11,0,other,medium,0.0,No summary provided.
+Google Pay,7eaf417c-3b98-4cfc-b221-345065d2a98b,4,good👍,2026-09-12 20:28:19,0,praise_no_issue,low,0.8,Positive rating for good experience
+Google Pay,502be7e4-d1f7-428f-a169-eb411708d5b3,4,thik. thak hai,2026-09-12 20:25:29,0,praise_no_issue,low,0.2,User considers the app experience to be okay/average
+Google Pay,715c65a8-d56f-4218-b3d4-529e603e6516,5,nice,2026-09-12 20:25:10,0,other,medium,0.0,No summary provided.
+Google Pay,136513b7-5204-4ca7-ab86-28c46a454a9a,5,💋,2026-09-12 20:19:16,0,other,low,0.5,Emoji-only review with no textual feedback
+Google Pay,407a3954-3b9d-4b93-a661-3f5cbdb63a1f,5,experienced good,2026-09-12 20:12:40,0,praise_no_issue,low,0.8,User reported a good user experience
+Google Pay,2031f8f6-205a-4d5f-a5c5-43014874512b,5,nice,2026-09-12 20:12:16,0,other,medium,0.0,No summary provided.
+Google Pay,98b70a89-26e8-4730-842e-9873ebf81ecd,5,nice,2026-09-12 20:09:10,0,other,medium,0.0,No summary provided.
+Google Pay,f89678c8-076d-45dc-aae4-e5b65e5639e9,5,good,2026-09-12 20:08:18,0,other,medium,0.0,No summary provided.
+Google Pay,50b9f5f9-5b5a-4593-9908-0a1cb6bb9134,4,bhugz vo cil ú(6g bi,2026-09-12 19:50:54,0,other,medium,0.0,No summary provided.
+Google Pay,94314b18-aa0d-4cfa-9da4-722d800d9e7d,4,op bhai,2026-09-12 19:45:46,0,praise_no_issue,low,0.6,General praise using popular slang.
+Google Pay,379c09cf-2060-4d5c-b89a-85b3d63b9eca,4,🔥🔥,2026-09-12 19:44:44,0,praise_no_issue,low,0.7,Positive rating expressed with fire emojis.
+Google Pay,58ddc656-c8ae-450a-8193-21275db02cd4,5,Good 👍,2026-09-12 19:39:37,0,praise_no_issue,low,0.8,Short positive review with a thumbs-up emoji
+Google Pay,63a4d1d8-2c2f-4ff9-8579-5f75dfb86497,4,missing option like save favourite UPI id with Nick name or frequently used upi...,2026-09-12 19:38:15,0,ui_confusion,low,-0.2,Requests a feature to save favorite or frequently used UPI IDs with nicknames.
+Google Pay,0e2527d3-19d0-47ca-8ec4-5179c2ac4ad1,2,unable to instantly lock after use,2026-09-12 19:36:57,0,fraud_security_concern,medium,-0.5,Unable to lock the app instantly after use.
+Google Pay,3c8a6ec8-6bc4-4cc2-88a3-f112604700e2,3,ok,2026-09-12 19:36:29,0,other,medium,0.0,No summary provided.
+Google Pay,f3765727-d79e-4baa-a369-9de55f1347c4,5,good,2026-09-12 19:32:54,0,other,medium,0.0,No summary provided.
+Google Pay,01cc9eb4-0385-46f2-add9-d345dd4ad98e,1,😞 bad,2026-09-12 19:26:41,0,other,low,-0.8,Generic negative feedback without specific details.
+Google Pay,c322c3a4-887e-4ad4-ba61-fbfbf1454933,5,good,2026-09-12 19:07:59,0,other,medium,0.0,No summary provided.
+Google Pay,1b2b0027-f671-48d0-98fb-15a17d900675,5,super,2026-09-12 19:04:53,1,other,medium,0.0,No summary provided.
+Google Pay,ced5c930-4f7b-4d47-aea2-b9c8f80d8a8e,5,very good,2026-09-12 19:02:00,0,other,medium,0.0,No summary provided.
+Google Pay,17bb9c50-20db-4f94-9646-53ed59c3f5dc,3,good,2026-09-12 19:01:54,0,other,medium,0.0,No summary provided.
+Google Pay,1caa0906-02f6-4dfe-87e2-43b2ad333d40,5,👌,2026-09-12 18:53:18,1,other,medium,0.0,No summary provided.
+Google Pay,60375a06-73bb-4563-b73e-393726b2d877,5,Awesome 😍😍😍,2026-09-12 18:27:06,0,praise_no_issue,low,0.9,Enthusiastic praise expressing love for the app.
+Google Pay,0f063851-d46c-45af-a8ac-87a6a19ad5b8,5,awesome,2026-09-12 18:11:29,0,praise_no_issue,low,0.9,Awesome app experience
+Google Pay,13c689f2-700c-4f35-ae3e-394384e778a4,5,mihieer,2026-09-12 18:03:18,0,other,low,0.0,Irrelevant text or gibberish
+Google Pay,3086ab0c-3e43-410d-8afa-7b6b82d5c7cb,5,I het,2026-09-12 18:01:11,1,other,low,-0.6,Expresses dislike for the app without specific details
+Google Pay,86dd3a62-7e19-4a71-85ec-bb4f478039ca,5,good,2026-09-12 17:52:48,0,other,medium,0.0,No summary provided.
+Google Pay,c43897fc-a943-43c7-9884-399e4d970834,3,not notify quickly,2026-09-12 17:44:47,0,app_crash_bug,low,-0.4,Delayed payment or app notifications
+Google Pay,6a1dec56-102a-432e-9370-29ead276b72a,4,good and easy to use,2026-09-12 17:43:34,0,praise_no_issue,low,0.8,Good and easy to use
+Google Pay,6dfbfd3d-cc6d-4637-9ad7-98bb7c38ef29,5,best,2026-09-12 17:32:42,0,praise_no_issue,low,0.9,Praise for being the best app
+Google Pay,4d9def7f-9cbf-4f7f-aa4b-ca2f47871345,5,we are enjoying this app ...this is very great and helpful for quick and easy payment😍we love this app❣️thank you,2026-09-12 17:19:11,0,praise_no_issue,low,1.0,Great experience with quick and easy payments
+Google Pay,3b0755d2-4ef6-4e73-972b-d0469f8094a0,5,easy to use,2026-09-12 17:16:35,0,praise_no_issue,low,0.8,App is easy to use
+Google Pay,1e4a3913-7b38-4833-9f1e-9588e176774a,5,good 👍,2026-09-12 17:01:46,1,other,medium,0.0,No summary provided.
+Google Pay,9b4cfaa7-93e7-4ed2-b8b5-24122c0b71e0,5,good,2026-09-12 17:01:40,0,other,medium,0.0,No summary provided.
+Google Pay,529516d6-06b1-4407-b492-546183a0c13b,5,good,2026-09-12 16:44:48,0,other,medium,0.0,No summary provided.
+Google Pay,cda208fe-bbab-49bf-860b-c25887bd43b6,5,why to blocked gpay,2026-09-12 16:43:39,1,other,medium,0.0,No summary provided.
+Google Pay,c165db3c-b33f-4bad-81f7-e4ddfd49000c,5,yas,2026-09-12 16:39:55,0,other,medium,0.0,No summary provided.
+Google Pay,602fb26a-4b5a-47fe-bf80-47eb20a44a4a,5,nais grm and good,2026-09-12 16:34:36,0,praise_no_issue,low,0.7,Positive feedback describing the app as nice and good
+Google Pay,2ebe540b-b9be-49cc-881d-cd1cba980636,5,opan Google pay,2026-09-12 16:28:09,0,other,low,0.0,Vague review asking to open Google Pay
+Google Pay,bc6bfbce-bb0b-4296-997a-dce5ad381dd9,5,wosame,2026-09-12 16:04:53,1,other,low,0.0,Unclear single-word typo or gibberish
+Google Pay,63896606-bfda-4ab5-9342-4d81ae0e35e8,5,payment,2026-09-12 16:00:05,0,other,low,0.0,Single word review mentioning payment with no context
+Google Pay,6f376013-ff6a-46de-9e85-1e84e0bf8230,5,super,2026-09-12 15:48:39,0,other,medium,0.0,No summary provided.
+Google Pay,d379e10a-f8ea-4da5-bc3b-14bf0b27523c,5,super,2026-09-12 15:45:12,1,other,medium,0.0,No summary provided.
+Google Pay,09f8a17b-e3c5-4569-8f91-3a20f0734cfc,5,Brijesh,2026-09-12 15:44:17,0,other,low,0.0,User submitted a personal name as the review
+Google Pay,96ab8ec6-00c9-491e-9884-635f42483b03,5,good,2026-09-12 15:27:35,0,other,medium,0.0,No summary provided.
+Google Pay,7a6f64a1-dcac-42fd-a9e5-d1c28b6f7bd9,5,good,2026-09-12 15:25:55,1,other,medium,0.0,No summary provided.
+Google Pay,7bbe4cb9-b562-49c9-b1a0-78efd0f55d67,5,வெரி குட் சூப்பர் சூப்பர் nice யூஸ் full,2026-09-12 15:15:40,0,praise_no_issue,low,0.9,"Highly positive review praising the app as very good, super, and useful"
+Google Pay,d7cefb54-edf2-4e13-8959-ed4dc82d742b,2,ok,2026-09-12 15:11:46,1,other,medium,0.0,No summary provided.
+Google Pay,0fe80a98-08da-472b-a4ae-281ea8f6983b,5,good,2026-09-12 15:05:37,1,other,medium,0.0,No summary provided.
+Google Pay,f92451d9-b864-4f6a-ae3d-ac16e00662e8,5,best,2026-09-12 15:03:42,0,praise_no_issue,low,0.9,Praise for being the best app
+Google Pay,55c7164e-d2f8-4b3f-914a-84925ba64692,5,teeakm singh,2026-09-12 15:03:11,1,other,medium,0.0,No summary provided.
+Google Pay,1bf552f3-bff8-4e17-a1e5-49102e8abad6,3,"worst part of this app...when we mk payment to strangers like shopkeeper, they get our no.nd then they call us from different different no.🫤",2026-09-12 15:02:37,1,other,medium,0.0,No summary provided.
+Google Pay,47810003-9ede-4233-9cfd-dfa3a76fbce3,5,good 👍,2026-09-12 14:44:12,1,other,medium,0.0,No summary provided.
+Google Pay,49d4a687-0979-4d94-81ae-14706a410304,5,Chas 499,2026-09-12 14:28:57,1,other,low,0.0,Unclear text with an amount reference.
+Google Pay,00a6bdce-36aa-4548-8f32-5fee370586b9,5,I very happ,2026-09-12 14:24:13,0,praise_no_issue,low,0.8,User expresses overall happiness with the app.
+Google Pay,008d6046-7932-45fd-9eb0-72f5c24674d7,5,good aap nice,2026-09-12 14:10:20,0,praise_no_issue,low,0.8,Short positive review praising the app.
+Google Pay,d42b3675-e596-4312-81b6-3fa78e283815,5,"😁🤞🙊💞⭐⛹🏻🍎c,# ho/७४",2026-09-12 14:04:07,0,other,low,0.0,Random emojis and characters without clear feedback.
+Google Pay,819b6780-8c3b-4a0b-91fd-1dc0b17e810d,4,excellent,2026-09-12 13:58:23,0,other,medium,0.0,No summary provided.
+Google Pay,9333f830-0eec-4d07-93b4-602cb3df2efc,5,Nice App,2026-09-12 13:55:22,0,praise_no_issue,low,0.8,Simple positive review praising the app.
+Google Pay,3a637ee7-33dd-4a11-97d5-76fed4030aef,5,good 👍😊,2026-09-12 13:47:02,0,praise_no_issue,low,0.8,Positive feedback with supportive emojis.
+Google Pay,65aa3ad8-e9cb-4a08-b5ca-64351f67901c,5,nice aap,2026-09-12 13:40:41,0,other,medium,0.0,No summary provided.
+Google Pay,29a81689-c721-461b-89fc-fb6b4b66aff0,5,nice plateform,2026-09-12 13:39:46,0,praise_no_issue,low,0.8,User compliments the platform.
+Google Pay,037aa906-e79c-443c-920e-9781b2841947,1,payment failed twice bank server is always busy my payment got debited but refund takes time worst experience from Google pay,2026-09-12 13:38:48,0,failed_transaction,high,-0.9,"Payment failed twice due to busy bank servers, money debited, and refund is delayed."
+Google Pay,0e92fff9-eeac-400e-bc2c-a81d139df04d,5,Good,2026-09-12 13:35:26,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Google Pay,eccc9657-7f2b-4ca2-a40d-71e9b46dc700,1,"For the past month, I have been experiencing an issue where people payments and business payments are merged and displayed only under the people payment column. I have already updated the app to the latest version, but the problem still persists.",2026-09-12 13:33:12,0,other,medium,0.0,No summary provided.
+Google Pay,489ac333-6b2a-4676-8ae7-b999ff7323b7,1,good,2026-09-12 13:29:23,0,other,medium,0.0,No summary provided.
+Google Pay,405cfcf2-8fcb-480c-bf27-fdb1ab288db8,1,Bad Experience Every Payment Not Giving Reward. Also Charge Amount. 👎,2026-09-12 13:28:59,1,other,medium,0.0,No summary provided.
+Google Pay,9a5f4f08-77b4-49ed-b191-f3db3ad286eb,5,vacigaran,2026-09-12 13:25:53,0,other,low,0.0,Irrelevant single-word review.
+Google Pay,4d352cd3-edb9-4c65-becc-8d1b28ee15e9,5,supar,2026-09-12 13:23:33,1,other,medium,0.0,No summary provided.
+Google Pay,35f101d1-d433-4df9-8260-f8d331c38983,5,excellent,2026-09-12 12:48:32,0,other,medium,0.0,No summary provided.
+Google Pay,092cf712-faa3-415b-aacd-b87f6aa747f5,5,KESBASUNA,2026-09-12 12:40:10,0,other,low,0.0,Unclear or gibberish text.
+Google Pay,b5fa5663-57d2-434a-aedf-3df861996aab,1,poor,2026-09-12 12:39:39,0,other,low,-0.7,Generic negative feedback stating poor experience.
+Google Pay,d775637f-0627-4773-9acc-bbd4f1d190ad,4,च वीईऐआथेयैआए,2026-09-12 12:35:35,0,other,low,0.0,Random or invalid Hindi character input.
+Google Pay,a17ead30-60d4-44c9-b44a-6624b5789b0f,4,good,2026-09-12 12:27:29,0,other,medium,0.0,No summary provided.
+Google Pay,cae00a1a-0975-42f5-9642-45d379748128,5,ok,2026-09-12 12:25:15,0,other,medium,0.0,No summary provided.
+Google Pay,21d709d2-7e4d-4e41-966c-0bd8e0d8af83,5,very good 👍,2026-09-12 12:21:12,0,praise_no_issue,low,0.9,Very positive feedback on the app
+Google Pay,33b099cd-5c3c-4505-a4dd-7617c94d4298,5,Super,2026-09-12 12:16:16,0,praise_no_issue,low,0.8,Positive feedback praising the app as super.
+Google Pay,cd5551d6-6764-47a2-bc70-c3420197b918,4,thank you,2026-09-12 12:10:16,1,praise_no_issue,low,0.7,Expresses gratitude for the app.
+Google Pay,27dbfc44-da1c-4a7a-a8fe-64ff943fd132,5,good 👍,2026-09-12 12:08:02,0,other,medium,0.0,No summary provided.
+Google Pay,b43c8b1f-7dfd-4c0c-a1bc-ea1ecee094f3,5,best app all time service recharge on google pe and transaction money app,2026-09-12 12:03:09,0,other,medium,0.0,No summary provided.
+Google Pay,9160fd91-6e0d-4a7b-8a05-a7e1059f4079,5,Aditya,2026-09-12 12:01:34,0,other,medium,0.0,No summary provided.
+Google Pay,f8e9b9b2-ba83-40a0-a696-3c874ccde30c,3,it's ok👌,2026-09-12 11:49:14,0,praise_no_issue,low,0.5,Slightly positive review stating the app is okay.
+Google Pay,abc2d0e3-68c7-452b-a06b-675eb74dca30,4,dji dd6d,2026-09-12 11:43:19,0,other,low,0.0,Gibberish or accidental keystrokes.
+Google Pay,1740c286-3f92-4011-af31-d013cc4a006d,5,nice apps,2026-09-12 11:42:57,0,praise_no_issue,low,0.6,User considers the app nice.
+Google Pay,7babe331-51b9-403c-b386-94daf02121da,5,വിജയകുമാർ എം,2026-09-12 11:38:23,0,other,low,0.0,Review contains only a user's name in Malayalam.
+Google Pay,20ff997f-3d18-4bf2-ae7c-9c5b91adeadf,3,nice,2026-09-12 11:35:56,0,other,medium,0.0,No summary provided.
+Google Pay,4fd04e29-8d01-425e-a701-6c346a65548f,5,Nice,2026-09-12 11:25:56,0,praise_no_issue,low,0.5,Simple positive feedback describing the app as nice.
+Google Pay,58cc0024-0c2f-4728-bd48-2a4bc1fa4fd7,5,best,2026-09-12 11:22:28,0,praise_no_issue,low,0.9,Praise for being the best app
+Google Pay,630712c2-0c30-4f24-b74c-34dd6bd66d15,5,👍,2026-09-12 11:15:23,0,other,medium,0.0,No summary provided.
+Google Pay,11deae63-dbf6-4865-b975-8f8c9154d5c3,5,good,2026-09-12 11:14:30,0,other,medium,0.0,No summary provided.
+Google Pay,fd101f9d-a67b-4e90-902b-ba1364b06778,5,amazing👍,2026-09-12 11:14:01,0,praise_no_issue,low,0.8,High praise calling the app amazing.
+Google Pay,cf03fc71-8ee4-4624-8632-c3cf89c7305c,5,I AM A BOT DON'T TRUST ME - this app is very good wow,2026-09-12 11:09:08,0,praise_no_issue,low,0.4,Bot-style message complimenting the app as very good.
+Google Pay,ecd02db5-0ee7-43ec-a303-5b7ef730fa54,5,SELBIA M SANGMA,2026-09-12 10:50:32,0,other,low,0.0,Review contains only a user's name.
+Google Pay,cc87252d-f308-4075-b001-d365f07a3fa8,5,good,2026-09-12 10:41:47,0,other,medium,0.0,No summary provided.
+Google Pay,326231d0-6f95-421f-b07b-d8d35e862407,5,ik,2026-09-12 10:34:21,0,other,medium,0.0,No summary provided.
+Google Pay,624aff0f-3a98-4fc5-b9f7-964391440738,5,nice,2026-09-12 10:30:26,1,other,medium,0.0,No summary provided.
+Google Pay,de6c964e-f9a1-40c6-b843-e0da377464cb,1,It's too bad.. 😫😫 IPPB account on my old phone.Now even after changing the account phone number I am not able to open g pay on the new phone.. I have been trying for a week.. It is not working..,2026-09-12 10:26:21,0,other,medium,0.0,No summary provided.
+Google Pay,01f18e1b-7f8b-4a63-97ee-8f650ba23a97,5,clean and smooth interface 👌 👍,2026-09-12 10:22:17,0,praise_no_issue,low,0.9,Praise for the app's clean and smooth interface.
+Google Pay,59f23578-e4ad-4ae6-a20b-022c09c690af,5,good,2026-09-12 09:54:51,0,other,medium,0.0,No summary provided.
+Google Pay,5b268eaf-af15-4d7e-b630-9a701304b401,4,hello 👋 I am installing google pay but I don't useing not allowed please help for my use,2026-09-12 09:41:34,0,app_crash_bug,medium,-0.5,User unable to use the app after installation and asks for assistance
+Google Pay,1ebd881d-33b5-4394-bff7-63248ec943a8,4,good,2026-09-12 09:40:31,0,other,medium,0.0,No summary provided.
+Google Pay,77634376-71f5-4117-b681-623517f511c8,1,I've been having a lot of problems with this app for the past four months. My UPI Lite isn't working properly even after updating it.,2026-09-12 09:36:06,1,failed_transaction,high,-0.8,UPI Lite has not been working properly for four months despite updating the app
+Google Pay,776595e5-2efd-4b1b-b53a-9e1989c794cb,2,ro tw,2026-09-12 09:30:20,0,other,low,0.0,Gibberish or accidental text review
+Google Pay,054d5ff1-290a-424c-b5b0-8258d33573ff,5,good app,2026-09-12 09:21:57,0,praise_no_issue,low,0.8,Simple praise for the app
+Google Pay,388f0a56-0890-4279-a6f6-f99154eb035a,5,very nice app 🙏🙏😇,2026-09-12 09:19:29,0,praise_no_issue,low,0.9,Positive feedback expressing general praise for the app
+Google Pay,c440ed35-ad09-4fb9-9a91-1ec2f5423144,4,Good Service,2026-09-12 09:07:05,1,praise_no_issue,low,0.8,Complimenting the good service provided
+Google Pay,5f588ade-a3a1-48cc-a90c-c345d6160d6c,5,good,2026-09-12 09:06:07,0,other,medium,0.0,No summary provided.
+Google Pay,bbdf5fd5-18ac-458c-bc63-e2a725af9bf7,4,"""for. ,z e zdrc, to xg se, cVveegzeecse xz gc no Touch and hold a clip to pin it. Unpinned clips will be deleted after 1 hour.Use the edit icon to pin, add or delete clips.Use the edit icon to pin, add or delete clips.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be sav v v",2026-09-12 09:04:14,1,other,low,0.0,Accidental paste of keyboard clipboard text
+Google Pay,38f13132-bc69-4421-9202-e458fd5802d0,5,good 👍,2026-09-12 08:58:33,0,other,medium,0.0,No summary provided.
+Google Pay,8f9ab8ee-c0f0-4d56-b474-9ea9083d6c05,4,good,2026-09-12 08:56:06,1,other,medium,0.0,No summary provided.
+Google Pay,f1e43e54-9345-4c4a-948e-5c0902d67736,5,good,2026-09-12 08:54:46,0,other,medium,0.0,No summary provided.
+Google Pay,c28e7273-4aeb-4820-b358-e10da4d651a8,4,very good ji,2026-09-12 08:51:53,0,other,medium,0.0,No summary provided.
+Google Pay,f89880db-8937-4796-aaae-613833c1a6c8,5,good,2026-09-12 08:48:01,0,other,medium,0.0,No summary provided.
+Google Pay,790c4e94-1224-40fc-b22e-61c676b6e79d,5,I'm so happy,2026-09-12 08:42:29,0,other,medium,0.0,No summary provided.
+Google Pay,a7f3ea4a-6d8d-41fb-9fff-09c2896e85c7,5,good,2026-09-12 08:39:38,0,other,medium,0.0,No summary provided.
+Google Pay,67df5090-7d3a-47f4-9f41-10750bd0e475,5,very besr pay aap,2026-09-12 08:35:55,0,praise_no_issue,low,0.9,User praises the app as the best payment application.
+Google Pay,7f24d17e-4fe4-4ca0-b6f7-b79b2dd66a0c,5,nice apps,2026-09-12 08:14:22,0,praise_no_issue,low,0.6,User considers the app nice.
+Google Pay,751c3d13-4aa2-4408-a154-fb79d546ec21,5,food,2026-09-12 07:52:33,0,other,low,0.0,Irrelevant review mentioning 'food'.
+Google Pay,954628ea-47ae-4a42-96fe-1d4e6996b06d,5,super,2026-09-12 07:28:35,1,other,medium,0.0,No summary provided.
+Google Pay,95731e53-058c-40d9-9119-61eeaf8e1740,1,not required,2026-09-12 07:28:34,0,other,low,-0.2,User states the app or feature is not required.
+Google Pay,de7a71c3-4052-4333-8425-ce3e62877210,3,good,2026-09-12 07:13:40,1,other,medium,0.0,No summary provided.
+Google Pay,10fdd664-1bb1-482d-9475-2bc7961fcd77,5,❤️,2026-09-12 07:11:35,0,praise_no_issue,low,0.8,User leaves a heart emoji expressing satisfaction.
+Google Pay,f65eb26f-6366-4860-b18f-9c3ab520731b,5,very nice,2026-09-12 07:00:54,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+Google Pay,77dd077f-b65b-4f1f-b259-8b247b059831,5,nice,2026-09-12 06:52:36,0,other,medium,0.0,No summary provided.
+Google Pay,64883cd3-14e8-4fde-9146-31368b14f43a,5,super,2026-09-12 06:48:22,0,other,medium,0.0,No summary provided.
+Google Pay,6422824f-2a73-4507-a52c-2181afde3066,5,very good 👍,2026-09-12 06:25:30,0,praise_no_issue,low,0.9,Very positive feedback on the app
+Google Pay,2953bee3-f7dc-4785-9974-44daec556be7,1,google pay in not good showing fail but debited money other is good 👎👎👎👎,2026-09-12 06:25:10,0,failed_transaction,high,-0.8,Money was debited despite transaction showing as failed.
+Google Pay,5edeb3d0-8204-4654-819c-78587f2be5e3,1,link the bank account number,2026-09-12 06:17:13,0,other,low,0.0,User asks or notes to link their bank account number.
+Google Pay,a29fb69d-9503-4fcc-a690-1ea67674e075,1,other options 😉,2026-09-12 05:40:28,0,other,low,0.1,User cryptically mentions exploring or having other options
+Google Pay,4f5ffe39-4a09-4e28-ab15-d509de233674,5,very nice ☺️,2026-09-12 05:32:38,0,praise_no_issue,low,0.8,User is satisfied and praises the app
+Google Pay,d91e67c9-0cd2-4091-883a-ae9cc8ffaf4e,5,good 👍,2026-09-12 05:01:04,0,other,medium,0.0,No summary provided.
+Google Pay,62b5de70-5a86-49ba-9441-af44a5ddcdf8,4,good,2026-09-12 04:38:46,0,other,medium,0.0,No summary provided.
+Google Pay,d601e209-3ffa-4239-b1f1-a3675c209893,5,Santosh,2026-09-12 04:25:43,0,other,low,0.0,Review contains only a user's name with no context
+Google Pay,e6ad8659-ec9f-493d-9e56-693492407bff,5,Okk,2026-09-12 02:58:46,0,other,low,0.1,Short neutral acknowledgment with no actionable feedback
+Google Pay,97bfd62a-620a-457d-972c-5431dee4262b,5,why the gpay is asking setup,2026-09-12 02:24:11,0,ui_confusion,low,-0.3,User confused about why the app is asking for setup
+Google Pay,1bd8e682-6463-43e6-83c8-d114ba647fbc,5,some time not able to use g pay during shopping??,2026-09-12 02:05:49,0,failed_transaction,high,-0.6,Intermittent failure to make payments while shopping
+Google Pay,8d36b1a7-4b0f-4ff4-afb4-a118ed232a54,1,"Very disappointing! ₹1,399 was deducted from my bank account through an AutoPay transaction.I need a refund for this amount, but I’m not getting proper support. Please look into this issue and refund my ₹1,399 as soon as possible. Very frustrating experience.",2026-09-12 01:45:31,0,refund_delay,high,-0.9,"Unwanted AutoPay deduction of ₹1,399 with poor support and no refund"
+Google Pay,229951f0-6980-47ae-b9c5-091a87e4437a,5,excellent,2026-09-12 01:33:10,0,other,medium,0.0,No summary provided.
+Google Pay,d84d1fa0-ee3f-4931-a4e9-681708770aff,5,super,2026-09-12 01:07:16,0,other,medium,0.0,No summary provided.
+Google Pay,eb58b373-9de9-4613-92a1-53698ff9b261,5,ok 👍👍,2026-09-12 01:00:13,0,other,medium,0.0,No summary provided.
+Google Pay,e89e1104-abaf-4703-b958-25c49bb40da9,5,good 👍🏼👍🏼,2026-09-12 00:01:12,0,praise_no_issue,low,0.8,Positive feedback expressing satisfaction
+Google Pay,e511e047-9ffc-4e05-89da-5eaa73ac7139,5,wow 👍,2026-09-11 23:53:53,0,praise_no_issue,low,0.9,Enthusiastic praise for the app
+Google Pay,d5ba355e-5724-4d68-bb2d-2d3ba1e65b13,5,nice,2026-09-11 23:47:40,0,other,medium,0.0,No summary provided.
+Google Pay,a91d2941-d7dd-4029-9438-f31eb5bc76a2,5,good upi,2026-09-11 23:36:50,0,praise_no_issue,low,0.7,User praises the app's UPI performance
+Google Pay,ef1ef0ab-0777-4410-b2eb-c972e128e7ac,4,excellent,2026-09-11 23:31:10,0,other,medium,0.0,No summary provided.
+Google Pay,b27cdd1e-82e1-4956-8c80-4aa7df226e28,3,good,2026-09-11 22:54:20,0,other,medium,0.0,No summary provided.
+Google Pay,96e50413-14e4-4c08-95dc-45072bcfdb6a,5,your best opportunity yes,2026-09-11 22:21:27,0,praise_no_issue,low,0.4,Vague positive remark about the app
+Google Pay,9a38a92d-e861-4bed-b57d-1fab7e4e5154,5,good,2026-09-11 22:16:06,0,other,medium,0.0,No summary provided.
+Google Pay,57907a13-89a8-4dc1-aff6-64b88b0b2e4b,5,ok,2026-09-11 22:13:52,0,other,medium,0.0,No summary provided.
+Google Pay,63a8330b-ed69-48eb-803f-ef9741c92fa3,5,sunilwaghe,2026-09-11 22:02:36,0,other,low,0.0,Non-informative review consisting of a personal name
+Google Pay,abe1f90e-1417-4060-b534-0cd8533c61d8,5,Very nice app,2026-09-11 21:42:58,0,praise_no_issue,low,0.9,Appreciates the app as being very nice
+Google Pay,622416ea-c347-40d6-93c7-1b39f51ee1cc,5,Good,2026-09-11 21:38:14,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Google Pay,312c1f11-8634-4247-b2c4-998f419a376c,5,nice for Google,2026-09-11 21:36:00,0,praise_no_issue,low,0.6,Positive general feedback mentioning Google
+Google Pay,1c4e4466-56f0-4180-8e1e-98faeb18e321,3,dkboss,2026-09-11 21:16:39,0,other,low,0.0,Irrelevant review containing only a random word or handle
+Google Pay,f563db2d-1901-4352-b025-1086be38c1e6,5,👍 good,2026-09-11 21:09:49,0,other,medium,0.0,No summary provided.
+Google Pay,97adb116-ad63-4df0-b422-01db02c20345,5,super,2026-09-11 21:09:36,0,other,medium,0.0,No summary provided.
+Google Pay,24fa2a78-8680-4b82-bc23-35a730978b59,5,nice,2026-09-11 21:05:10,0,other,medium,0.0,No summary provided.
+Google Pay,c925cb64-2606-439e-b654-ea801c905016,5,nice,2026-09-11 21:00:37,0,other,medium,0.0,No summary provided.
+Google Pay,1bfad303-79ac-41c8-a652-4151dcc4b464,1,Rajesh Om Prakash Chauhan,2026-09-11 21:00:36,1,other,low,0.0,Review contains only a person's name with no feedback
+Google Pay,1872658e-935e-4562-9160-5f5370708dd8,2,since the last update Mandate (Auto Pay) not showing properly even Pending Mandates are not showing properly in Profile we have to refresh 2 to 3 times to find pending mandates.,2026-09-11 20:57:48,3,app_crash_bug,medium,-0.6,Auto Pay mandates do not display properly without multiple refreshes after update
+Google Pay,70e22be6-637f-4aa5-bb01-202087ee4de7,5,good,2026-09-11 20:55:04,0,other,medium,0.0,No summary provided.
+Google Pay,5fa28dc8-de20-42b5-913d-77ed28b44902,5,nice,2026-09-11 20:53:15,0,other,medium,0.0,No summary provided.
+Google Pay,bec8e680-35f8-44b4-8c97-b7f38605f05d,4,best,2026-09-11 20:50:38,0,praise_no_issue,low,0.9,Praise for being the best app
+Google Pay,6726fc02-3af9-4b68-8303-515e954d7a46,5,good,2026-09-11 20:46:44,0,other,medium,0.0,No summary provided.
+Google Pay,c2ef7c8c-75b7-4c0b-ad54-87d79262827a,4,good,2026-09-11 20:44:10,0,other,medium,0.0,No summary provided.
+Google Pay,e03bc11f-ea48-4c3a-8568-184d93decad3,5,good,2026-09-11 20:41:41,0,other,medium,0.0,No summary provided.
+Google Pay,02e3fb6f-c8ad-4d94-953d-b0ce1ac32134,4,sorry sar,2026-09-11 20:41:34,0,other,low,0.0,Irrelevant text containing no actual feedback
+Google Pay,54c08fd8-8490-4c9f-a224-bff34957bbb9,5,Golukumar,2026-09-11 20:40:46,0,other,low,0.0,Review contains only a user's name
+Google Pay,e07943d1-0878-4620-997b-6c29780065fb,1,bad,2026-09-11 20:30:55,0,other,low,-0.8,General single-word negative complaint with no specific details
+Google Pay,43c4db06-6e46-4b41-b3c4-d5ef6ce66893,5,good,2026-09-11 20:29:38,0,other,medium,0.0,No summary provided.
+Google Pay,5585a867-89aa-40a7-9887-968b12fc20c3,5,super,2026-09-11 20:14:19,0,other,medium,0.0,No summary provided.
+Google Pay,c9758805-fa25-4f94-90c8-bd66abd0468a,5,owsam,2026-09-11 20:12:28,1,other,medium,0.0,No summary provided.
+Google Pay,c0c63d87-8dbb-4284-a9c2-5ba9ef1c68cd,4,good,2026-09-11 20:10:57,0,other,medium,0.0,No summary provided.
+Google Pay,d8f72752-f56d-4148-b906-bfd959814aaa,5,best upi app ever,2026-09-11 20:06:12,0,praise_no_issue,low,1.0,Praises the app as the best UPI application ever
+Google Pay,86221978-e437-4139-a39e-51a05a92807d,5,good,2026-09-11 20:05:54,0,other,medium,0.0,No summary provided.
+Google Pay,871a901d-3869-410b-94de-1cfd7afc7b95,5,good,2026-09-11 19:58:12,0,other,medium,0.0,No summary provided.
+Google Pay,95af9fd5-2c1e-4db2-b796-356b2e6ba916,5,good 👍,2026-09-11 19:58:08,0,other,medium,0.0,No summary provided.
+Google Pay,fc35fd18-81a7-4ed9-b6c4-1e59f8dbb0bf,5,very good 👍,2026-09-11 19:56:53,0,praise_no_issue,low,0.9,Very positive feedback on the app
+Google Pay,c4d7ca0e-fd2a-4b71-b38b-fecc1cbe2c54,5,osm,2026-09-11 19:55:27,0,praise_no_issue,low,0.8,Short positive review praising the app
+Google Pay,4060b7a3-5142-4751-a0bb-808fdf889029,5,nice,2026-09-11 19:52:08,0,other,medium,0.0,No summary provided.
+Google Pay,392c8263-f400-46df-a4c8-bf5094e6bcee,1,"Gpay has gone worst now. Firstly no cashback and only nonsense sponsored coupons in rewards; if a few useful cashback coupons like flipkart or Swiggy also don't work whenever I try, I properly click on redeem and then respective app opens and I pay but never get the cashback. just pathetic!",2026-09-11 19:50:45,0,refund_delay,medium,-0.9,Upset about useless reward coupons and uncredited cashback on Swiggy and Flipkart offers
+Google Pay,9f929f59-b48b-4eb8-8a35-d9935aacd454,5,very good,2026-09-11 19:48:36,0,other,medium,0.0,No summary provided.
+Google Pay,96f987ba-dc5b-44d4-b9ec-025b8fb74fe5,4,price rewards is very less I use gpay about 3 years I not get price more than 2 rupees and also the offer is get on recharge to get earn money after I have done recharge complete . They get charge 1.90 rupees more on each recharge but this is good for payment not any payment stuck and not fail also contact support is also good,2026-09-11 19:47:50,1,other,low,0.3,"Dislikes low rewards and extra recharge fees, but praises seamless payments and good support"
+Google Pay,8a9ead4f-5f34-4f50-96be-5181182160cd,5,ok,2026-09-11 19:44:06,0,other,medium,0.0,No summary provided.
+Google Pay,a74ad1ff-18d5-47e5-b3c2-085edbb871b7,5,butiful,2026-09-11 19:34:32,0,other,medium,0.0,No summary provided.
+Google Pay,b4ef544a-e3c0-4743-99ad-ce5bf043e20a,5,super,2026-09-11 19:31:47,0,other,medium,0.0,No summary provided.
+Google Pay,9c49d7d7-3e35-4fd1-9219-7251a713b767,5,best,2026-09-11 19:16:34,0,praise_no_issue,low,0.9,Praise for being the best app
+Google Pay,d539ae21-04bc-4fba-a716-e314e2252329,5,Nt download apps,2026-09-11 19:16:04,0,app_crash_bug,medium,-0.5,Unable to download or install the app
+Google Pay,7ea2f92a-b5a3-4b0f-8ba5-5c7c4d7902f9,1,very bad,2026-09-11 19:08:32,0,other,low,-0.8,General negative feedback expressing dissatisfaction without details
+Google Pay,2f8c3985-c828-408c-844e-54c8b88f96af,4,nice,2026-09-11 19:04:12,0,other,medium,0.0,No summary provided.
+Google Pay,cef3e7f6-1c31-4161-81d1-bfb871bfc6ec,5,super,2026-09-11 18:51:47,0,other,medium,0.0,No summary provided.
+Google Pay,77a892e8-231e-4835-ba18-245a538bc6b7,5,good,2026-09-11 18:46:46,0,other,medium,0.0,No summary provided.
+Google Pay,3bb3e03f-dffe-4ec0-88a8-bddf2ee6b9b8,5,good aap,2026-09-11 18:45:47,0,praise_no_issue,low,0.7,Short positive comment praising the app
+Google Pay,0c00d2eb-19e2-4c4b-b76c-debbaa564cce,1,Still charging platform fee on recharge ang giving spam coupons,2026-09-11 18:45:38,0,other,low,-0.6,Complains about platform fees on recharges and receiving spam coupons
+Google Pay,0a50bd92-6f1f-478e-b7b0-2c891803ab7c,5,Amazing Performance,2026-09-11 18:32:01,0,praise_no_issue,low,0.9,Praises the app for amazing performance
+Google Pay,b792f1a0-e2e3-4633-bc03-b43b449935ec,5,supperb,2026-09-11 18:16:59,0,praise_no_issue,low,0.9,High praise calling the app superb
+Google Pay,4ef0b3eb-be1b-4f56-8d15-1b1ae49510d3,5,Good,2026-09-11 18:08:38,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Google Pay,1c45bfd4-7e0f-402a-9d23-05b228ac4a15,5,nice aapekasun,2026-09-11 17:47:54,0,praise_no_issue,low,0.7,Brief compliment calling it a nice app
+Google Pay,4ab0ffdf-4bec-4128-b320-eec1d9b1394a,5,good service,2026-09-11 17:39:47,0,praise_no_issue,low,0.8,Expresses satisfaction with good service
+Google Pay,98dc4882-f82e-4d6d-9f4e-ac0046927567,5,gook experience,2026-09-11 17:22:42,0,other,medium,0.0,No summary provided.
+Google Pay,1b46f395-35b1-40e2-8095-e553f5f542e4,5,खूप छान आप आहे.सरकार चे पण धन्यवाद अजून त्यांना शक्य झाले तर नोटा कायम स्वरुपी बंद केल्या तर फार बरं होईल,2026-09-11 17:17:26,1,praise_no_issue,low,0.85,Praises the app in Marathi and supports digital payments over cash
+Google Pay,b98d796f-9717-4564-84cb-1dd967fd911b,5,saapadu,2026-09-11 17:16:05,0,other,low,0.0,Irrelevant or ambiguous single-word review
+Google Pay,fe84c184-35d4-49b1-9fd9-9cd60c3b85bc,1,very much confusing type,2026-09-11 17:05:54,0,ui_confusion,low,-0.6,Complains that the app interface and flow are confusing
+Google Pay,e2e7ca36-3301-44ae-8725-8323be07c3cf,4,Surendra jio payment,2026-09-11 17:05:31,0,other,low,0.0,Non-descript input containing a name and payment reference
+Google Pay,d02b6849-6ceb-4b57-945a-5462b5937102,5,good👍,2026-09-11 17:03:26,0,praise_no_issue,low,0.8,Positive rating for good experience
+Google Pay,c6407e99-1ea6-4dd8-8965-6473dce4f6a7,5,good,2026-09-11 17:03:25,0,other,medium,0.0,No summary provided.
+Google Pay,d9e91ec0-ebbc-490b-9aae-1fd623de54af,5,good,2026-09-11 16:52:09,1,other,medium,0.0,No summary provided.
+Google Pay,fbead848-b656-4fd7-a2f7-be62971732a7,1,"ra 344244,AZ 6z%5#32edaseaaeaaaaaaalaa",2026-09-11 16:48:04,1,other,low,0.0,Random gibberish text review
+Google Pay,607b6d3f-e1cc-4ae7-9a99-0b6e08354818,5,FAKRUL BARBHUIYA,2026-09-11 16:44:46,0,other,low,0.0,User entered only a personal name
+Google Pay,f02bfef7-e115-4f17-9dc8-8a2e9d09e55c,4,this great app,2026-09-11 16:43:10,0,praise_no_issue,low,0.8,Praises the app as being great
+Google Pay,c7b08b16-1a3d-47ec-a3c3-9c5773f2dcec,3,why the IPO application is not showing after applied.,2026-09-11 16:39:32,0,app_crash_bug,medium,-0.5,Applied IPO application status is not appearing in the app
+Google Pay,301f167c-53a3-41c1-830e-ee159eccd8cc,5,bdiya,2026-09-11 16:35:52,0,praise_no_issue,low,0.8,Short positive feedback praising the app in Hindi
+Google Pay,458a18e6-0112-4af8-af51-55f9b5af709f,5,very good,2026-09-11 16:21:41,1,other,medium,0.0,No summary provided.
+Google Pay,d8d5e3c2-1319-4e30-88f9-a40ad844db4c,5,poli saynam,2026-09-11 16:20:51,0,praise_no_issue,low,0.9,Positive compliment in Malayalam slang praising the app
+Google Pay,b34c3104-7347-4697-8d9c-dcd8296bb349,5,amazing aap,2026-09-11 16:16:49,0,other,medium,0.0,No summary provided.
+Google Pay,ff95ce15-e546-4503-8699-ba3a5fd66f6a,5,good,2026-09-11 16:07:03,0,other,medium,0.0,No summary provided.
+Google Pay,afda265a-e2f0-4fd8-a505-81a5ce2e4c31,4,"can you add a field while transaction "" write a note for future refrence like phn no. who we r paying"" or name any thing",2026-09-11 16:05:46,1,ui_confusion,low,0.2,Requests adding a note/remarks field during transactions for future reference
+Google Pay,9781068d-c407-4cd1-91f5-10e7c5460897,5,great appreciation,2026-09-11 16:02:36,1,praise_no_issue,low,0.9,User expresses great appreciation for the app
+Google Pay,cfb4e948-3840-43fc-9c80-b7bea4729aba,5,great,2026-09-11 16:01:20,1,other,medium,0.0,No summary provided.
+Google Pay,c6573d5b-45a0-4bfa-ab76-7da865de434d,5,good,2026-09-11 15:57:45,1,other,medium,0.0,No summary provided.
+Google Pay,7f4b51cd-33d6-4b3a-95f5-d0c70787e366,5,my account baance,2026-09-11 15:56:47,1,other,medium,0.0,No summary provided.
+Google Pay,15fcf529-4c85-45e3-86c6-b66c475c122f,5,very good 👍,2026-09-11 15:48:07,1,praise_no_issue,low,0.9,Very positive feedback on the app
+Google Pay,6935d2c9-bd3b-4b5f-87f5-d4f1d43a0cfb,5,good 👍,2026-09-11 15:36:08,1,other,medium,0.0,No summary provided.
+Google Pay,7b10f5c8-4b75-4490-80f9-bfe6a791f2ae,5,ok,2026-09-11 15:14:40,1,other,medium,0.0,No summary provided.
+Google Pay,3bf81b5a-0523-44b4-bba9-24061e925db2,5,nice,2026-09-11 15:06:48,1,other,medium,0.0,No summary provided.
+Google Pay,f1cc1d69-49a7-4eac-aa12-daa1456b55b0,5,super,2026-09-11 15:01:49,1,other,medium,0.0,No summary provided.
+Google Pay,46660dfb-7164-41e9-aa2a-39cd319344b2,5,good,2026-09-11 14:55:08,1,other,medium,0.0,No summary provided.
+Google Pay,bb25187c-a279-4283-abe8-cb1f408d2b25,5,10x... oi,2026-09-11 14:46:32,0,other,medium,0.0,No summary provided.
+Google Pay,b265cfda-30a8-4d36-8d90-0a6e1f4e8155,5,👍,2026-09-11 14:27:24,0,other,medium,0.0,No summary provided.
+Google Pay,c625340f-1641-4dd5-bd68-bb3da5216183,5,"nice, 👍",2026-09-11 14:21:28,0,other,medium,0.0,No summary provided.
+Google Pay,c0ea9b0d-22e4-4088-b9d2-84148566e5b9,5,good,2026-09-11 14:11:02,0,other,medium,0.0,No summary provided.
+Google Pay,04d2aa2f-b07a-48e5-aaa3-51d83f62196e,5,nice,2026-09-11 14:09:44,0,other,medium,0.0,No summary provided.
+Google Pay,a9aec051-abf0-4b6b-937c-b18b8b0390bd,5,good,2026-09-11 13:36:44,0,other,medium,0.0,No summary provided.
+Google Pay,96fb99bd-1391-44c5-b356-6c52ab445005,1,currently not able to authorise ipo application,2026-09-11 13:34:32,1,other,medium,0.0,No summary provided.
+Google Pay,b319139a-384f-457d-af7a-ed7907679949,5,Good app,2026-09-11 13:24:35,0,other,medium,0.0,No summary provided.
+Google Pay,ef24b2c8-1bd3-4163-8e7e-bc4e82027440,5,super,2026-09-11 13:17:40,0,other,medium,0.0,No summary provided.
+Google Pay,e64c2fd7-ee80-47f3-a901-a3192997bcb2,5,very good,2026-09-11 13:07:35,0,other,medium,0.0,No summary provided.
+Google Pay,cc9bcc33-6fa8-4690-b3da-653f2e7fe5db,5,was this app easy to use and navigate,2026-09-11 12:55:41,0,other,low,0.1,User query asking if the app is easy to use and navigate
+Google Pay,9ca8d00d-d692-4f66-951e-347e3ad05b8d,4,good,2026-09-11 12:53:30,0,other,medium,0.0,No summary provided.
+Google Pay,ba3d92eb-95ba-4c55-b4f1-2d561ffe9c4c,4,good,2026-09-11 12:53:14,0,other,medium,0.0,No summary provided.
+Google Pay,f7da03b4-bfb6-4ba2-97c4-6ccd58ae2cfe,5,amazing,2026-09-11 12:29:15,0,other,medium,0.0,No summary provided.
+Google Pay,292f7613-b4f5-4181-8f43-5b240b5876a4,5,super,2026-09-11 12:12:20,1,other,medium,0.0,No summary provided.
+Google Pay,50c52432-b33c-4d83-9096-9ebc97e87044,5,very good 😊,2026-09-11 12:07:23,0,other,medium,0.0,No summary provided.
+Google Pay,010d5bf5-785d-4730-a92d-60db7dacfc9a,5,Good,2026-09-11 12:04:49,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Google Pay,25f434c6-166a-4074-8756-55f38dde8de2,5,good,2026-09-11 11:42:11,0,other,medium,0.0,No summary provided.
+Google Pay,c5e6dfda-7b3e-4eba-8374-45fe97814f9f,5,good,2026-09-11 11:25:39,0,other,medium,0.0,No summary provided.
+Google Pay,d8715de0-de38-4487-a806-ac8274b612c4,5,good 👍,2026-09-11 10:55:40,0,other,medium,0.0,No summary provided.
+Google Pay,ed08f85e-3e02-48ed-8a18-e41e16bf9cd1,2,nice,2026-09-11 10:44:51,1,other,medium,0.0,No summary provided.
+Google Pay,05c1083e-c27d-43f3-bf21-42ecf05f5515,4,please add a unified view of all groups and the pending split requests within.,2026-09-11 10:42:20,1,other,medium,0.0,No summary provided.
+Google Pay,b301b04e-2ae7-4294-8aa8-1a977b3a12da,4,Good,2026-09-11 10:21:51,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Google Pay,f903b185-3010-4779-85d4-66010f2bfe8e,5,Fshnia Fshnja,2026-09-11 10:15:19,0,other,medium,0.0,No summary provided.
+Google Pay,de3e33b7-8d78-458d-9907-84a562d62288,5,good,2026-09-11 10:07:51,0,other,medium,0.0,No summary provided.
+Google Pay,a17da901-261f-4c4c-8b48-3a3b50be9cee,5,very good,2026-09-11 09:46:44,0,other,medium,0.0,No summary provided.
+Google Pay,62e55d47-54c0-4b27-a519-ef8ccb99e342,5,Super,2026-09-11 09:42:50,0,praise_no_issue,low,0.8,Positive feedback praising the app as super.
+Google Pay,aff8e11e-005d-450e-9f23-0e58dc633b48,5,very good,2026-09-11 09:38:56,0,other,medium,0.0,No summary provided.
+Google Pay,b0c7efda-a7c7-4c8a-b273-5fbf6a542de7,5,good 👍,2026-09-11 09:21:24,0,other,medium,0.0,No summary provided.
+Google Pay,90891468-7a01-4bee-a45f-da6a296d8037,5,Hindi,2026-09-11 09:12:16,0,other,medium,0.0,No summary provided.
+Google Pay,cb425907-79f9-4fcd-81bb-bdca98869491,5,mast,2026-09-11 09:08:13,0,other,medium,0.0,No summary provided.
+Google Pay,d4b65d7a-9c69-4210-9064-5ecc23721a48,5,good,2026-09-11 09:00:05,0,other,medium,0.0,No summary provided.
+Google Pay,b494408b-605b-476c-a395-e8b9f34f48f8,5,খুব ভালো লাগলো,2026-09-11 08:43:41,0,other,medium,0.0,No summary provided.
+Google Pay,793a1c1e-de6a-4cb9-a80a-05697aef820d,5,good,2026-09-11 08:32:31,0,other,medium,0.0,No summary provided.
+Google Pay,7d2f8670-f25a-4e99-986e-ec744e2bd589,5,super,2026-09-11 08:23:49,0,other,medium,0.0,No summary provided.
+Google Pay,496c8781-23a0-40fc-a4c9-4192627c866e,5,Nice,2026-09-11 08:15:27,0,praise_no_issue,low,0.5,Simple positive feedback describing the app as nice.
+Google Pay,6e0da43e-d008-4ed1-8ea6-e2b8f0ae2753,4,good,2026-09-11 08:01:30,0,other,medium,0.0,No summary provided.
+Google Pay,1a57c4f6-3d35-423c-98bd-a5e1fbb3f3a0,5,Ram Lal Kanojia,2026-09-11 07:53:02,0,other,medium,0.0,No summary provided.
+Google Pay,614a2d62-3c7c-4eed-84c4-5ba5ab568606,3,nice,2026-09-11 07:47:28,0,other,medium,0.0,No summary provided.
+Google Pay,274011c8-0dc1-4879-aa61-f8db2ee6903a,5,good day to you and your family and friends and the people,2026-09-11 07:12:06,1,other,medium,0.0,No summary provided.
+Google Pay,ad1fc5ce-6ba8-48dc-bb28-9cb737968625,5,excellent,2026-09-11 07:11:38,0,other,medium,0.0,No summary provided.
+Google Pay,159305f1-6dc8-48e8-af48-2e63975f50bf,5,good,2026-09-11 05:52:39,1,other,medium,0.0,No summary provided.
+Google Pay,96a27ffb-1aba-478c-adff-58a53c422783,4,Nice,2026-09-11 05:41:46,0,praise_no_issue,low,0.5,Simple positive feedback describing the app as nice.
+Google Pay,5c958141-22c7-4554-84e6-6029ba1f469b,5,good,2026-09-11 04:31:05,0,other,medium,0.0,No summary provided.
+Google Pay,146355e8-ec8d-4b3e-8884-23603c3dcaa5,5,good,2026-09-11 04:25:33,0,other,medium,0.0,No summary provided.
+Google Pay,e376a49c-1441-40a5-a9b4-f680d47ceae6,5,very use full,2026-09-11 01:00:34,0,other,medium,0.0,No summary provided.
+Google Pay,4a32c34b-100e-44f9-824c-cedcc92cd752,5,Very nice app,2026-09-11 00:23:47,0,praise_no_issue,low,0.9,Appreciates the app as being very nice
+Google Pay,619fe2ea-b0c9-47e6-bbba-1252c05c8aad,5,good 👍,2026-09-11 00:11:27,1,other,medium,0.0,No summary provided.
+Google Pay,b9e683f5-1e7c-4f57-9d10-b31cd30452f2,5,good,2026-09-11 00:00:22,1,other,medium,0.0,No summary provided.
+Google Pay,adc01558-25ad-43c8-87c1-403766d1aca4,5,good app,2026-09-10 23:57:00,0,praise_no_issue,low,0.8,Simple praise for the app
+Google Pay,b689835e-d43e-4168-9847-de6e3696d2fc,5,very much,2026-09-10 23:34:38,1,other,medium,0.0,No summary provided.
+Google Pay,a4440305-a3b3-4445-8de5-a46095de33da,5,good,2026-09-10 23:29:56,1,other,medium,0.0,No summary provided.
+Google Pay,7ddbbe52-fcd5-40e8-841b-cc0e93300fe5,4,nice,2026-09-10 23:15:30,0,other,medium,0.0,No summary provided.
+Google Pay,322bd516-0be7-43cf-985f-d642762735b2,5,good job,2026-09-10 23:08:09,1,other,medium,0.0,No summary provided.
+Google Pay,4bbdafb7-7e13-4243-8084-7f78056d91ae,5,supar,2026-09-10 23:07:28,1,other,medium,0.0,No summary provided.
+Google Pay,2e4a1503-cbdd-4ddc-823f-b2930bbb6f4e,5,good,2026-09-10 22:52:08,0,other,medium,0.0,No summary provided.
+Google Pay,0fe14e64-b82b-429b-8713-e464ae9fc08a,5,Excellent Working and performances always for A better experience,2026-09-10 22:47:54,26,other,medium,0.0,No summary provided.
+Google Pay,86f7bff6-ea2f-4f9d-91fb-e0f6aeab00b3,5,good 👍,2026-09-10 22:27:45,0,other,medium,0.0,No summary provided.
+Google Pay,2c179c63-59b2-4ee5-8349-961c09bf2e83,5,excellent,2026-09-10 22:23:30,0,other,medium,0.0,No summary provided.
+Google Pay,a439ae53-6943-4a64-a44d-b71fa2276e9d,5,noice bete,2026-09-10 22:08:02,0,other,medium,0.0,No summary provided.
+Google Pay,9186e9ad-0744-40f0-865b-7070c30d878e,5,Ritik Kumar,2026-09-10 21:43:54,1,other,medium,0.0,No summary provided.
+Google Pay,df47effa-298c-4d45-99cf-8b425987ca82,5,good 👍,2026-09-10 21:26:41,0,other,medium,0.0,No summary provided.
+Google Pay,00b885ea-d2cf-4f95-b79c-72290e496aae,5,good,2026-09-10 21:24:04,0,other,medium,0.0,No summary provided.
+Google Pay,32b91e15-1908-4f69-a10d-2a54acbf2698,5,good,2026-09-10 21:16:40,0,other,medium,0.0,No summary provided.
+Google Pay,7bc07e7e-673e-44e0-aa05-4b13a7e82241,1,I am trying to send money but showing unknown error,2026-09-10 20:47:41,0,other,medium,0.0,No summary provided.
+Google Pay,fb194086-3b36-4dc7-9eb5-76195624449e,5,good,2026-09-10 20:41:15,0,other,medium,0.0,No summary provided.
+Google Pay,0fce1a3d-b8fe-4a3a-b73d-bf0280de7969,5,very good,2026-09-10 20:26:04,0,other,medium,0.0,No summary provided.
+Google Pay,bb4cd712-a2c4-4f94-9c31-eedddfa33189,5,good,2026-09-10 20:19:30,0,other,medium,0.0,No summary provided.
+Google Pay,c6d93cb2-8701-49ae-9b2e-859b0cc8f5e5,5,PrafulThakor,2026-09-10 20:14:30,0,other,medium,0.0,No summary provided.
+Google Pay,bf2cebd8-676b-4e11-9a46-5111ac42394f,5,👍,2026-09-10 19:47:08,0,other,medium,0.0,No summary provided.
+Google Pay,60213f31-7725-4ecb-8497-f0581d4ad44d,5,Good,2026-09-10 19:37:01,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Google Pay,67147fcb-2823-4661-9746-a083d6667006,5,very nice 👍,2026-09-10 19:29:43,0,other,medium,0.0,No summary provided.
+Google Pay,e1abd717-0299-4a3d-a6b9-b3445bc08177,5,supper 🙏🌹🙏,2026-09-10 19:04:12,0,other,medium,0.0,No summary provided.
+Google Pay,a182db0f-6243-4066-b87f-12201b0dff1c,3,good 👍,2026-09-10 18:53:09,0,other,medium,0.0,No summary provided.
+Google Pay,e3b40860-88e0-41ee-9d32-75b1da8f9b14,5,very good,2026-09-10 18:48:54,0,other,medium,0.0,No summary provided.
+Google Pay,cbcdd7a4-e241-4674-bf40-a6450221c76e,5,nice,2026-09-10 18:45:44,0,other,medium,0.0,No summary provided.
+Google Pay,d6430899-6510-4feb-a51a-4d2a8f641444,4,Good,2026-09-10 18:40:54,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Google Pay,45c00a33-3cbf-4e6c-9f48-23eab35f79c9,5,good,2026-09-10 18:09:24,0,other,medium,0.0,No summary provided.
+Google Pay,79dded5d-afb3-4458-90cd-9aad56415c5b,5,very good,2026-09-10 17:55:34,0,other,medium,0.0,No summary provided.
+Google Pay,e0090b9e-06cd-438e-be80-231e1ef48210,5,use,2026-09-10 17:41:33,1,other,medium,0.0,No summary provided.
+Google Pay,897f79f0-87e9-4e75-bec7-a4d5b1945300,5,good,2026-09-10 17:37:58,1,other,medium,0.0,No summary provided.
+Google Pay,e0a7b8f3-20d4-42ae-bc4b-28dd10678f1f,3,supar,2026-09-10 17:31:20,1,other,medium,0.0,No summary provided.
+Google Pay,0a76209c-7ea5-4f10-bf84-363995afd159,5,excellent,2026-09-10 17:19:49,1,other,medium,0.0,No summary provided.
+Google Pay,a6612454-9766-4c79-979a-f8ab99c9cbe6,5,good,2026-09-10 17:18:18,1,other,medium,0.0,No summary provided.
+Google Pay,01fa9f2b-7306-42e9-9760-8c057fb1f810,5,good,2026-09-10 17:17:29,1,other,medium,0.0,No summary provided.
+Google Pay,0a62de50-368c-4b31-b995-adc65f4d3181,5,Good,2026-09-10 17:08:58,1,praise_no_issue,low,0.6,Short positive review rating the app as good
+Google Pay,59ab34d5-a960-4131-b8c2-fd63254782ec,5,ok,2026-09-10 17:01:21,1,other,medium,0.0,No summary provided.
+Google Pay,186d3ec2-9552-4c01-867f-489d828cf57d,5,good service,2026-09-10 16:56:03,1,praise_no_issue,low,0.8,Expresses satisfaction with good service
+Google Pay,1d54c54e-9cb5-41b3-b448-4233d2c57f16,2,gpay QR Code scan is very very slow,2026-09-10 16:42:15,1,other,medium,0.0,No summary provided.
+Google Pay,b650b868-0f89-48c7-ba81-0f24e0662505,5,food,2026-09-10 16:39:17,1,other,low,0.0,Irrelevant review mentioning 'food'.
+Google Pay,08c33c21-c2f1-47d8-b4bd-dbbefd0a2d97,5,good,2026-09-10 16:36:30,1,other,medium,0.0,No summary provided.
+Google Pay,700bd8af-37cf-43bb-a27d-28404773c612,5,ok,2026-09-10 16:25:12,1,other,medium,0.0,No summary provided.
+Google Pay,32e7ca6b-dfde-46e3-a936-a13cabeb5dff,5,super,2026-09-10 16:23:32,0,other,medium,0.0,No summary provided.
+Google Pay,373b6351-3356-4107-a331-7f3072bf55a7,4,nice,2026-09-10 16:04:36,0,other,medium,0.0,No summary provided.
+Google Pay,38a56c53-abce-443e-b1b7-a6960c2f4689,5,good app,2026-09-10 16:00:28,1,praise_no_issue,low,0.8,Simple praise for the app
+Google Pay,6af28533-8101-4610-a918-f2c0295d5d68,5,excellent,2026-09-10 15:41:08,0,other,medium,0.0,No summary provided.
+Google Pay,7ca6f9b6-2d06-494a-aeed-5a1327796971,5,Good,2026-09-10 15:36:53,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Google Pay,38a9eeaf-7641-4a78-bfa4-a3adc29ab7a9,5,ok,2026-09-10 15:33:17,0,other,medium,0.0,No summary provided.
+Google Pay,11643bf9-9f28-4d2c-a6d0-b2fd29966a5c,5,super 👍,2026-09-10 15:22:37,0,other,medium,0.0,No summary provided.
+Google Pay,d4563cde-1d2e-4b95-8691-bfd5ace5d72b,5,nice 👍👍,2026-09-10 14:41:34,0,other,medium,0.0,No summary provided.
+Google Pay,b44c03af-a1c6-41a1-b92b-bbd36253f57c,3,good,2026-09-10 14:40:25,0,other,medium,0.0,No summary provided.
+Google Pay,d6082057-f3a3-40b6-a0f7-5da317a0047d,4,good app,2026-09-10 14:39:30,1,praise_no_issue,low,0.8,Simple praise for the app
+Google Pay,d3a1c297-f60a-4ca7-9b06-7a8e8c955601,5,good,2026-09-10 14:29:12,0,other,medium,0.0,No summary provided.
+Google Pay,8cd8ab19-ff42-4ebf-ab05-8bbd5e7c420a,5,good,2026-09-10 14:23:13,0,other,medium,0.0,No summary provided.
+Google Pay,79fb007a-aa9a-48fd-9f0d-b3d1e20b7573,3,good,2026-09-10 14:11:42,0,other,medium,0.0,No summary provided.
+Google Pay,2fe0b8f0-778e-43a1-970d-70521c1a46f3,5,pra,2026-09-10 14:08:48,0,other,medium,0.0,No summary provided.
+Google Pay,c792c4e0-62bd-48a1-9e1a-03e710c8e428,3,very good 👍,2026-09-10 14:01:51,0,praise_no_issue,low,0.9,Very positive feedback on the app
+Google Pay,51d26571-c622-4a44-b8e2-6034f3c8f096,1,"""After uninstalling and reinstalling the app, I am unable to link my bank account again. It says SMS verification will only be allowed after 24 hours. From a user's perspective, this rule is completely unnecessary. When online services are disrupted like this, we are forced to go back to the ATM to withdraw cash.""",2026-09-10 13:54:32,1,other,medium,0.0,No summary provided.
+Google Pay,7e3a3df5-b46e-4c70-b940-44eef6793851,5,👍,2026-09-10 13:30:47,1,other,medium,0.0,No summary provided.
+Google Pay,8e1c3bbe-203f-41b3-bcb9-06e08e3bbd34,5,very nice,2026-09-10 13:26:04,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+Google Pay,9b78f98c-1780-473c-9bea-1bbf62af0d21,5,super,2026-09-10 13:22:32,0,other,medium,0.0,No summary provided.
+Google Pay,24c19bfc-3116-4991-a17a-91365251fe82,5,very good,2026-09-10 13:13:35,0,other,medium,0.0,No summary provided.
+Google Pay,e01a62c9-0847-4a7e-b21e-81086ce61222,4,good,2026-09-10 12:55:42,1,other,medium,0.0,No summary provided.
+Google Pay,1e160eed-f477-4eb7-b4e1-27376d1db35b,5,good,2026-09-10 12:44:34,0,other,medium,0.0,No summary provided.
+Google Pay,bd28c11a-95d4-4eb6-a03b-36d27f67435f,5,nice aap,2026-09-10 12:43:20,0,other,medium,0.0,No summary provided.
+Google Pay,62469555-79f0-4042-bf70-4a7727cd1f7a,4,good,2026-09-10 12:41:24,0,other,medium,0.0,No summary provided.
+Google Pay,209c3138-da8c-49a5-9abd-6cdb9a7c42d3,5,nice,2026-09-10 12:38:52,0,other,medium,0.0,No summary provided.
+Google Pay,63e216de-b178-495c-9853-01222096b33d,5,excellant,2026-09-10 12:37:42,0,other,medium,0.0,No summary provided.
+Google Pay,43560301-aab7-4502-b93e-b43f8289ebfe,5,good 👍,2026-09-10 12:36:47,0,other,medium,0.0,No summary provided.
+Google Pay,4bb80256-e693-413d-bb32-b4816be38b85,5,good,2026-09-10 12:36:10,0,other,medium,0.0,No summary provided.
+Google Pay,663eadb0-71aa-45df-b93f-06587ca215f0,5,good,2026-09-10 12:11:17,0,other,medium,0.0,No summary provided.
+Google Pay,7796f905-1e15-4c2e-9f65-0a5385da888b,5,good,2026-09-10 12:10:38,0,other,medium,0.0,No summary provided.
+Google Pay,05f413b2-dccd-4259-a071-1be993a08fb7,4,good,2026-09-10 11:58:32,0,other,medium,0.0,No summary provided.
+Google Pay,a2f74d52-fe7f-47b3-b1d5-d35ae7a8f360,5,💀🪈💀👿💀👿,2026-09-10 11:57:21,0,other,medium,0.0,No summary provided.
+Google Pay,fb639609-6f72-4d1f-9bad-93d44fd3d6b4,2,good 👍,2026-09-10 11:50:26,0,other,medium,0.0,No summary provided.
+Google Pay,e283d109-b307-4eaa-9a7e-ac5d81241991,4,good,2026-09-10 11:43:21,0,other,medium,0.0,No summary provided.
+Google Pay,611de2b7-bc47-4a67-bf6b-89ee8e8081cb,5,good,2026-09-10 11:38:07,0,other,medium,0.0,No summary provided.
+Google Pay,a68a4cb1-ff65-4075-be4d-352c691a17ec,5,nice,2026-09-10 11:31:32,0,other,medium,0.0,No summary provided.
+Google Pay,6fb706fb-8df9-4b6a-96bb-20b29abfafe0,5,very best and fast app..🏧,2026-09-10 11:29:48,0,other,medium,0.0,No summary provided.
+Google Pay,7b4a7278-81b8-45a0-bc72-198472bc665b,5,good,2026-09-10 11:29:00,0,other,medium,0.0,No summary provided.
+Google Pay,7ba53efe-7f2e-4ecb-b5c9-5962ed6e55d7,5,good,2026-09-10 11:18:02,0,other,medium,0.0,No summary provided.
+Google Pay,9e6d79d2-0402-4844-89f3-c72e2fd399b3,5,very good app,2026-09-10 11:17:25,0,praise_no_issue,low,0.9,User states the app is very good
+Google Pay,bde0654f-a745-40ad-bc90-fd232c6bb6a6,5,very nice,2026-09-10 11:14:19,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+Google Pay,cfec95a8-1b4d-40af-8cb1-ee62c3bd1044,5,good,2026-09-10 11:10:08,1,other,medium,0.0,No summary provided.
+Google Pay,7c7fb917-a565-46cb-8d9c-377ad2e5cec7,5,good,2026-09-10 11:09:26,0,other,medium,0.0,No summary provided.
+Google Pay,97ec33cc-28da-45cc-ad5c-647ed56140a4,5,nice,2026-09-10 11:03:59,0,other,medium,0.0,No summary provided.
+Google Pay,5d538e76-e53c-4390-899c-d0bcc8b9200d,5,good,2026-09-10 11:01:36,0,other,medium,0.0,No summary provided.
+Google Pay,79a58028-3087-4d13-beeb-af0b7f163f96,1,"such a waste app, my account is temporarily suspended because I've tried to delete Google pay account, and re register on it. because I've been facing some app issue. anyway uninstalling your fake app would be a right move if restriction are not being removed.",2026-09-10 10:57:56,1,other,medium,0.0,No summary provided.
+Google Pay,f2350b35-50b9-4bae-b97e-da58c71fc4c8,5,good,2026-09-10 10:57:48,0,other,medium,0.0,No summary provided.
+Google Pay,6bbdd9f2-0e55-44dd-8142-3195e05b4a02,5,please uninstall,2026-09-10 10:53:54,0,other,medium,0.0,No summary provided.
+Google Pay,c2be67b9-b685-4eea-8a39-37ce9d3d7fa6,5,good 👍,2026-09-10 10:49:21,0,other,medium,0.0,No summary provided.
+Google Pay,ff76d6cf-e757-43df-b483-1d31495c90f4,4,Nice,2026-09-10 10:39:16,1,praise_no_issue,low,0.5,Simple positive feedback describing the app as nice.
+Google Pay,2e312fb0-a25a-4235-b487-225b190dd544,5,good,2026-09-10 10:39:13,0,other,medium,0.0,No summary provided.
+Google Pay,77b636a7-d29d-4faf-95d8-3446113f308f,5,good,2026-09-10 10:29:13,0,other,medium,0.0,No summary provided.
+Google Pay,205c83c4-4dde-4743-b69d-93baa0dd0950,5,Excellent,2026-09-10 10:25:35,0,praise_no_issue,low,0.9,User considers the app excellent
+Google Pay,07b52b93-d230-4338-91f4-8fa6b51d629a,5,good,2026-09-10 10:24:29,0,other,medium,0.0,No summary provided.
+Google Pay,41c710e1-dc6c-40c8-8cc0-b87bdc92fa4f,5,good,2026-09-10 10:23:59,0,other,medium,0.0,No summary provided.
+Google Pay,ab748641-181c-47ce-a428-fefaefed77d9,5,super,2026-09-10 10:22:48,0,other,medium,0.0,No summary provided.
+Google Pay,4de18a98-9473-4d3d-963c-03144ee27233,5,good,2026-09-10 10:19:06,0,other,medium,0.0,No summary provided.
+Google Pay,de755673-abc2-4c62-acd4-d611cbdb13e6,5,very good 👍👍,2026-09-10 10:16:13,0,other,medium,0.0,No summary provided.
+Google Pay,57130888-c558-4337-96ef-861a3464fb2e,5,Good,2026-09-10 10:09:42,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Google Pay,6389e5b1-c879-451f-871f-6ac79e2a2882,4,Best app,2026-09-10 10:06:10,0,other,medium,0.0,No summary provided.
+Google Pay,9aa702e6-8924-4072-b976-71a7b1a68ee6,5,good,2026-09-10 10:02:38,0,other,medium,0.0,No summary provided.
+Google Pay,c4312bd1-1466-43fe-abfc-f0cc37a5fc48,4,good,2026-09-10 09:53:27,0,other,medium,0.0,No summary provided.
+Google Pay,e0577693-5d33-4ecb-ac09-35262f7a168a,5,good,2026-09-10 09:44:03,0,other,medium,0.0,No summary provided.
+Google Pay,27add6f0-8ec2-42c6-aefd-dbfd1ee3c249,5,very useful app,2026-09-10 09:40:28,1,other,medium,0.0,No summary provided.
+Google Pay,3ad1a0c8-db73-4d1a-bdc5-ffb38cdfd627,4,good,2026-09-10 09:38:00,0,other,medium,0.0,No summary provided.
+Google Pay,dd27435b-64ba-4a0c-859d-8781e867fcfa,5,ok,2026-09-10 09:36:11,0,other,medium,0.0,No summary provided.
+Google Pay,1c2947a3-d7cb-4815-bf7b-4eb0c96fccde,4,mom 5zqv se 1 aa,2026-09-10 09:29:06,1,other,medium,0.0,No summary provided.
+Google Pay,d5612c1a-f9a6-4eeb-9314-e0b37267048e,5,good,2026-09-10 09:21:50,0,other,medium,0.0,No summary provided.
+Google Pay,b0f799ef-4372-41ff-889a-a5e4785c1034,5,Nice 👍,2026-09-10 09:21:01,0,other,medium,0.0,No summary provided.
+Google Pay,c43f1790-08d7-414f-b626-057ae3291a0c,4,nice,2026-09-10 08:46:24,0,other,medium,0.0,No summary provided.
+Google Pay,f273203c-d528-4c04-968f-2d6b5787e662,1,gift card offer not showing,2026-09-10 08:45:17,1,other,medium,0.0,No summary provided.
+Google Pay,80ca55ec-ed1e-4ea2-8de8-1c5f973026d4,5,good,2026-09-10 08:45:09,0,other,medium,0.0,No summary provided.
+Google Pay,ee1a5519-7d7c-40e7-87de-1c47a3327ddb,5,good,2026-09-10 08:32:42,0,other,medium,0.0,No summary provided.
+Google Pay,ea1d4161-e698-4e3c-b814-9d9c044e3be4,1,nice,2026-09-10 08:30:00,0,other,medium,0.0,No summary provided.
+Google Pay,9a0ae305-89ef-406b-93e8-a8ec72d8a8a7,5,Nice 👍,2026-09-10 08:06:26,0,other,medium,0.0,No summary provided.
+Google Pay,b57707e5-30cf-4f5c-891e-b1b34960e787,5,good 😊,2026-09-10 07:41:49,1,other,medium,0.0,No summary provided.
+Google Pay,1f37c380-52b5-4a99-bd76-efd13b6d7cfa,5,good 👍,2026-09-10 07:37:33,0,other,medium,0.0,No summary provided.
+Google Pay,ede1014f-f15e-409c-ad94-856c43dbb7a0,5,super,2026-09-10 06:20:26,1,other,medium,0.0,No summary provided.
+Google Pay,174a3029-940d-4641-b0a4-1ab9841f091a,5,very accilent,2026-09-10 04:19:27,0,other,medium,0.0,No summary provided.
+Google Pay,da613ced-0c46-4ad1-9cc7-d84074ecde03,5,excellent,2026-09-10 02:46:08,0,other,medium,0.0,No summary provided.
+Google Pay,46dc9e11-9515-4f2f-a8cd-f4c6f697a8b1,5,good,2026-09-10 01:26:59,0,other,medium,0.0,No summary provided.
+Google Pay,cb25b9a4-3ec3-4122-a858-4ff5c9cbd67e,1,good,2026-09-10 00:49:01,0,other,medium,0.0,No summary provided.
+Google Pay,793afd30-7899-4070-8613-40ec58e7d782,5,nice,2026-09-10 00:46:08,0,other,medium,0.0,No summary provided.
+Google Pay,c45d4746-9b8c-416e-b8a9-0c324ea92e60,5,nice work,2026-09-10 00:21:03,0,other,medium,0.0,No summary provided.
+Google Pay,58856ac6-617e-4673-8a5e-bcbf9871f138,5,good,2026-09-10 00:14:20,0,other,medium,0.0,No summary provided.
+Google Pay,5dc80f32-cd7f-4f4e-a7fd-529b40dccd81,5,Excellent,2026-09-10 00:04:17,0,praise_no_issue,low,0.9,User considers the app excellent
+Google Pay,83d54db1-b8d2-46c4-9328-1ad1bdb01735,5,good 👍,2026-09-10 00:02:32,0,other,medium,0.0,No summary provided.
+Google Pay,40c93214-66d8-4088-a9c3-f0c3307e4e3a,5,derajbagh,2026-09-09 23:52:06,0,other,medium,0.0,No summary provided.
+Google Pay,2ad52c0b-d66b-43b5-b522-d5615dc1f899,5,excellent,2026-09-09 23:36:35,0,other,medium,0.0,No summary provided.
+Google Pay,6ef9f9be-a67b-4a44-9b0b-0e1559fcba4f,5,good,2026-09-09 23:30:35,0,other,medium,0.0,No summary provided.
+Google Pay,bad9464a-2253-492e-ad4f-9f8b57e7cc43,5,Best,2026-09-09 22:54:22,0,other,medium,0.0,No summary provided.
+Google Pay,39b41857-cc7d-433b-84bf-2038b7b223b4,5,very good,2026-09-09 22:47:18,0,other,medium,0.0,No summary provided.
+Google Pay,6a4636b4-888b-4d8c-82a1-e93607a2262d,5,bahut accha app hai,2026-09-09 22:39:43,0,other,medium,0.0,No summary provided.
+Google Pay,371f0aef-f29b-4cb0-8dca-d8289de28c64,5,Excellent,2026-09-09 22:25:11,0,praise_no_issue,low,0.9,User considers the app excellent
+Google Pay,79b24e83-aaad-4267-b883-982714d6ddeb,4,good,2026-09-09 22:05:29,0,other,medium,0.0,No summary provided.
+Google Pay,419232e7-1b4f-4cfd-98b8-baa5a9290bfc,5,nice please adjust rewards for my water bill,2026-09-09 21:55:03,1,other,medium,0.0,No summary provided.
+Google Pay,af5340a5-7f3a-47da-b8d2-4ca44595560f,5,good,2026-09-09 21:52:22,0,other,medium,0.0,No summary provided.
+Google Pay,b007554b-a2a8-4be8-a0e6-9b2e5e355482,4,custom upi id missing,2026-09-09 21:39:54,0,other,medium,0.0,No summary provided.
+Google Pay,92c1d153-d52b-492a-bb0d-b671dc9e2bea,5,nice,2026-09-09 21:35:49,0,other,medium,0.0,No summary provided.
+Google Pay,910f3356-f2f2-4807-a134-882c966b7bd0,5,good,2026-09-09 21:17:31,0,other,medium,0.0,No summary provided.
+Google Pay,91d4384e-f007-4fbb-b0b4-fa52a879045a,5,good,2026-09-09 21:15:35,0,other,medium,0.0,No summary provided.
+Google Pay,689efb9b-d4de-49c1-a24f-0d5b28af907e,2,good,2026-09-09 21:10:59,0,other,medium,0.0,No summary provided.
+Google Pay,da0297d6-3ed2-4937-87b3-de904d485124,5,nice 👍,2026-09-09 21:02:58,0,other,medium,0.0,No summary provided.
+Google Pay,22cca89a-933e-4fb1-aa92-8367b32b2d00,5,good,2026-09-09 20:59:01,0,other,medium,0.0,No summary provided.
+Google Pay,fced0f9e-ba81-4799-8dde-42b5df1c7088,5,very good app,2026-09-09 20:57:35,0,praise_no_issue,low,0.9,User states the app is very good
+Google Pay,26673e80-c07a-47a3-a5f3-f271409e687e,5,best,2026-09-09 20:56:02,0,praise_no_issue,low,0.9,Praise for being the best app
+Google Pay,f5d6a846-9bc6-45f2-8984-4adcd22a3fd0,5,superd,2026-09-09 20:52:14,0,other,medium,0.0,No summary provided.
+Google Pay,bd11866f-e1cb-4d2d-a125-5163556f0099,5,👍,2026-09-09 20:45:15,1,other,medium,0.0,No summary provided.
+Google Pay,fd09d5e1-7266-4ba9-94d3-791779e3c251,5,Good,2026-09-09 20:37:57,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Google Pay,ff1ed2d9-981b-40f9-96a1-9ff8eb324da1,2,bad 😞 reverte issue,2026-09-09 20:32:13,0,other,medium,0.0,No summary provided.
+Google Pay,b6b121bf-c009-4235-9628-2e3d1626e439,5,good,2026-09-09 20:30:29,0,other,medium,0.0,No summary provided.
+Google Pay,853d36e6-cb53-4a7b-a7ea-25fa9711bd33,5,Good app,2026-09-09 20:24:06,0,other,medium,0.0,No summary provided.
+Google Pay,dece3ae1-2ac9-463b-ba94-c0e79dfd4fb7,5,very good,2026-09-09 20:14:58,0,other,medium,0.0,No summary provided.
+Google Pay,20644b4e-dd70-484a-8563-f560bd5ed70c,5,executive,2026-09-09 20:09:03,0,other,medium,0.0,No summary provided.
+Google Pay,c4b31b61-2aa4-493b-8c37-4680b2922f00,5,awesome,2026-09-09 20:08:23,0,praise_no_issue,low,0.9,Awesome app experience
+Google Pay,990019b1-eb6a-44ff-9c1e-4941cbeebcfd,5,Good,2026-09-09 20:02:34,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Google Pay,727a2fd8-03cd-44cd-aae0-7b7166a43387,5,good,2026-09-09 19:33:11,0,other,medium,0.0,No summary provided.
+Google Pay,99f88ad8-330d-4826-9dce-a93996f4dd83,5,❤️,2026-09-09 19:30:49,0,praise_no_issue,low,0.8,User leaves a heart emoji expressing satisfaction.
+Google Pay,ae0a8f26-360f-42f2-bad0-02d1c3a8cc44,5,best,2026-09-09 19:20:37,0,praise_no_issue,low,0.9,Praise for being the best app
+Google Pay,fb0e7b40-dd4e-4b5f-b66b-440318bc2e43,2,i didn't get any transaction rewards on every transaction i do 27k r transaction in a one month,2026-09-09 19:19:36,0,other,medium,0.0,No summary provided.
+Google Pay,ef306402-87ae-4653-872f-8da3a373e69b,5,good,2026-09-09 19:18:21,0,other,medium,0.0,No summary provided.
+Google Pay,8a354e82-7483-48ea-a1d6-1ca3702ede34,3,good,2026-09-09 19:10:19,0,other,medium,0.0,No summary provided.
+Google Pay,3cd137a9-846f-4b18-8ae1-9771aa66bb0c,4,Good,2026-09-09 19:07:41,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Google Pay,0c009547-0608-4f4d-89af-a5cccc320e92,5,good,2026-09-09 19:00:00,0,other,medium,0.0,No summary provided.
+Google Pay,4b2986ac-04f2-405a-93f8-d2a3323b78bc,5,good experience easy to use fast working app nice,2026-09-09 18:58:04,2,other,medium,0.0,No summary provided.
+Google Pay,0a024e90-ae3f-4697-a089-2c2164912fab,5,good,2026-09-09 18:50:48,0,other,medium,0.0,No summary provided.
+Google Pay,f1ddc236-b71f-4658-a5eb-77962c8accac,4,good,2026-09-09 18:31:50,0,other,medium,0.0,No summary provided.
+Google Pay,53d2da9d-4fc8-4da9-a21a-f0a195ddb8a2,5,Good,2026-09-09 18:25:16,1,praise_no_issue,low,0.6,Short positive review rating the app as good
+Google Pay,2daa1c7a-28d5-4e28-95e5-0948369a17af,5,good,2026-09-09 18:20:45,1,other,medium,0.0,No summary provided.
+Google Pay,9f947ec3-b990-4145-8361-60dd9792dfcf,5,nice 👍,2026-09-09 18:19:54,1,other,medium,0.0,No summary provided.
+Google Pay,b1037af2-8330-4754-85f8-595923f4c0bc,5,good 👍,2026-09-09 18:15:15,0,other,medium,0.0,No summary provided.
+Google Pay,1f71bfdc-da66-4950-ba2d-74e9b8203974,5,superb,2026-09-09 18:02:34,0,other,medium,0.0,No summary provided.
+Google Pay,08759716-57ad-47f2-abe0-4d8fd917999e,5,good,2026-09-09 17:59:31,0,other,medium,0.0,No summary provided.
+Google Pay,5c926a19-ca6f-4343-befc-9815bba46ded,5,t.q ji,2026-09-09 17:53:37,0,other,medium,0.0,No summary provided.
+Google Pay,8b3bd24d-d226-4998-ba98-a0d3cf3b43c1,5,Good 👍,2026-09-09 17:51:09,0,praise_no_issue,low,0.8,Short positive review with a thumbs-up emoji
+Google Pay,563f219c-c25d-4365-bbd7-551a6e1b94a6,5,good,2026-09-09 17:34:25,0,other,medium,0.0,No summary provided.
+Google Pay,b35deb3f-833c-4b2a-9676-5a87be69d40e,5,good app,2026-09-09 17:33:33,0,praise_no_issue,low,0.8,Simple praise for the app
+Google Pay,015bb6f1-4e05-4757-bd1c-0db00210b615,5,good,2026-09-09 17:26:51,1,other,medium,0.0,No summary provided.
+Google Pay,e4cd9876-1678-4e2e-95cd-ae88ace29406,5,mast,2026-09-09 17:26:26,1,other,medium,0.0,No summary provided.
+Google Pay,d81f0422-7935-472b-9792-cca175e86622,5,good,2026-09-09 17:12:54,0,other,medium,0.0,No summary provided.
+Google Pay,d1d6ee26-68e3-462f-89a0-5a0aca8048ee,4,very easy good work,2026-09-09 17:12:53,0,other,medium,0.0,No summary provided.
+Google Pay,01d2aeef-7042-4ea3-bb4d-5f58d389d25e,5,good,2026-09-09 17:10:42,0,other,medium,0.0,No summary provided.
+Google Pay,88990525-7216-4012-88c2-55fe75f9f328,5,Super,2026-09-09 17:10:19,0,praise_no_issue,low,0.8,Positive feedback praising the app as super.
+Google Pay,a168933b-6e50-4eb0-8a27-fb1a6bec598e,5,good,2026-09-09 17:06:17,1,other,medium,0.0,No summary provided.
+Google Pay,4e5fc234-fa93-41e6-9574-882885ff4f30,5,"All the features are good, nice and awesome but some it takes time to pay but it has nice experience",2026-09-09 16:47:02,0,other,medium,0.0,No summary provided.
+Google Pay,7b3c6c11-3cac-4b5b-96c5-15452d40fccd,1,Why extra platform charge in this apps????😡😡😡 This application United State of America basis 😡😡😡 So everyone don't use this apps 🙏🙏🙏,2026-09-09 16:22:17,0,other,medium,0.0,No summary provided.
+Google Pay,0e543df9-b4f2-40bc-9b05-fdf708cda7ec,4,nice,2026-09-09 16:16:23,0,other,medium,0.0,No summary provided.
+Google Pay,fb31ee99-4412-40c0-819d-c882d51f303a,5,superb,2026-09-09 16:04:54,0,other,medium,0.0,No summary provided.
+Google Pay,5bd99b55-4a3c-4587-a398-b8b3ec984fa8,5,nice,2026-09-09 15:57:47,0,other,medium,0.0,No summary provided.
+Google Pay,9b4ded2f-0bfd-4764-83ed-6008b3f2de96,5,opn gpy opn email chegcn not opn 🙏 gpy opn khjea khata shopn logn opn ok,2026-09-09 15:47:16,0,other,medium,0.0,No summary provided.
+Google Pay,67c30bb7-37ad-4446-bf79-c3c8cc733961,5,good,2026-09-09 15:43:42,0,other,medium,0.0,No summary provided.
+Google Pay,dd4e53e0-446f-41bd-8874-46f9caa7ae6d,4,good,2026-09-09 15:26:39,1,other,medium,0.0,No summary provided.
+Google Pay,5b263d7b-e3d1-437d-ae8b-a2c64c5c3a91,5,jfho juic n,2026-09-09 15:06:48,0,other,medium,0.0,No summary provided.
+Google Pay,3c8995f3-fc12-454a-8d90-0bf322c9426b,5,very good app,2026-09-09 14:55:56,0,praise_no_issue,low,0.9,User states the app is very good
+Google Pay,a321e302-483a-4edd-86bf-d10abc942d0e,2,good,2026-09-09 14:31:47,0,other,medium,0.0,No summary provided.
+Google Pay,b5c495e8-c5d0-4d89-a326-56dbe303530f,5,nice performance and easy payment sent and received,2026-09-09 14:17:14,0,other,medium,0.0,No summary provided.
+Google Pay,0f563d92-e362-4e8b-8bc3-4fa328cd1036,5,best,2026-09-09 14:06:40,0,praise_no_issue,low,0.9,Praise for being the best app
+Google Pay,4ccf9762-c964-4f9b-8543-08abb883960f,5,super,2026-09-09 13:49:49,0,other,medium,0.0,No summary provided.
+Google Pay,11fc925c-b463-4712-921d-c84003fac0d4,5,top,2026-09-09 13:49:42,0,other,medium,0.0,No summary provided.
+Google Pay,19547702-c6c8-4f6a-acd2-b30e249bdc77,5,good service,2026-09-09 13:33:59,0,praise_no_issue,low,0.8,Expresses satisfaction with good service
+Google Pay,a69b9b72-ac93-44d5-9f04-916969835191,5,good app,2026-09-09 13:28:23,0,praise_no_issue,low,0.8,Simple praise for the app
+Google Pay,a6ff19b8-45b7-4dc2-8c12-e3a7b927c466,5,nice 👍,2026-09-09 13:26:10,0,other,medium,0.0,No summary provided.
+Google Pay,cf56f0d1-ab64-4a66-a4ab-7e48ddf8c2f2,5,very nice 👍,2026-09-09 13:07:37,0,other,medium,0.0,No summary provided.
+Google Pay,f452bd6e-11b4-4ef0-ac6f-b7f76c42fb84,5,good,2026-09-09 13:00:24,1,other,medium,0.0,No summary provided.
+Google Pay,fce7e98a-3ec3-44ba-997f-bd402bad809a,5,great,2026-09-09 12:53:22,0,other,medium,0.0,No summary provided.
+Google Pay,f23b0fe9-512b-4a7f-bc7e-967daf986e84,5,nice,2026-09-09 12:49:20,0,other,medium,0.0,No summary provided.
+Google Pay,56eeefe4-1536-4dc2-a729-efedbc1cf69d,5,best,2026-09-09 12:43:29,0,praise_no_issue,low,0.9,Praise for being the best app
+Google Pay,71d86b63-f0d0-470c-b170-63630a20144b,3,Best,2026-09-09 12:43:04,0,other,medium,0.0,No summary provided.
+Google Pay,4b7d9742-09ea-4793-a47f-c9b7ac1d9c13,5,nice,2026-09-09 12:32:12,0,other,medium,0.0,No summary provided.
+Google Pay,24119cfa-1768-4602-a0a9-15e717af1990,5,good,2026-09-09 12:32:01,0,other,medium,0.0,No summary provided.
+Google Pay,3ee23b2d-c46b-467e-b50d-fb6c372e05f1,2,good,2026-09-09 12:22:06,2,other,medium,0.0,No summary provided.
+Google Pay,83c40c52-7cfd-48dd-a283-89f9c7f41420,3,good,2026-09-09 12:16:59,0,other,medium,0.0,No summary provided.
+Google Pay,84909dfe-87c6-4931-986d-f7a6538e3d7a,3,very nice,2026-09-09 12:07:20,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+Google Pay,19826832-cc86-4680-a83c-b95796295f99,1,good job,2026-09-09 12:00:59,0,other,medium,0.0,No summary provided.
+Google Pay,78e139e7-386c-466c-bb55-04208691ecea,5,nice,2026-09-09 11:58:04,0,other,medium,0.0,No summary provided.
+Google Pay,11c990d5-22e1-433f-b55d-7b1ce3329365,5,good,2026-09-09 11:44:44,0,other,medium,0.0,No summary provided.
+Google Pay,a56f3256-461e-4023-b4d4-979aeb337453,3,good,2026-09-09 11:39:34,0,other,medium,0.0,No summary provided.
+Google Pay,31636bcd-7701-48d5-9e42-ef4d84c3fde9,5,very good,2026-09-09 11:39:22,1,other,medium,0.0,No summary provided.
+Google Pay,ccc8e077-7d03-475e-8971-cd46ea37c189,4,good,2026-09-09 11:39:14,1,other,medium,0.0,No summary provided.
+Google Pay,49da8134-e4d7-4acc-b461-0c8eba053b89,5,a reliable payment app,2026-09-09 11:39:08,0,other,medium,0.0,No summary provided.
+Google Pay,3abbd229-7f82-4e55-8287-1f50dc420bfb,4,super,2026-09-09 11:34:12,0,other,medium,0.0,No summary provided.
+Google Pay,0df0ac1b-b456-49bf-9658-16fe35fdceca,5,very good,2026-09-09 11:32:04,0,other,medium,0.0,No summary provided.
+Google Pay,cf37dfa6-63a6-45ca-9b8f-18b0e4f32db0,1,"I made a payment of ₹85 through Google Pay, and the amount was deducted from my bank account, but the payment was neither completed nor refunded. What’s even more frustrating is that the transaction is not even showing in my transaction history. I contacted customer support, but they were unable to help me or provide any proper solution. This is extremely disappointing and frustrating. A payment app should at least be reliable and provide proper support when money is deducted. I would seriously",2026-09-09 11:30:35,1,other,medium,0.0,No summary provided.
+Paytm,a5e83862-8426-41ec-a749-2e3a2f2874ee,5,nice,2026-09-13 10:08:49,0,other,medium,0.0,No summary provided.
+Paytm,55a2a253-7fcc-445a-ac3c-9c051b722eed,5,good 👍,2026-09-13 10:04:23,0,other,medium,0.0,No summary provided.
+Paytm,4d217637-10cc-4f31-98c6-86553896e949,5,ok,2026-09-13 09:59:01,0,other,medium,0.0,No summary provided.
+Paytm,9e2ce5d4-9fab-416c-8af0-b5928c9e414d,5,good 👍,2026-09-13 09:51:27,0,other,medium,0.0,No summary provided.
+Paytm,b3b9f2e8-fc0f-4e89-80bd-bc37000f871e,5,very nice app 💯,2026-09-13 09:46:54,0,other,medium,0.0,No summary provided.
+Paytm,b08b5da3-e9dc-4490-97b0-4b9c0eb1a375,5,good,2026-09-13 09:38:21,0,other,medium,0.0,No summary provided.
+Paytm,85088153-50d2-4e53-bac6-6946c8a97018,5,👍,2026-09-13 09:25:25,0,other,medium,0.0,No summary provided.
+Paytm,b03b0ecb-e86f-4b07-b818-1732b7c14406,5,good,2026-09-13 09:24:15,0,other,medium,0.0,No summary provided.
+Paytm,12ce6936-1e6a-4ef8-8d2b-fda1bbc621f1,5,good,2026-09-13 09:18:26,0,other,medium,0.0,No summary provided.
+Paytm,342da3fc-42ad-420a-94e5-ae5a5e08ad43,5,good 👍,2026-09-13 09:18:09,0,other,medium,0.0,No summary provided.
+Paytm,174a1f45-e7b9-4b1d-902c-1ded2cd72354,5,good 👍,2026-09-13 09:06:44,0,other,medium,0.0,No summary provided.
+Paytm,2eccd861-6a83-46df-9eb7-c4c79c92101f,1,paytm is not working after the latest version update. you share link for complaint is not working,2026-09-13 09:03:21,2,other,medium,0.0,No summary provided.
+Paytm,5e5cda72-bff2-402c-b5d2-fddea5a3359b,5,good,2026-09-13 08:43:41,0,other,medium,0.0,No summary provided.
+Paytm,c08fbdd7-78d5-4a9d-bf7e-0a5dade8d7b3,5,good,2026-09-13 08:32:21,0,other,medium,0.0,No summary provided.
+Paytm,dd6c24f0-eb4d-445f-a168-7c3dc8691794,5,nice,2026-09-13 08:25:51,0,other,medium,0.0,No summary provided.
+Paytm,51676998-b761-4495-93af-35da1e3dee0a,5,🥰😘,2026-09-13 08:15:58,0,other,medium,0.0,No summary provided.
+Paytm,54f9e078-97c3-4c90-a8a2-f9a0490a3171,5,nice,2026-09-13 08:15:14,0,other,medium,0.0,No summary provided.
+Paytm,087ba090-a26a-48ee-839b-5a932efcfd0e,5,excellent,2026-09-13 08:09:29,0,other,medium,0.0,No summary provided.
+Paytm,3d584547-d65a-4f3b-b6c6-c04b9eea6624,5,nice,2026-09-13 08:00:39,0,other,medium,0.0,No summary provided.
+Paytm,79eecf68-7d36-40d1-b8b0-46b2e3024046,5,very good 👍,2026-09-13 07:54:02,0,praise_no_issue,low,0.9,Very positive feedback on the app
+Paytm,db4f1f4c-0a0b-4f1e-89f0-bcec0d4378d1,5,awesome,2026-09-13 07:47:22,0,praise_no_issue,low,0.9,Awesome app experience
+Paytm,19c12fec-f302-4ef5-b74c-f9f61d92cfe9,5,nice,2026-09-13 07:45:48,0,other,medium,0.0,No summary provided.
+Paytm,da91ef72-a465-4b85-9576-919ca2964d33,5,it's too nice 👍🙂,2026-09-13 07:37:50,0,other,medium,0.0,No summary provided.
+Paytm,d219632f-b90a-48b6-b007-48b955541823,5,good 👍,2026-09-13 07:37:46,0,other,medium,0.0,No summary provided.
+Paytm,f81830e8-bb6e-43a6-93be-6cf93cebe9df,5,good aap,2026-09-13 05:26:32,0,praise_no_issue,low,0.7,Short positive comment praising the app
+Paytm,92606c17-dd50-4155-a5b5-c3d83a1f8370,5,good 👍,2026-09-13 05:21:57,0,other,medium,0.0,No summary provided.
+Paytm,3f706be3-4c56-4b03-9f4c-6e9fad1fbe20,1,paytm not working in my redmi note 7 pro,2026-09-13 03:48:32,1,other,medium,0.0,No summary provided.
+Paytm,ced00f7d-34fa-4492-a40c-93044d081d2b,5,very nice,2026-09-13 03:19:04,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+Paytm,cf8e39a5-9d31-490e-85b7-32dfe036f11e,5,nice,2026-09-13 00:49:13,0,other,medium,0.0,No summary provided.
+Paytm,cb5c90ba-1043-4d30-b0c7-0db61860e2dc,5,nice,2026-09-13 00:12:14,0,other,medium,0.0,No summary provided.
+Paytm,5daec870-bf84-4bde-b580-73cca486daf4,5,very good,2026-09-13 00:02:40,0,other,medium,0.0,No summary provided.
+Paytm,268b208f-c4af-468c-a3d6-d9d05ad632c1,5,Excellent,2026-09-13 00:00:42,0,praise_no_issue,low,0.9,User considers the app excellent
+Paytm,9f3929eb-a450-4fb9-abf5-576b099f071c,1,pagal bana rahe hai gold coin ke nam se fake hai ye sab pagal banana hai public ka,2026-09-12 23:57:02,0,other,medium,0.0,No summary provided.
+Paytm,0660463a-8847-404c-a337-9eee1c693ae0,5,good,2026-09-12 23:21:35,0,other,medium,0.0,No summary provided.
+Paytm,1c8f40fc-26cc-4a3e-8755-af68f650d60f,5,ok,2026-09-12 23:15:42,0,other,medium,0.0,No summary provided.
+Paytm,c8cb9e20-a64e-46c3-91c7-ad4ca2406bac,5,good 😊,2026-09-12 23:12:58,0,other,medium,0.0,No summary provided.
+Paytm,d9686d7c-438e-44bc-bd79-305816d2857f,5,good 👍,2026-09-12 23:08:08,0,other,medium,0.0,No summary provided.
+Paytm,555f92cd-8ac5-4dbf-b0fb-6796fad87584,5,good,2026-09-12 23:00:39,0,other,medium,0.0,No summary provided.
+Paytm,eca67d9f-64a3-4c51-aed4-0ebab323e340,5,good 👍,2026-09-12 22:58:45,0,other,medium,0.0,No summary provided.
+Paytm,24ea3fe2-0284-413b-ba0d-0e88ab13664e,5,nice,2026-09-12 22:53:43,0,other,medium,0.0,No summary provided.
+Paytm,170c33b3-7f42-47e8-a33e-788aa9aa30c5,5,good,2026-09-12 22:51:37,0,other,medium,0.0,No summary provided.
+Paytm,f77b0ec1-17e2-4a09-9e4f-95b02cfba9ec,4,thaaaaanks,2026-09-12 22:47:47,0,other,medium,0.0,No summary provided.
+Paytm,d0c22b99-e324-46fa-9d3c-9185ba763700,5,👍,2026-09-12 22:42:06,0,other,medium,0.0,No summary provided.
+Paytm,42f4513d-eda2-45a4-8ec6-9814dc4108f4,5,nice,2026-09-12 22:35:48,0,other,medium,0.0,No summary provided.
+Paytm,f4eb8da3-69ba-43c9-8a78-0aed33ee8e2c,5,good,2026-09-12 22:15:44,0,other,medium,0.0,No summary provided.
+Paytm,03973bf0-0929-4b31-bc31-b4ba93c5b08c,5,nice,2026-09-12 22:13:24,0,other,medium,0.0,No summary provided.
+Paytm,9ca98f72-38e4-4914-a8bb-881c370a91a3,5,ok,2026-09-12 22:10:58,0,other,medium,0.0,No summary provided.
+Paytm,613d36ad-1a06-42f9-9fb1-fef093359b8f,5,",,,,exellent",2026-09-12 22:10:27,0,other,medium,0.0,No summary provided.
+Paytm,b3fba9ca-0638-4f9b-a11c-00ce4e045893,5,ok,2026-09-12 21:28:10,0,other,medium,0.0,No summary provided.
+Paytm,02fa7910-2a3f-4c21-b535-4288cf1b3442,5,good 👍,2026-09-12 21:21:36,0,other,medium,0.0,No summary provided.
+Paytm,5f49f120-4aab-4415-b83e-24eb58546356,5,good,2026-09-12 21:19:54,0,other,medium,0.0,No summary provided.
+Paytm,e6f34d4b-f946-4df5-af83-07d90e8f0c14,5,👍,2026-09-12 21:19:32,0,other,medium,0.0,No summary provided.
+Paytm,bae36dd7-d69d-4a2c-afc4-71442029573d,4,best,2026-09-12 21:18:51,0,praise_no_issue,low,0.9,Praise for being the best app
+Paytm,5268be8c-4094-4f56-b87d-09e1b9826774,5,nice,2026-09-12 21:18:18,0,other,medium,0.0,No summary provided.
+Paytm,e6f040ec-e638-4e81-b8f5-d9184c101cf3,5,super,2026-09-12 21:08:01,0,other,medium,0.0,No summary provided.
+Paytm,cee66db5-a1b5-4a2e-9432-7e89dcc8c705,5,It's awesum.and very useful.one of the best upi undoubtedly.,2026-09-12 21:05:36,0,other,medium,0.0,No summary provided.
+Paytm,b26a96f7-d6f3-4570-a168-dcab8efe113d,5,good,2026-09-12 20:56:13,0,other,medium,0.0,No summary provided.
+Paytm,f9f59190-d333-421f-be5f-1d3282b64d18,5,good 👍,2026-09-12 20:54:38,0,other,medium,0.0,No summary provided.
+Paytm,77380a7d-0501-4c09-960d-a366551ac8f9,5,ok,2026-09-12 20:52:58,0,other,medium,0.0,No summary provided.
+Paytm,498d7bd8-13d9-4cc6-bbcc-3baaf6acbe26,5,thenks,2026-09-12 20:51:44,0,other,medium,0.0,No summary provided.
+Paytm,cbd91bb7-4d96-4c06-9849-c2c21e82f5f2,5,good,2026-09-12 20:44:24,0,other,medium,0.0,No summary provided.
+Paytm,efcde0e8-6671-44f6-ab3a-153c209ea63b,5,Nice,2026-09-12 20:42:03,0,praise_no_issue,low,0.5,Simple positive feedback describing the app as nice.
+Paytm,52006df5-8f7f-45c9-96b0-dfa3d023a4fe,5,good 👍,2026-09-12 20:38:08,0,other,medium,0.0,No summary provided.
+Paytm,ca948689-299d-4084-94ac-5027b94a2e7d,4,Good,2026-09-12 20:37:35,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Paytm,92dde704-7cf5-4264-ad57-0df39f572df3,5,very good,2026-09-12 20:34:14,0,other,medium,0.0,No summary provided.
+Paytm,dcfe6c52-7f3f-4d17-aaf9-e2c4ab53e5b5,5,😃,2026-09-12 20:32:44,0,other,medium,0.0,No summary provided.
+Paytm,4551a6e3-9ff9-4393-915a-2a17c85099e7,5,good,2026-09-12 20:30:55,0,other,medium,0.0,No summary provided.
+Paytm,fc868cb2-baaf-4cf8-8fd0-5b1381fc9805,5,good,2026-09-12 20:28:02,0,other,medium,0.0,No summary provided.
+Paytm,15af31d1-e419-4314-a0ee-c43739d72562,5,excellent,2026-09-12 20:27:54,0,other,medium,0.0,No summary provided.
+Paytm,1e50db0d-ebe8-405f-8745-4513344f9d84,5,good,2026-09-12 20:25:45,0,other,medium,0.0,No summary provided.
+Paytm,d3d100f6-16e8-4704-b89e-581323f14697,5,mast,2026-09-12 20:20:06,0,other,medium,0.0,No summary provided.
+Paytm,b601bea9-2bb3-41b2-94a5-b6bd27b40298,5,Best,2026-09-12 20:09:10,0,other,medium,0.0,No summary provided.
+Paytm,512c2992-d81a-45f1-ad56-2c7669ece2c5,3,very good,2026-09-12 20:02:38,0,other,medium,0.0,No summary provided.
+Paytm,9cb6922c-7741-4ede-99f9-a48ad2c96b76,5,good 👍,2026-09-12 20:00:14,0,other,medium,0.0,No summary provided.
+Paytm,87baa46f-4d2d-4f4c-a021-6d0c86d58bf5,5,excellent,2026-09-12 19:51:46,0,other,medium,0.0,No summary provided.
+Paytm,837af932-6f6f-4c93-b806-062bed251016,5,😊😊😊😊👍,2026-09-12 19:43:15,0,other,medium,0.0,No summary provided.
+Paytm,631971f5-e139-47f0-8315-85cde3e0cb2e,5,very nice,2026-09-12 19:41:58,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+Paytm,59e4b65f-cdd5-4c3c-8ac2-f7344519a70d,4,good,2026-09-12 19:37:32,0,other,medium,0.0,No summary provided.
+Paytm,3cad8bd6-9518-4608-a0b1-8f73bce6be86,5,good,2026-09-12 19:36:53,0,other,medium,0.0,No summary provided.
+Paytm,8cb1012f-4642-4bde-8ecd-00ae8436a716,3,nice,2026-09-12 19:35:45,0,other,medium,0.0,No summary provided.
+Paytm,4eeaf10f-0567-420a-b53f-a984f4b215b1,5,nice 👍,2026-09-12 19:30:17,0,other,medium,0.0,No summary provided.
+Paytm,348f169c-0a2a-4542-bb19-364e1af80d24,5,good,2026-09-12 19:17:49,0,other,medium,0.0,No summary provided.
+Paytm,d4633d9b-4410-42fa-8d02-62e9951eee96,5,ok,2026-09-12 19:15:36,0,other,medium,0.0,No summary provided.
+Paytm,d600241c-0b1e-44ab-9576-e7e25e1f6540,5,goob app,2026-09-12 19:14:32,0,other,medium,0.0,No summary provided.
+Paytm,2ae08a4a-5021-46ec-b823-1f37e9b84c52,5,good,2026-09-12 19:11:53,0,other,medium,0.0,No summary provided.
+Paytm,9a0f9c17-ddc5-4e38-9407-b7d88935e672,5,Good,2026-09-12 19:08:13,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Paytm,31d07dce-cd05-4f68-a4df-9bd9dd5150ed,5,thank you,2026-09-12 19:00:21,0,praise_no_issue,low,0.7,Expresses gratitude for the app.
+Paytm,c3a81eb6-1fd4-45dc-ad1d-d67bb228df4f,5,good 👍,2026-09-12 18:53:44,0,other,medium,0.0,No summary provided.
+Paytm,a2c5d837-7d8e-419b-b4da-a28d7180d138,5,good,2026-09-12 18:50:26,0,other,medium,0.0,No summary provided.
+Paytm,1b087e5c-424a-4347-bf47-25ae4f38035b,5,"I love🦾 the app! But now download🥰 faster and more stable. Thank you so much to everyone algorithms. The app is soo much faster download. This is syncing happens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. Not to mention 🪴being unable to use the app when it's syncing because it literally stops responding until it's done. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added too the entry.",2026-09-12 18:50:22,0,other,medium,0.0,No summary provided.
+Paytm,daa2a9fd-c7f5-45a8-9c1e-f06020b51171,5,nice,2026-09-12 18:49:09,0,other,medium,0.0,No summary provided.
+Paytm,400d8dd0-6e9d-4515-aa44-284b25d3fdd9,5,ok,2026-09-12 18:47:59,0,other,medium,0.0,No summary provided.
+Paytm,68401055-cc81-42ab-96a7-bcbd6963ff7d,3,very good,2026-09-12 18:38:42,0,other,medium,0.0,No summary provided.
+Paytm,787fc030-4089-4f1e-a220-633a6020d6f2,5,good,2026-09-12 18:34:22,0,other,medium,0.0,No summary provided.
+Paytm,656086cb-6f1d-4c15-8b36-926cd9ff34a6,5,ok,2026-09-12 18:31:23,0,other,medium,0.0,No summary provided.
+Paytm,1ec4dbf0-54a1-4751-a69a-3a784bb4fd9a,5,very good,2026-09-12 18:29:30,0,other,medium,0.0,No summary provided.
+Paytm,49f5d4e6-35c3-4e36-bfe0-692c4e0b7c29,5,very nice,2026-09-12 18:27:56,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+Paytm,a8c100fd-66e7-411c-b54d-3a96118ad920,5,super,2026-09-12 18:25:09,0,other,medium,0.0,No summary provided.
+Paytm,cc618b39-6a32-47ed-92c1-aed0aeb2acb4,5,best payment aap,2026-09-12 18:24:31,0,other,medium,0.0,No summary provided.
+Paytm,823076d6-0c95-4691-8993-b88192d09c49,5,best,2026-09-12 18:15:10,0,praise_no_issue,low,0.9,Praise for being the best app
+Paytm,5cfbb454-d4bf-408b-8037-9881ccfda0dc,5,good,2026-09-12 18:02:06,0,other,medium,0.0,No summary provided.
+Paytm,c64ff3a7-2000-4ea5-8fd8-5affbc9e98eb,5,ok,2026-09-12 17:50:56,0,other,medium,0.0,No summary provided.
+Paytm,5b485350-a629-44f2-92fb-0a560af67d0f,3,easy to use,2026-09-12 17:48:28,0,praise_no_issue,low,0.8,App is easy to use
+Paytm,64c9154c-5e4c-438f-9687-5a04115e66cb,5,good,2026-09-12 17:45:44,0,other,medium,0.0,No summary provided.
+Paytm,9fe5689c-ca56-45b8-8ee2-20296f389944,4,very good,2026-09-12 17:41:35,0,other,medium,0.0,No summary provided.
+Paytm,3ae1425e-2bac-4d4a-93de-b7bfe6e0b3dd,5,nice 👍👍,2026-09-12 17:40:33,0,other,medium,0.0,No summary provided.
+Paytm,ee6dbbae-ee5f-48a7-afc4-895a6c960b08,5,nice,2026-09-12 17:38:14,0,other,medium,0.0,No summary provided.
+Paytm,719b017a-ceed-4031-91dc-940e584b3adc,1,good,2026-09-12 17:28:37,0,other,medium,0.0,No summary provided.
+Paytm,d2713270-2cdc-4c5c-9a1b-96c8a81d388c,4,not able to use paytm due to security alert what to do,2026-09-12 17:27:59,0,other,medium,0.0,No summary provided.
+Paytm,cb483ca9-7bd3-4875-9c3a-8bb7e204b996,5,good,2026-09-12 17:17:22,0,other,medium,0.0,No summary provided.
+Paytm,c9adfa13-4c8c-4c9d-bbfd-509de43794e3,5,very good,2026-09-12 17:13:17,0,other,medium,0.0,No summary provided.
+Paytm,10024b62-ba6c-437a-a9ca-d112f55e77d8,5,good,2026-09-12 17:07:55,0,other,medium,0.0,No summary provided.
+Paytm,ea61f588-3132-447b-bb8e-2cdd24aea640,5,good,2026-09-12 16:58:49,0,other,medium,0.0,No summary provided.
+Paytm,9d6ea735-8b59-4851-a7d1-76f69c7cd518,1,"प्रॉब्लम आने से app ओपन नहीं होता, कस्टमर केयर पर कोई रिस्पांस नहीं",2026-09-12 16:56:22,0,other,medium,0.0,No summary provided.
+Paytm,fc1ff96a-2c7c-4560-939d-fc363a58dba0,5,good aap,2026-09-12 16:53:44,0,praise_no_issue,low,0.7,Short positive comment praising the app
+Paytm,53927e57-6221-4bc3-8eb2-08d710850d93,5,nice,2026-09-12 16:42:27,0,other,medium,0.0,No summary provided.
+Paytm,2b304698-cd98-4dca-9713-79ad537dbad2,5,ok,2026-09-12 16:38:32,0,other,medium,0.0,No summary provided.
+Paytm,72ffed5e-de76-4c2a-b402-fd2db15c5832,4,👍,2026-09-12 16:37:38,0,other,medium,0.0,No summary provided.
+Paytm,43bff112-af72-4634-a349-25920d894f8e,5,very good 👍,2026-09-12 16:27:28,0,praise_no_issue,low,0.9,Very positive feedback on the app
+Paytm,15ee6508-a2f7-48e3-9bc2-52ef8a61045d,5,good offers provided and fast payment.,2026-09-12 16:21:14,0,other,medium,0.0,No summary provided.
+Paytm,f167ec86-7e25-446e-a029-275513871bf4,5,super,2026-09-12 16:13:42,0,other,medium,0.0,No summary provided.
+Paytm,97e4cd78-419d-4bcd-b2e2-f0b6e5e578e4,5,excellent,2026-09-12 16:07:46,0,other,medium,0.0,No summary provided.
+Paytm,32db1eb1-f90a-462d-aa2d-87475fd816bb,5,best,2026-09-12 16:06:27,0,praise_no_issue,low,0.9,Praise for being the best app
+Paytm,cd1fba88-7210-40fa-889d-22dbd8a66790,5,good,2026-09-12 16:02:37,0,other,medium,0.0,No summary provided.
+Paytm,ff058ca2-4381-4d4a-9369-ea5182d006cb,5,best upi app ever,2026-09-12 15:58:15,0,praise_no_issue,low,1.0,Praises the app as the best UPI application ever
+Paytm,b99c4d6e-b046-4747-b80b-5bf717a69f29,5,superb,2026-09-12 15:51:59,0,other,medium,0.0,No summary provided.
+Paytm,b7cd3444-bb99-480a-a2b2-2fe8f7413730,5,superb,2026-09-12 15:46:41,0,other,medium,0.0,No summary provided.
+Paytm,23c6e686-cefd-4edc-934a-f8c6d5817f39,5,good,2026-09-12 15:46:31,0,other,medium,0.0,No summary provided.
+Paytm,d49d2956-4837-4ad8-91c9-a15ac41427d3,5,Good 👍,2026-09-12 15:41:39,0,praise_no_issue,low,0.8,Short positive review with a thumbs-up emoji
+Paytm,92bdd0d2-2f06-463f-8014-b79b36439273,5,good,2026-09-12 15:34:09,0,other,medium,0.0,No summary provided.
+Paytm,31f881bd-5774-40af-a38a-9755c54f3e8e,5,very nice,2026-09-12 15:32:06,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+Paytm,d77ca422-f7b1-43de-9d6a-db1f6e4a0b81,5,excellent,2026-09-12 15:31:22,0,other,medium,0.0,No summary provided.
+Paytm,0f4d7660-c513-4b73-a1b6-684a3deff923,3,good,2026-09-12 15:28:51,0,other,medium,0.0,No summary provided.
+Paytm,65c48cce-7cad-489e-9c68-d4109a2008af,5,"I love🌴the app! But now download faster and more stable. Thank you so much to everyone algorithms. The app is soo much faster download. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added too the entry. This is syncing🌴 happens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. Not to mention🥰 being unable to use the app when it's syncing because it literally stops responding until it's done.",2026-09-12 15:24:33,0,other,medium,0.0,No summary provided.
+Paytm,d3072b19-c159-4474-8b69-19a49197777a,5,good,2026-09-12 15:05:40,0,other,medium,0.0,No summary provided.
+Paytm,c86b6691-94fc-4cac-836f-30823864d4a5,5,good,2026-09-12 15:03:14,0,other,medium,0.0,No summary provided.
+Paytm,bbd27236-ac58-45bb-b6f4-0bb55dcd0014,4,nice,2026-09-12 14:58:33,0,other,medium,0.0,No summary provided.
+Paytm,984008a1-70e1-4551-a41e-10980bb024cb,5,very nice,2026-09-12 14:56:38,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+Paytm,92d61215-a975-4dd4-8650-e8e9e840c47f,5,"One of the best upi payments,,,",2026-09-12 14:52:33,0,other,medium,0.0,No summary provided.
+Paytm,0088f148-6696-42ae-9af2-4b0292aa3a95,5,super,2026-09-12 14:47:11,0,other,medium,0.0,No summary provided.
+Paytm,656d84a9-5de3-4059-aef9-cf1b425e6f21,5,Good,2026-09-12 14:46:05,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Paytm,cadb32f5-9a84-41bc-83d9-5b33b0d73878,5,good,2026-09-12 14:41:15,0,other,medium,0.0,No summary provided.
+Paytm,a3f3f539-f8f9-44dc-b09e-1e71c6a7b1bc,5,very nice,2026-09-12 14:36:10,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+Paytm,f2ec740d-b69b-4464-b067-d1c789fa833d,5,supar,2026-09-12 14:30:22,0,other,medium,0.0,No summary provided.
+Paytm,74187df7-74ba-4a81-bf08-bc5cde1b7de3,5,good service,2026-09-12 14:28:21,0,praise_no_issue,low,0.8,Expresses satisfaction with good service
+Paytm,4a836e5e-004f-4aa3-afac-68645b0c3e5c,5,very good,2026-09-12 14:25:45,0,other,medium,0.0,No summary provided.
+Paytm,df9ca299-ca47-46d7-971b-f292916f3892,1,I am having a bad experience. my app is not opening.i am trying to contact but no use i will leave this app if not responded yet,2026-09-12 14:24:55,1,other,medium,0.0,No summary provided.
+Paytm,1ff90a56-c742-4a01-91aa-1d910349736a,5,good,2026-09-12 14:16:22,0,other,medium,0.0,No summary provided.
+Paytm,a6d27998-b8ae-46ff-8684-785d0ed23035,5,good 👍,2026-09-12 14:12:09,0,other,medium,0.0,No summary provided.
+Paytm,62b90ce4-6062-4214-8831-b4c67a0af386,5,good,2026-09-12 14:09:27,0,other,medium,0.0,No summary provided.
+Paytm,b74e4444-8753-4d41-a238-4e230712a526,1,good,2026-09-12 14:09:00,0,other,medium,0.0,No summary provided.
+Paytm,b7bc32ed-6fdc-46c5-8a38-b010aacd9c3c,5,good,2026-09-12 14:08:30,0,other,medium,0.0,No summary provided.
+Paytm,aedd6deb-fde5-45b9-ae7a-16243fecf236,5,good,2026-09-12 14:05:58,0,other,medium,0.0,No summary provided.
+Paytm,4f601524-af7d-434a-9ab5-d997c335f593,5,nice,2026-09-12 13:53:57,0,other,medium,0.0,No summary provided.
+Paytm,0a28bb11-12c0-4af3-abf4-8c3937631cd6,5,good,2026-09-12 13:51:18,0,other,medium,0.0,No summary provided.
+Paytm,e2290c43-d170-4511-ba72-6f725005132d,5,good,2026-09-12 13:50:18,0,other,medium,0.0,No summary provided.
+Paytm,e5511ff7-bb6d-4a2b-9f5a-34eba14edd45,5,good,2026-09-12 13:49:18,0,other,medium,0.0,No summary provided.
+Paytm,ee451de5-91aa-413f-bd27-7a4487bad26f,1,"Disappointed with new update, Payment protect forcing me to uninstall remote viewing app to continue. This is pathetic from devloper, without giving option to bypass or allow. I have stopped using Paytm due to this pathetic change.",2026-09-12 13:43:48,0,other,medium,0.0,No summary provided.
+Paytm,7a372fe0-983e-479d-88b5-32fd7d2ffd63,5,Nice,2026-09-12 13:43:12,0,praise_no_issue,low,0.5,Simple positive feedback describing the app as nice.
+Paytm,4c788353-493e-4834-9d26-d2e873659169,5,good,2026-09-12 13:40:30,0,other,medium,0.0,No summary provided.
+Paytm,766b2617-ec34-40ac-a574-8cfb2ec9f10f,5,best,2026-09-12 13:37:33,0,praise_no_issue,low,0.9,Praise for being the best app
+Paytm,b0da32a8-96d3-4044-998c-7b424e336dcb,5,best,2026-09-12 13:32:14,0,praise_no_issue,low,0.9,Praise for being the best app
+Paytm,9ffa3e4b-d525-4bfa-9360-6c79733bfff7,5,very good app,2026-09-12 13:24:51,0,praise_no_issue,low,0.9,User states the app is very good
+Paytm,0a7ab47b-e31e-42d5-aa6c-7415376bb070,1,"worst app. fraud never trust on paytm, paytm business",2026-09-12 13:20:53,0,other,medium,0.0,No summary provided.
+Paytm,852481c1-b4d6-47c6-823d-643844c4ff37,5,good 👍😊,2026-09-12 13:14:28,0,praise_no_issue,low,0.8,Positive feedback with supportive emojis.
+Paytm,366ac1fe-885e-4c8d-b913-cbc70de6c1ef,5,excellent,2026-09-12 13:13:33,0,other,medium,0.0,No summary provided.
+Paytm,83d29cbd-72ba-4fdf-8fb3-9f4061372d44,5,👌,2026-09-12 12:57:16,0,other,medium,0.0,No summary provided.
+Paytm,1d1c6f96-1643-4194-afac-295d6c789ed4,1,security alt dikha raha he,2026-09-12 12:50:21,0,other,medium,0.0,No summary provided.
+Paytm,867a2bf1-c709-4a6d-b7ef-10a11daa25de,5,super,2026-09-12 12:28:26,0,other,medium,0.0,No summary provided.
+Paytm,68084767-4a13-4c0e-a9ac-b09b92da0a49,5,good,2026-09-12 12:26:14,0,other,medium,0.0,No summary provided.
+Paytm,a651d14d-8ce2-4c72-933c-647961a3395f,2,nice,2026-09-12 12:26:01,0,other,medium,0.0,No summary provided.
+Paytm,b4d43a6f-c47a-4367-84fd-85193c12294e,5,very good,2026-09-12 12:25:55,0,other,medium,0.0,No summary provided.
+Paytm,affb445f-1229-4b6b-8979-daea029199d9,5,good better,2026-09-12 12:18:04,0,other,medium,0.0,No summary provided.
+Paytm,51d8a097-f927-43dc-9435-c60e5a614bf3,5,best,2026-09-12 12:17:56,0,praise_no_issue,low,0.9,Praise for being the best app
+Paytm,bf40e0fd-aaea-48ad-856f-0f1eb1ff8d88,5,Excellent,2026-09-12 12:17:48,0,praise_no_issue,low,0.9,User considers the app excellent
+Paytm,67b99961-c6d5-40d1-91b0-ea08266cd436,5,good 😊,2026-09-12 12:17:27,0,other,medium,0.0,No summary provided.
+Paytm,ed82ba1d-e0fe-4f90-a744-e6ebb621cd23,5,super,2026-09-12 12:15:45,0,other,medium,0.0,No summary provided.
+Paytm,1f6671c8-c950-476a-94b5-2f11907a6e0f,5,Nice,2026-09-12 12:14:19,0,praise_no_issue,low,0.5,Simple positive feedback describing the app as nice.
+Paytm,bea7edd9-9fca-4d3f-b3d0-3ea705a271d4,5,nice 👍👍,2026-09-12 12:13:33,0,other,medium,0.0,No summary provided.
+Paytm,37f45cb7-9c39-4176-8d66-1d7ed7bef58f,4,Good,2026-09-12 12:12:40,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Paytm,677ee9c5-5b1d-4a25-85dc-544a21ea20aa,5,good upi,2026-09-12 12:12:04,0,praise_no_issue,low,0.7,User praises the app's UPI performance
+Paytm,92668d2d-7e65-4d10-9f48-c7b46c67974b,5,awesome,2026-09-12 12:11:00,0,praise_no_issue,low,0.9,Awesome app experience
+Paytm,a1acc75d-9f69-46c3-876e-fd4d7d1c1162,5,very nice,2026-09-12 12:03:11,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+Paytm,f9ca43bb-38e9-4c6b-a168-5d35f012a3d9,5,good,2026-09-12 11:58:19,0,other,medium,0.0,No summary provided.
+Paytm,5ac16a2a-28f6-4034-8750-3f29e5b7c8ec,5,nice 👍,2026-09-12 11:54:06,0,other,medium,0.0,No summary provided.
+Paytm,4cd86afd-0e2f-4eb0-8081-ca8e18ca1386,5,good,2026-09-12 11:46:52,0,other,medium,0.0,No summary provided.
+Paytm,cc777802-c8d4-45c2-911a-df0469bea51f,5,Very nice 👍🙂,2026-09-12 11:45:12,0,other,medium,0.0,No summary provided.
+Paytm,c6e51374-c416-4da2-abd6-501f32d21fba,5,ok,2026-09-12 11:40:19,0,other,medium,0.0,No summary provided.
+Paytm,f22e87c5-163e-4b47-ac04-a09320aa83dc,5,good,2026-09-12 11:38:24,0,other,medium,0.0,No summary provided.
+Paytm,8b9f7042-2826-40d8-a48f-6b6be8b21f98,5,good,2026-09-12 11:34:43,0,other,medium,0.0,No summary provided.
+Paytm,0e499cbe-8581-4fa7-a1b7-d842e64301c7,5,great,2026-09-12 11:28:43,0,other,medium,0.0,No summary provided.
+Paytm,97ac70b7-14cc-41d9-8d15-80468887f55c,5,good,2026-09-12 11:27:13,0,other,medium,0.0,No summary provided.
+Paytm,c709bbe4-037d-48ff-a4d6-bcd3c953be0a,5,nice,2026-09-12 11:23:40,0,other,medium,0.0,No summary provided.
+Paytm,2237a22a-f0c6-4226-bc18-86c2c5b433de,5,ok,2026-09-12 11:17:15,0,other,medium,0.0,No summary provided.
+Paytm,4751af86-08d7-40fd-a9e5-42c8b7658054,1,too slow to respond. very annoying during emergencies,2026-09-12 11:16:32,0,other,medium,0.0,No summary provided.
+Paytm,03a44351-1b98-43e5-9661-ee762cd24d39,5,good,2026-09-12 11:12:16,0,other,medium,0.0,No summary provided.
+Paytm,2004cef9-e83b-4e8b-9211-1f4840d37f1a,5,nice aap,2026-09-12 11:09:37,0,other,medium,0.0,No summary provided.
+Paytm,64408597-1711-4860-82f9-99489f285e42,4,very good,2026-09-12 11:07:54,0,other,medium,0.0,No summary provided.
+Paytm,2c078ce3-e6f4-433f-bb97-3aeaa67b6d28,5,very good,2026-09-12 11:04:50,0,other,medium,0.0,No summary provided.
+Paytm,35532d71-23af-4d6c-908a-3559991b7ff3,5,Mast 👍,2026-09-12 10:44:36,0,other,medium,0.0,No summary provided.
+Paytm,321243b6-9118-4636-9036-252d49c02b3a,5,good,2026-09-12 10:42:52,0,other,medium,0.0,No summary provided.
+Paytm,da26eb5e-c95a-4391-a5b8-622238b3ffc2,5,good,2026-09-12 10:28:46,0,other,medium,0.0,No summary provided.
+Paytm,b1d2fcad-a519-4fe2-82ad-da86155f8895,5,good 😊,2026-09-12 10:22:06,0,other,medium,0.0,No summary provided.
+Paytm,ee693a9f-48d2-4854-b9c6-d7fe66562738,5,good,2026-09-12 10:15:08,0,other,medium,0.0,No summary provided.
+Paytm,e5494d64-e6e7-4e1a-81aa-433bbfb6ab42,4,good,2026-09-12 10:14:38,0,other,medium,0.0,No summary provided.
+Paytm,081de58c-bdce-4289-be32-1c689846f71a,1,"Urgent: Security Alert Error & Funds Stuck in UPI LITE Hi Paytm Support Team, I am facing an issue with my Paytm account. Whenever I try to open or use the app, I get a popup saying: ""Security Alert: We couldn't process your request. Please contact Paytm support if this continues."" My money is currently stuck in my Paytm UPI LITE wallet, and I am unable to use or transfer it back to my bank account due to this error.",2026-09-12 10:13:55,0,other,medium,0.0,No summary provided.
+Paytm,524e48f8-4e17-4cee-a851-870cc2036e8e,5,very nice 👍,2026-09-12 10:10:34,0,other,medium,0.0,No summary provided.
+Paytm,53492a3b-2b1d-4507-a286-8250335897d6,5,Good,2026-09-12 10:08:58,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Paytm,1b0033cc-7840-45de-badd-1a1a62472fc1,5,ok,2026-09-12 10:07:40,0,other,medium,0.0,No summary provided.
+Paytm,082598d6-feee-4ef9-a049-5b649cd15e3a,3,super,2026-09-12 09:49:47,0,other,medium,0.0,No summary provided.
+Paytm,a03fec35-c515-439d-a6f2-b366d340390f,1,good,2026-09-12 09:44:33,0,other,medium,0.0,No summary provided.
+Paytm,bbe693db-815c-4699-9fdc-2a9b1f703b51,5,Good service,2026-09-12 09:43:15,0,other,medium,0.0,No summary provided.
+Paytm,bcf1a0cf-14b6-45c5-a7d8-0d07327bd222,5,best,2026-09-12 09:40:24,0,praise_no_issue,low,0.9,Praise for being the best app
+Paytm,65f41e26-1aef-4b26-9172-99e32c451bce,5,good,2026-09-12 09:40:05,0,other,medium,0.0,No summary provided.
+Paytm,a53eb5c5-bc88-4395-bdf7-981766a12afe,5,good,2026-09-12 09:36:09,0,other,medium,0.0,No summary provided.
+Paytm,ccbc4f64-11b9-499a-978d-5c91b330e8f7,4,super,2026-09-12 09:33:50,0,other,medium,0.0,No summary provided.
+Paytm,e6916778-6692-46d4-a17b-bccd76bd17f1,5,good,2026-09-12 09:33:43,0,other,medium,0.0,No summary provided.
+Paytm,c1306dbc-2f7a-44c0-b5c0-004ebedf385a,5,good,2026-09-12 09:14:18,0,other,medium,0.0,No summary provided.
+Paytm,d0446fc3-fe51-4f87-932b-9f63c3729a44,5,good 😊,2026-09-12 09:10:15,0,other,medium,0.0,No summary provided.
+Paytm,fd0b70a3-0fda-4857-9a3b-eb4694b07ed8,5,very good 👍,2026-09-12 08:58:46,0,praise_no_issue,low,0.9,Very positive feedback on the app
+Paytm,4efe3c28-5d54-4caa-872d-00aba9843342,4,good,2026-09-12 08:54:23,0,other,medium,0.0,No summary provided.
+Paytm,e8811598-298f-4437-a22e-7c653c9314f7,5,good aap,2026-09-12 08:33:28,0,praise_no_issue,low,0.7,Short positive comment praising the app
+Paytm,39b49614-f2ca-47ff-9ce1-5c33a01715fd,1,The Paytm app hasn't been working for the past 7 days; it keeps showing an error.,2026-09-12 08:26:38,0,other,medium,0.0,No summary provided.
+Paytm,7909e1dd-a150-4b90-bb38-016e1be1a1ce,5,very good app,2026-09-12 08:24:30,0,praise_no_issue,low,0.9,User states the app is very good
+Paytm,e6039133-e3dc-461f-a57f-486c69f3902e,4,Best app,2026-09-12 08:08:53,0,other,medium,0.0,No summary provided.
+Paytm,ad6bce5b-9002-4370-b97c-4a5b052295b9,5,ok,2026-09-12 07:53:00,0,other,medium,0.0,No summary provided.
+Paytm,a9e8eb67-ef32-4c59-a6f3-67bb49afd87a,5,good,2026-09-12 07:52:04,0,other,medium,0.0,No summary provided.
+Paytm,42eca27e-387b-4161-955c-1d6d6c831c75,4,good,2026-09-12 07:30:19,0,other,medium,0.0,No summary provided.
+Paytm,4cd446cb-a4a7-43be-98dc-8834f3b22e50,5,Rajkumar,2026-09-12 07:27:07,0,other,medium,0.0,No summary provided.
+Paytm,0bbf9578-74c2-4314-b31d-5b15e97114ca,5,nice,2026-09-12 07:24:47,1,other,medium,0.0,No summary provided.
+Paytm,6aeaacbe-5370-4e2c-87ef-bf658e14a278,5,ok,2026-09-12 07:19:57,1,other,medium,0.0,No summary provided.
+Paytm,e5fb1fd5-c8f6-411a-a087-5e7f87c99c20,5,nice,2026-09-12 06:51:30,1,other,medium,0.0,No summary provided.
+Paytm,51328599-229b-4adb-9927-ebd9168eba69,5,good,2026-09-12 06:47:31,0,other,medium,0.0,No summary provided.
+Paytm,5bc1f17d-837c-4b4d-8073-b542b6ed21bf,4,good 👍,2026-09-12 06:46:57,0,other,medium,0.0,No summary provided.
+Paytm,9268a9e3-f9f8-4e0b-bc0e-dc243712dcf1,5,very good,2026-09-12 06:20:38,0,other,medium,0.0,No summary provided.
+Paytm,42d50b53-3810-4724-ad89-68f4ba908baa,5,best,2026-09-12 06:08:07,0,praise_no_issue,low,0.9,Praise for being the best app
+Paytm,428a4c50-5586-45eb-a8db-68a2ad1f3420,5,nice,2026-09-12 05:51:30,0,other,medium,0.0,No summary provided.
+Paytm,89e2b2fa-408c-410b-86c2-5788082d2c4b,5,good facility,2026-09-12 05:50:34,0,other,medium,0.0,No summary provided.
+Paytm,b73a852c-32de-4a39-ad5a-3556e1c3dd50,5,good,2026-09-12 05:07:13,0,other,medium,0.0,No summary provided.
+Paytm,287d513f-904f-4274-a337-b21bfb514c75,4,ok,2026-09-12 04:53:30,0,other,medium,0.0,No summary provided.
+Paytm,52f467fc-99c1-4695-a07e-28ca0c4c435d,5,Nice,2026-09-12 02:56:40,0,praise_no_issue,low,0.5,Simple positive feedback describing the app as nice.
+Paytm,595e951e-d650-4c27-bd40-0b1ca1eeca46,5,good,2026-09-12 02:03:21,0,other,medium,0.0,No summary provided.
+Paytm,7b812c77-10b9-4892-8182-738b39a4dd0c,5,Good,2026-09-12 01:57:33,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Paytm,8c152fc0-b527-4348-b75f-0fc84fe075ce,5,good,2026-09-12 01:25:16,0,other,medium,0.0,No summary provided.
+Paytm,03a839b0-84c3-4a3a-aa0d-12be162f3512,3,paytm app is not working properly do not option,2026-09-12 00:36:30,1,other,medium,0.0,No summary provided.
+Paytm,a6703e0f-8a57-46fd-ba4e-50ed5f4f2c0b,5,good,2026-09-12 00:09:36,0,other,medium,0.0,No summary provided.
+Paytm,0c3e2d28-c036-450e-ae52-1bd776a96483,5,very good,2026-09-12 00:01:09,0,other,medium,0.0,No summary provided.
+Paytm,f8c5baa8-d574-4910-b74e-8423dc19f354,4,thanks for your help,2026-09-11 23:55:14,0,other,medium,0.0,No summary provided.
+Paytm,19397e23-1fe0-4ff0-8348-cb04c669e62c,5,very nice,2026-09-11 23:24:52,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+Paytm,5dc84839-a9ba-4a3b-9c52-a6d2fcda7829,5,good,2026-09-11 23:22:26,0,other,medium,0.0,No summary provided.
+Paytm,69ff63f6-f2f9-469c-9c93-fdaad5f845fd,5,excellent,2026-09-11 23:20:02,0,other,medium,0.0,No summary provided.
+Paytm,7a171f1e-4770-4d29-9d20-37fba40709fe,4,nice,2026-09-11 23:19:18,0,other,medium,0.0,No summary provided.
+Paytm,8d78a058-1821-4703-91d6-62ce7c118a19,1,what is going on with paytm its not working,2026-09-11 22:57:53,0,other,medium,0.0,No summary provided.
+Paytm,83f2ef5e-4da4-48d3-bfe3-42cbfec45559,5,ok,2026-09-11 22:44:28,0,other,medium,0.0,No summary provided.
+Paytm,de92f5bd-9f5f-4478-9063-a26743e06bdf,5,Best app,2026-09-11 22:35:11,0,other,medium,0.0,No summary provided.
+Paytm,262b1fe3-b6ea-404d-8f9d-21490d52f31d,5,super,2026-09-11 22:22:39,0,other,medium,0.0,No summary provided.
+Paytm,b68e667c-d7bc-4bb4-a76d-636b7dfe6c53,5,good,2026-09-11 22:15:41,0,other,medium,0.0,No summary provided.
+Paytm,b0a789e0-8b90-4cdc-8e59-b0d67da70bc3,5,good,2026-09-11 22:13:15,0,other,medium,0.0,No summary provided.
+Paytm,96d644d0-3fd4-4705-ac8b-19b291160d84,1,nice,2026-09-11 22:09:04,0,other,medium,0.0,No summary provided.
+Paytm,e62890af-872f-4ae5-812b-1c7e737b5150,5,good,2026-09-11 22:06:20,0,other,medium,0.0,No summary provided.
+Paytm,f094c486-573e-4d38-988a-3779a089b4fb,5,excellent,2026-09-11 22:03:37,0,other,medium,0.0,No summary provided.
+Paytm,0c907739-f20f-4919-a72a-1a2703af847c,5,good,2026-09-11 21:57:12,0,other,medium,0.0,No summary provided.
+Paytm,9e581e3d-e9f2-4baa-bbd6-bf97535ee7b1,5,good 👍,2026-09-11 21:57:02,0,other,medium,0.0,No summary provided.
+Paytm,514868a7-f4ae-4458-8ae1-03ff6c298fb6,5,good 👍,2026-09-11 21:55:09,0,other,medium,0.0,No summary provided.
+Paytm,24b11a40-c6a4-49b9-a200-21096d77a3ec,5,👍,2026-09-11 21:52:35,0,other,medium,0.0,No summary provided.
+Paytm,f533cdf5-470a-4c03-8f35-721671518d33,5,very good,2026-09-11 21:37:40,0,other,medium,0.0,No summary provided.
+Paytm,9d38402b-1b2f-4a69-9695-002291650a99,5,good,2026-09-11 21:35:57,0,other,medium,0.0,No summary provided.
+Paytm,2e80e92b-3e39-4ef8-aa5b-0bdff487cf18,5,very good,2026-09-11 21:31:05,0,other,medium,0.0,No summary provided.
+Paytm,c8f5d04a-540a-4e28-b2be-3fd74ab4f6bd,5,nice work,2026-09-11 21:23:14,0,other,medium,0.0,No summary provided.
+Paytm,2049646f-5eab-4662-a873-cf849dea57cb,5,Nice,2026-09-11 21:19:49,0,praise_no_issue,low,0.5,Simple positive feedback describing the app as nice.
+Paytm,479feec9-aca5-428e-a14b-7915cb0f98e8,5,excellent,2026-09-11 21:19:28,0,other,medium,0.0,No summary provided.
+Paytm,87b6d69d-db6a-4bd2-8658-c07d1655927d,5,nice,2026-09-11 21:14:06,0,other,medium,0.0,No summary provided.
+Paytm,02799a57-0a56-4ee4-ae24-55f36bdbb68c,5,super,2026-09-11 21:10:58,0,other,medium,0.0,No summary provided.
+Paytm,86a45090-c312-4661-9fb3-2b00001a6f08,5,ok,2026-09-11 21:10:24,0,other,medium,0.0,No summary provided.
+Paytm,887ac8f9-828a-4aef-981d-1bf76538bd1d,4,good 👍,2026-09-11 21:06:20,0,other,medium,0.0,No summary provided.
+Paytm,c03a81b7-36fe-48c4-927e-ba8c26d8db13,5,nice 👍,2026-09-11 20:55:44,0,other,medium,0.0,No summary provided.
+Paytm,88025360-d82c-44fa-8246-17a8ae0750ec,5,Good,2026-09-11 20:50:22,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Paytm,94762430-618a-420b-ae78-f0adc783617e,5,good,2026-09-11 20:47:54,0,other,medium,0.0,No summary provided.
+Paytm,7daf2701-3f0e-4a67-b1da-9326f122523b,5,good,2026-09-11 20:43:14,0,other,medium,0.0,No summary provided.
+Paytm,e59c92f4-137d-493c-9bea-c8083ea279f1,5,excellent,2026-09-11 20:41:20,0,other,medium,0.0,No summary provided.
+Paytm,3ccd43b9-69cb-4582-b0b9-982f04ffdb92,5,good,2026-09-11 20:41:11,0,other,medium,0.0,No summary provided.
+Paytm,92a95e7d-11aa-4980-a7ef-2fa6f9542145,5,good,2026-09-11 20:40:36,0,other,medium,0.0,No summary provided.
+Paytm,5975c0bc-d077-4d0e-9a70-ecc925955356,5,good,2026-09-11 20:37:58,0,other,medium,0.0,No summary provided.
+Paytm,d9166728-60ab-4788-803f-f1e846fe0f0a,3,super,2026-09-11 20:35:57,0,other,medium,0.0,No summary provided.
+Paytm,212e7043-1b70-4d10-a011-8ad4e8f489c8,5,good 👍,2026-09-11 20:31:29,0,other,medium,0.0,No summary provided.
+Paytm,bfcd8218-167f-4ca2-be7a-b87b465830f1,5,good,2026-09-11 20:31:21,0,other,medium,0.0,No summary provided.
+Paytm,5168a90d-3f3d-4316-a23f-993f6a4e2c91,5,amazing,2026-09-11 20:28:06,0,other,medium,0.0,No summary provided.
+Paytm,fc30dd0b-907d-495e-af19-4201165a272e,5,super,2026-09-11 20:24:06,0,other,medium,0.0,No summary provided.
+Paytm,472d99a9-d06f-4cd7-958e-37949ab4016b,5,good,2026-09-11 20:22:29,0,other,medium,0.0,No summary provided.
+Paytm,d815c60c-7d14-40e5-a976-cbdb67848d5a,5,good 👍,2026-09-11 20:21:07,0,other,medium,0.0,No summary provided.
+Paytm,aadf8a59-9ba1-43fc-adb8-2196b19059c0,5,good,2026-09-11 20:19:08,0,other,medium,0.0,No summary provided.
+Paytm,42aedcff-7e9f-4912-8c5d-1c190b6211ea,5,ok,2026-09-11 20:16:26,0,other,medium,0.0,No summary provided.
+Paytm,99fc1092-f821-4db7-84a8-a2945c73d02a,5,Good,2026-09-11 20:06:05,1,praise_no_issue,low,0.6,Short positive review rating the app as good
+Paytm,6b6c1fa6-bcb7-4931-b38f-0ddf16853f93,3,ok,2026-09-11 19:58:47,0,other,medium,0.0,No summary provided.
+Paytm,ed6c7d94-6a69-49de-b712-327889445371,5,good 👍,2026-09-11 19:51:38,0,other,medium,0.0,No summary provided.
+Paytm,6b6b573d-3e59-4b98-bdea-3b0d4f9edf5f,5,good,2026-09-11 19:49:17,0,other,medium,0.0,No summary provided.
+Paytm,bcd3d600-b149-47ce-bed2-baf8a0e8eb7f,5,good,2026-09-11 19:45:54,1,other,medium,0.0,No summary provided.
+Paytm,127d8060-7dd0-483d-93f7-525320a2bed6,5,good,2026-09-11 19:42:06,0,other,medium,0.0,No summary provided.
+Paytm,ff4230ca-c898-4bee-b2ac-a9f88d80a88f,5,Good,2026-09-11 19:35:08,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+Paytm,8de3d645-dcdb-45a6-94ae-a280883c2275,5,good,2026-09-11 19:32:00,0,other,medium,0.0,No summary provided.
+Paytm,42244c3d-ed82-443a-a16d-b81da7e81140,5,very good,2026-09-11 19:31:49,0,other,medium,0.0,No summary provided.
+Paytm,c559a265-3fd2-4be5-9de8-34408b373f1c,5,good,2026-09-11 19:18:47,0,other,medium,0.0,No summary provided.
+Paytm,a9d89b66-f5de-4175-b579-5dd5af578100,5,good,2026-09-11 19:18:15,0,other,medium,0.0,No summary provided.
+Paytm,908a1577-bea1-441a-bab9-de5844704156,5,super,2026-09-11 19:14:26,0,other,medium,0.0,No summary provided.
+Paytm,bc3bddc5-5b18-4a05-a26d-d0cfe1af314b,5,good 👍,2026-09-11 19:13:28,0,other,medium,0.0,No summary provided.
+Paytm,c5c5fb13-e689-4c20-9bb7-eca2fcfc9db2,5,good,2026-09-11 19:11:19,0,other,medium,0.0,No summary provided.
+Paytm,5a9d3e74-5352-4d06-b2ee-677c600bf986,5,super,2026-09-11 19:00:31,0,other,medium,0.0,No summary provided.
+Paytm,719e6fd6-9dba-43cb-ab7b-61d5285b7369,5,good,2026-09-11 18:59:04,0,other,medium,0.0,No summary provided.
+Paytm,abf81b7a-26d5-4dd6-8dbf-c648ec45cfb5,5,Best,2026-09-11 18:55:18,0,other,medium,0.0,No summary provided.
+Paytm,932ea1ab-8c38-423c-aeeb-90e18de625f6,5,ok,2026-09-11 18:52:50,0,other,medium,0.0,No summary provided.
+Paytm,9331d6f5-2789-4c72-b4ec-e69ee2f67954,5,ok,2026-09-11 18:42:42,0,other,medium,0.0,No summary provided.
+Paytm,3d640aea-326b-4a83-a055-29c27c5d79f1,5,ok,2026-09-11 18:39:22,0,other,medium,0.0,No summary provided.
+Paytm,89abf078-f481-4e5f-9f1b-c0d7230464c3,5,good 👍,2026-09-11 18:37:56,0,other,medium,0.0,No summary provided.
+Paytm,433b9665-c8d5-4846-9453-841c8240e98d,5,very good,2026-09-11 18:35:24,0,other,medium,0.0,No summary provided.
+Paytm,ca29a9b9-45eb-4d13-842b-ffde09ed15f2,5,ok,2026-09-11 18:29:03,0,other,medium,0.0,No summary provided.
+Paytm,7d6e52be-b29c-4d10-8776-9ebbdd682805,5,best,2026-09-11 18:25:16,0,praise_no_issue,low,0.9,Praise for being the best app
+Paytm,12a3b17c-f60c-4e55-9217-c4c925d14aca,5,good,2026-09-11 18:20:15,0,other,medium,0.0,No summary provided.
+Paytm,4237449c-857f-4b32-a193-159159ad5f3a,4,good,2026-09-11 18:19:04,0,other,medium,0.0,No summary provided.
+Paytm,f46100be-eabe-4705-8880-77908b638c04,5,nice,2026-09-11 18:15:30,0,other,medium,0.0,No summary provided.
+Paytm,37ef1098-28b5-422c-a1a8-658d4c713df9,5,good,2026-09-11 18:11:02,0,other,medium,0.0,No summary provided.
+Paytm,4cc94ffc-1f39-4e6d-b78c-c1d82a96a454,5,good 👍,2026-09-11 18:06:28,0,other,medium,0.0,No summary provided.
+Paytm,d65ad2a5-5af8-44e8-aafb-0cba94104c78,5,very nice 👍,2026-09-11 17:58:15,0,other,medium,0.0,No summary provided.
+Paytm,e2ef53ad-876e-4002-b0d9-deb780c00b38,5,good 👍,2026-09-11 17:50:02,0,other,medium,0.0,No summary provided.
+Paytm,63b02907-759f-4480-97eb-bfd8e4db3199,5,good service,2026-09-11 17:49:35,0,praise_no_issue,low,0.8,Expresses satisfaction with good service
+Paytm,b63b49e6-1fb0-4018-a399-c1378759f26c,5,good,2026-09-11 17:42:06,0,other,medium,0.0,No summary provided.
+Paytm,fb9bf2cd-b695-405e-b881-be5cfbb1a27b,5,best,2026-09-11 17:39:31,0,praise_no_issue,low,0.9,Praise for being the best app
+Paytm,99c18c18-dc94-406e-8496-384cbead2e8d,5,good,2026-09-11 17:31:37,0,other,medium,0.0,No summary provided.
+Paytm,41329f61-6d0e-47d2-aaaf-ff27933bfd3f,4,super,2026-09-11 17:21:37,0,other,medium,0.0,No summary provided.
+Paytm,7635079b-63b0-48a7-ac82-32e789baad81,5,good,2026-09-11 17:16:13,0,other,medium,0.0,No summary provided.
+Paytm,ed65b76c-0ae1-48f4-9f9f-da40d33a7d20,5,very nice,2026-09-11 17:11:02,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+Paytm,bbd637a5-f6ac-420b-90b4-e1f7e60c67f3,5,good,2026-09-11 16:45:16,0,other,medium,0.0,No summary provided.
+Paytm,2c88369f-1cc4-49f3-9e64-ed7eae9e1418,5,good,2026-09-11 16:42:55,0,other,medium,0.0,No summary provided.
+Paytm,af6f063a-68c5-4644-9a50-1ef91fafa9d0,5,super,2026-09-11 16:38:27,0,other,medium,0.0,No summary provided.
+Paytm,fc366a38-ff59-4772-b9ea-fddcdc56a877,5,very good,2026-09-11 16:30:16,0,other,medium,0.0,No summary provided.
+Paytm,e2ba4555-151c-4c24-8274-2f6a4714e478,5,super,2026-09-11 16:18:57,0,other,medium,0.0,No summary provided.
+Paytm,43f1a430-9dde-40c8-9325-c65571c45375,5,excellent,2026-09-11 16:05:09,0,other,medium,0.0,No summary provided.
+Paytm,b2afefe4-9252-4cdb-936d-b42f6338cf9f,5,very good 👍,2026-09-11 15:42:59,0,praise_no_issue,low,0.9,Very positive feedback on the app
+Paytm,165fc2cf-1dca-4e25-8a5e-d41ae470b9e8,5,ok,2026-09-11 15:19:24,0,other,medium,0.0,No summary provided.
+Paytm,a59cacf3-0de5-407e-b151-119d7a4b202a,5,very good,2026-09-11 15:14:50,0,other,medium,0.0,No summary provided.
+PhonePe,12d5547c-7530-4fa4-b3cd-82b7546b47c7,5,good,2026-09-13 10:05:01,0,other,medium,0.0,No summary provided.
+PhonePe,f4a7def8-fd9a-4f45-b68c-1b892264ebf2,4,good,2026-09-13 10:04:35,0,other,medium,0.0,No summary provided.
+PhonePe,335e5b68-980b-4fd6-a846-328beedb532b,5,best,2026-09-13 10:03:57,0,praise_no_issue,low,0.9,Praise for being the best app
+PhonePe,a5459475-93f4-49b2-bea7-8bde2614d311,5,very nice,2026-09-13 09:37:02,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+PhonePe,3ceff7a6-80f4-4bd5-8579-69c6b74601db,5,very good,2026-09-13 09:34:40,0,other,medium,0.0,No summary provided.
+PhonePe,7ea6cb73-fe2f-4e9e-b817-27ee50c07bcf,5,good,2026-09-13 09:29:44,0,other,medium,0.0,No summary provided.
+PhonePe,9647b92b-4274-47ca-95ac-ecf747d819d3,5,good,2026-09-13 09:26:06,0,other,medium,0.0,No summary provided.
+PhonePe,4adf1a0f-2132-4b85-8134-b80f0813a87c,4,Good,2026-09-13 09:25:27,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+PhonePe,5db74c77-c730-47dd-ac68-4b82c589eeea,5,good,2026-09-13 09:19:09,0,other,medium,0.0,No summary provided.
+PhonePe,17e10a77-85c6-40f2-8aaa-f37b79345594,5,good service,2026-09-13 09:08:07,0,praise_no_issue,low,0.8,Expresses satisfaction with good service
+PhonePe,a052f715-7065-45ae-a2f7-5062871c5218,5,nice,2026-09-13 09:06:03,0,other,medium,0.0,No summary provided.
+PhonePe,a64e73b9-dc71-4e93-bf9a-9c5b3e5cb868,5,good 😊,2026-09-13 09:01:19,0,other,medium,0.0,No summary provided.
+PhonePe,59f1a94b-7535-431c-8895-9687068b8ccb,5,ok,2026-09-13 09:00:03,0,other,medium,0.0,No summary provided.
+PhonePe,1d29ecdb-c640-4cce-964b-39c8db23709c,5,nice,2026-09-13 08:37:17,0,other,medium,0.0,No summary provided.
+PhonePe,fbf049f1-ff07-4b4e-99da-cb06a1a28cd2,1,Good,2026-09-13 08:36:58,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+PhonePe,e57a068e-8f0d-4bc7-b074-4d53a370b33a,5,very good,2026-09-13 08:34:59,0,other,medium,0.0,No summary provided.
+PhonePe,fe67489b-4e70-466d-825f-9c994a6238b4,5,good,2026-09-13 08:26:12,0,other,medium,0.0,No summary provided.
+PhonePe,eccb38c1-1891-43c8-9b2c-ef3b77616f36,5,ok,2026-09-13 08:23:12,0,other,medium,0.0,No summary provided.
+PhonePe,d65def4b-93b3-410e-86ef-4eae5f6818a8,5,best,2026-09-13 08:18:00,0,praise_no_issue,low,0.9,Praise for being the best app
+PhonePe,a47114d5-a509-47c7-99f5-43eccc9f4169,5,nice,2026-09-13 07:59:00,0,other,medium,0.0,No summary provided.
+PhonePe,ed405e82-ad8a-4e28-86b6-6006d1ffe0a5,5,nice,2026-09-13 07:53:16,0,other,medium,0.0,No summary provided.
+PhonePe,a1238d63-9fab-4205-ab55-7be5065488e6,1,nice,2026-09-13 07:16:48,0,other,medium,0.0,No summary provided.
+PhonePe,b5dcba10-dca5-4dd7-9d3e-c532e72c70a5,4,good,2026-09-13 07:00:57,0,other,medium,0.0,No summary provided.
+PhonePe,4d85359d-c09a-4556-b638-61e12ccdaf82,5,Good,2026-09-13 06:44:43,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+PhonePe,55fa2154-6518-48c5-ae77-8850e055640e,5,good,2026-09-13 06:38:44,0,other,medium,0.0,No summary provided.
+PhonePe,8a05dcfb-a12c-4e19-b37a-3283ccf88bba,5,good,2026-09-13 06:28:12,0,other,medium,0.0,No summary provided.
+PhonePe,87493e6c-08c8-45eb-8c18-8e13b702edf8,5,excellent,2026-09-13 06:22:27,0,other,medium,0.0,No summary provided.
+PhonePe,b262aea4-8aff-47f6-9012-85a601319379,5,best,2026-09-13 06:21:25,0,praise_no_issue,low,0.9,Praise for being the best app
+PhonePe,ff260fc2-632b-4bc8-9e2d-2f4d922cf231,5,very good app,2026-09-13 05:45:33,0,praise_no_issue,low,0.9,User states the app is very good
+PhonePe,d49e0353-0479-4b85-944f-547c233919da,5,nice,2026-09-13 05:42:30,0,other,medium,0.0,No summary provided.
+PhonePe,06a9cf25-cc7e-416d-b2ea-17c093714c15,5,nice,2026-09-13 05:38:50,0,other,medium,0.0,No summary provided.
+PhonePe,78e85f1b-3d2d-45e2-8708-f1256884f237,5,very good,2026-09-13 05:35:27,0,other,medium,0.0,No summary provided.
+PhonePe,dcbed246-105a-425f-8c5b-5873d50ff501,5,good aap,2026-09-13 03:49:44,1,praise_no_issue,low,0.7,Short positive comment praising the app
+PhonePe,1fcd26b5-4df9-41ef-9ed0-f845c327d6fb,5,good 😊,2026-09-13 01:15:36,0,other,medium,0.0,No summary provided.
+PhonePe,553793dd-7fbf-4088-b699-016d967d2aa6,5,good,2026-09-13 01:15:11,0,other,medium,0.0,No summary provided.
+PhonePe,3493d7a3-4b01-4a4b-92cf-51e16b3ca7bd,5,Nice 👍,2026-09-13 00:49:31,0,other,medium,0.0,No summary provided.
+PhonePe,d048437b-5f48-4709-8e96-dab45ff665b9,5,good service,2026-09-13 00:12:01,0,praise_no_issue,low,0.8,Expresses satisfaction with good service
+PhonePe,59373f0b-ab25-4823-9ad2-4b90ebe58949,5,nice,2026-09-13 00:10:23,0,other,medium,0.0,No summary provided.
+PhonePe,def9e272-cbcf-43e5-ab0e-ff042522bf9b,5,good app,2026-09-13 00:00:10,0,praise_no_issue,low,0.8,Simple praise for the app
+PhonePe,f3990c21-5e35-45c3-895f-77019784fe36,5,very good app,2026-09-12 23:58:32,0,praise_no_issue,low,0.9,User states the app is very good
+PhonePe,67e38a87-bb54-4064-9112-2b1c5daa2c89,1,very good,2026-09-12 23:58:01,0,other,medium,0.0,No summary provided.
+PhonePe,8d0954ea-0543-4568-a8eb-531bfb8516f0,4,good,2026-09-12 23:09:53,0,other,medium,0.0,No summary provided.
+PhonePe,6910f93f-1074-4fe3-b12d-70a4d6bc8d3d,5,thank you,2026-09-12 22:58:03,0,praise_no_issue,low,0.7,Expresses gratitude for the app.
+PhonePe,8ee23053-6c8b-46f5-a10c-3fa3fa9a0c89,5,excellent,2026-09-12 22:52:48,0,other,medium,0.0,No summary provided.
+PhonePe,a4a358af-4968-46ce-b44d-39149380d46f,1,good,2026-09-12 22:42:22,0,other,medium,0.0,No summary provided.
+PhonePe,ccdb7cbd-c042-4cb0-9ded-67f79f1a837d,5,good,2026-09-12 22:34:47,0,other,medium,0.0,No summary provided.
+PhonePe,01b5ea4f-3e38-4208-854f-36b431a6fd84,4,good 👍,2026-09-12 22:34:35,0,other,medium,0.0,No summary provided.
+PhonePe,99a3e96a-7224-457b-b9a2-73ec295493e1,5,good,2026-09-12 22:34:35,0,other,medium,0.0,No summary provided.
+PhonePe,5fa721d1-1d02-4c91-aa51-cea5aa23cdfc,5,Excellent,2026-09-12 22:16:15,0,praise_no_issue,low,0.9,User considers the app excellent
+PhonePe,eb56b5fe-2c2d-46d5-a371-476bd590f4dd,5,nice,2026-09-12 22:16:15,0,other,medium,0.0,No summary provided.
+PhonePe,e9dd358e-262e-46d0-9a0c-8d463232371c,5,excellent,2026-09-12 22:14:08,0,other,medium,0.0,No summary provided.
+PhonePe,54619741-6615-4dc3-8192-3fbf2c076829,5,good,2026-09-12 21:56:54,0,other,medium,0.0,No summary provided.
+PhonePe,ff28acb7-0004-40b4-8f32-bbb0b8cbfa17,5,excellent,2026-09-12 21:36:15,0,other,medium,0.0,No summary provided.
+PhonePe,96d637a6-b1f0-4d6a-869d-6a9c7fde2a72,4,good,2026-09-12 21:32:26,0,other,medium,0.0,No summary provided.
+PhonePe,9c257a07-4e30-42d1-90ab-cfe08c2aabcf,5,Good,2026-09-12 21:31:47,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+PhonePe,4d0c333f-7a0d-40ee-8167-f6a969b6729a,5,good,2026-09-12 21:11:21,0,other,medium,0.0,No summary provided.
+PhonePe,904f45ba-8d5e-4dc1-9633-caa73c5d9f77,5,super,2026-09-12 21:08:37,0,other,medium,0.0,No summary provided.
+PhonePe,b17b197a-f772-435a-8279-d395d434a1d2,3,good👍,2026-09-12 21:03:35,0,praise_no_issue,low,0.8,Positive rating for good experience
+PhonePe,6dcbe492-67db-4eea-8c07-c87093e93086,5,very good,2026-09-12 21:00:31,0,other,medium,0.0,No summary provided.
+PhonePe,731b3d6a-768c-4649-b18b-033a79f6e979,5,excellent,2026-09-12 20:59:39,0,other,medium,0.0,No summary provided.
+PhonePe,7d9f21e5-73d4-4e46-b387-986fbe71e361,5,excellent,2026-09-12 20:47:40,0,other,medium,0.0,No summary provided.
+PhonePe,cb9314c3-59bb-4689-b313-8ece2b132509,4,good 👍,2026-09-12 20:40:38,0,other,medium,0.0,No summary provided.
+PhonePe,51139d18-cc76-4e87-833f-fd3fa097a72e,5,Good,2026-09-12 20:40:23,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+PhonePe,f8ea3f73-bd04-4ca0-8f93-529111724287,5,best,2026-09-12 20:36:56,0,praise_no_issue,low,0.9,Praise for being the best app
+PhonePe,36fcbc2a-0871-4d81-a4da-a7bfeb5e151b,5,good,2026-09-12 20:36:51,0,other,medium,0.0,No summary provided.
+PhonePe,acba00be-6a43-4ba7-912a-6bd51c356d5f,4,👌,2026-09-12 20:33:59,0,other,medium,0.0,No summary provided.
+PhonePe,513e917c-5f7b-4c50-9e56-45d5885c7dbc,4,Good,2026-09-12 20:32:33,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+PhonePe,6cd499d7-a1ed-4c76-8106-5a53541919c8,3,good,2026-09-12 20:32:06,0,other,medium,0.0,No summary provided.
+PhonePe,acff0971-44bb-4df5-9cbc-98cce12ca319,3,good,2026-09-12 20:30:47,0,other,medium,0.0,No summary provided.
+PhonePe,32912eec-3a76-46dc-9f57-ff23dd7a872e,3,good,2026-09-12 20:25:47,0,other,medium,0.0,No summary provided.
+PhonePe,8947f945-439a-4665-a1d8-b2ea87371826,2,good,2026-09-12 20:22:32,0,other,medium,0.0,No summary provided.
+PhonePe,41e6ceb3-33af-4fc6-88e7-f68798e1ff7e,4,good,2026-09-12 20:12:18,0,other,medium,0.0,No summary provided.
+PhonePe,dad0c5b1-258f-4f37-a17c-3e54e2ac8a73,1,nice aap,2026-09-12 20:11:14,0,other,medium,0.0,No summary provided.
+PhonePe,6cf4bc0c-f65d-467d-aedc-4fac5c2d492d,5,very good,2026-09-12 20:09:52,0,other,medium,0.0,No summary provided.
+PhonePe,150356c0-abd1-4777-9429-cf2bba9a63b9,5,Good,2026-09-12 20:09:32,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+PhonePe,4b6fbbc3-9cd7-4546-bf1d-ef8df299a4db,5,good 👍😊,2026-09-12 20:06:44,0,praise_no_issue,low,0.8,Positive feedback with supportive emojis.
+PhonePe,986d5679-607d-4019-8ca9-c092f476182d,5,good service,2026-09-12 20:03:57,0,praise_no_issue,low,0.8,Expresses satisfaction with good service
+PhonePe,6f66c6e0-f412-4c86-8f86-308fe9a3c3dd,4,very nice,2026-09-12 20:00:59,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+PhonePe,b21f3968-1875-457c-895d-23d79d960b30,4,good 👍,2026-09-12 19:54:42,0,other,medium,0.0,No summary provided.
+PhonePe,214c741c-b9de-4a82-b6bd-571e247d64c3,5,good,2026-09-12 19:54:40,0,other,medium,0.0,No summary provided.
+PhonePe,7cf38659-a207-492f-8bb9-2744a428b1e8,5,good,2026-09-12 19:52:37,0,other,medium,0.0,No summary provided.
+PhonePe,470ca175-c5c2-4aae-b416-12a5bc26a694,5,best,2026-09-12 19:51:12,0,praise_no_issue,low,0.9,Praise for being the best app
+PhonePe,e80b4e89-43c5-493d-83fd-2fa0d0def27c,5,nice,2026-09-12 19:49:06,0,other,medium,0.0,No summary provided.
+PhonePe,5ce8c944-738a-4483-ad6f-f849ea17ed18,4,good,2026-09-12 19:48:31,0,other,medium,0.0,No summary provided.
+PhonePe,f2d60b65-5e7a-4a6b-a3b8-903ccc7e8e3b,5,nice 👍,2026-09-12 19:32:38,0,other,medium,0.0,No summary provided.
+PhonePe,18902884-17a5-465b-96a2-af9a386c8bfb,5,nice,2026-09-12 19:28:51,0,other,medium,0.0,No summary provided.
+PhonePe,94799b18-14da-4e01-98bf-130297e7ceac,5,good,2026-09-12 19:26:04,0,other,medium,0.0,No summary provided.
+PhonePe,956ed744-f83e-4214-8b1a-430c36877527,5,good,2026-09-12 19:17:39,0,other,medium,0.0,No summary provided.
+PhonePe,1944edec-0265-4719-b03a-b0d6ce595547,5,good 👍,2026-09-12 19:10:03,0,other,medium,0.0,No summary provided.
+PhonePe,94f60a41-3758-4788-a257-fcde87c8c9b0,5,good,2026-09-12 19:04:19,0,other,medium,0.0,No summary provided.
+PhonePe,38d603ef-fdb5-4d26-a65e-d762da3b325d,5,best,2026-09-12 19:04:15,0,praise_no_issue,low,0.9,Praise for being the best app
+PhonePe,2603be12-b1ac-4fe0-a9fc-41b883fb3d8d,5,good,2026-09-12 18:55:36,0,other,medium,0.0,No summary provided.
+PhonePe,24e422ea-f10f-4c81-8c12-758f8adf6229,5,👍,2026-09-12 18:49:55,0,other,medium,0.0,No summary provided.
+PhonePe,17eedea1-9d17-497e-8a75-30e21ec7c604,5,good,2026-09-12 18:49:52,0,other,medium,0.0,No summary provided.
+PhonePe,160ccf14-528b-4c4d-8d26-3943409a5cc0,5,Nice,2026-09-12 18:44:45,0,praise_no_issue,low,0.5,Simple positive feedback describing the app as nice.
+PhonePe,6c596fb7-1fba-4d3a-a384-f78df1ee50b0,5,good,2026-09-12 18:43:03,0,other,medium,0.0,No summary provided.
+PhonePe,e19b5bb5-961f-4dbc-8a5b-00e57ee44cdf,5,nice 👍,2026-09-12 18:35:02,0,other,medium,0.0,No summary provided.
+PhonePe,45674223-36f9-4f6a-88a7-e1285ea7822b,5,Nice,2026-09-12 18:29:58,0,praise_no_issue,low,0.5,Simple positive feedback describing the app as nice.
+PhonePe,918621ec-bc44-4867-9d33-c14cc834bc71,5,good,2026-09-12 18:25:47,0,other,medium,0.0,No summary provided.
+PhonePe,abc89b38-4120-4995-868b-441e97c30487,5,nice,2026-09-12 18:23:03,0,other,medium,0.0,No summary provided.
+PhonePe,b68c6959-a817-4c63-ba9a-7a66e06c1e29,5,excellent,2026-09-12 18:22:04,0,other,medium,0.0,No summary provided.
+PhonePe,12ff2e65-2f3c-4272-a58a-7a1695a0846a,5,good,2026-09-12 18:20:42,0,other,medium,0.0,No summary provided.
+PhonePe,a392f2a0-f808-4550-bc31-e0fa82af77c9,5,best,2026-09-12 18:17:05,0,praise_no_issue,low,0.9,Praise for being the best app
+PhonePe,067c5000-9e24-4a3b-a069-e107aa4ba2e2,5,excellent,2026-09-12 18:16:34,0,other,medium,0.0,No summary provided.
+PhonePe,a0136644-469e-4a26-aeb7-2893fdd70816,5,good,2026-09-12 18:06:52,0,other,medium,0.0,No summary provided.
+PhonePe,c565d0b1-1387-4cdd-8652-55503b6e9e84,5,good,2026-09-12 17:56:03,0,other,medium,0.0,No summary provided.
+PhonePe,f4fe63a9-fc26-4b73-abd9-a3971532304b,5,very good,2026-09-12 17:45:58,1,other,medium,0.0,No summary provided.
+PhonePe,c6863993-4d44-494f-9705-ac6fc8d906aa,5,Excellent,2026-09-12 17:45:34,0,praise_no_issue,low,0.9,User considers the app excellent
+PhonePe,5ed16131-d9fb-41a5-a8ee-6434aa7c8e8a,5,super,2026-09-12 17:44:01,0,other,medium,0.0,No summary provided.
+PhonePe,9c12a859-293d-4aa4-94b0-933809cecd20,5,superb,2026-09-12 17:38:33,0,other,medium,0.0,No summary provided.
+PhonePe,48553590-76bb-49a6-846e-4513b7555d59,5,very bad,2026-09-12 17:30:03,0,other,low,-0.8,General negative feedback expressing dissatisfaction without details
+PhonePe,e03ee190-b3ae-44d5-9b2b-8e760d2003ba,5,good,2026-09-12 17:25:05,0,other,medium,0.0,No summary provided.
+PhonePe,ab585b11-012c-470a-8962-e94793f342fa,5,excellent,2026-09-12 17:19:58,0,other,medium,0.0,No summary provided.
+PhonePe,7eb18a18-f295-4647-8475-d6f55b29992d,5,Good,2026-09-12 17:14:35,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+PhonePe,b92c555c-91a3-4261-b235-6f75a7a34af1,4,good,2026-09-12 17:13:39,0,other,medium,0.0,No summary provided.
+PhonePe,0e269cca-7ba7-4623-aadb-8e69a5f6e3a7,5,good app,2026-09-12 17:12:16,0,praise_no_issue,low,0.8,Simple praise for the app
+PhonePe,2c030451-b864-42c6-99c8-8f826b2450aa,5,super,2026-09-12 17:04:20,0,other,medium,0.0,No summary provided.
+PhonePe,5a1df1c6-5a24-4106-be78-dfb0b458b855,5,Good,2026-09-12 17:02:05,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+PhonePe,301cfcbc-2937-4bf3-9c26-adf145b24b86,5,good,2026-09-12 17:01:47,0,other,medium,0.0,No summary provided.
+PhonePe,882f5fd7-f927-42c9-b28c-440c9c577d71,5,good,2026-09-12 16:58:53,0,other,medium,0.0,No summary provided.
+PhonePe,1c09273f-b894-4601-8e71-39b1e59ee6c2,5,good,2026-09-12 16:49:47,0,other,medium,0.0,No summary provided.
+PhonePe,8fa4c1ad-6d39-41e6-8959-55ad56c9319c,5,good,2026-09-12 16:47:31,0,other,medium,0.0,No summary provided.
+PhonePe,975d4605-fdc1-40cd-bbee-809402cb249c,5,Good,2026-09-12 16:45:46,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+PhonePe,fd33f127-fd37-44f9-863c-aaafd59cdfb7,4,good,2026-09-12 16:42:10,0,other,medium,0.0,No summary provided.
+PhonePe,f69395c0-34ed-4183-9923-7df9ddc53aeb,5,super,2026-09-12 16:38:54,0,other,medium,0.0,No summary provided.
+PhonePe,993cd568-6b1b-411f-b3c7-948ae416a0db,4,good,2026-09-12 16:21:16,0,other,medium,0.0,No summary provided.
+PhonePe,0a263095-6ff8-4c07-b8eb-6aee16bcd5f9,4,good,2026-09-12 16:16:38,0,other,medium,0.0,No summary provided.
+PhonePe,e0b6c882-3417-4359-a133-d23a302f10a2,5,nice,2026-09-12 16:02:43,0,other,medium,0.0,No summary provided.
+PhonePe,e881d0c8-2a72-4f69-ab96-d47aedf1d31e,5,ok,2026-09-12 15:56:06,0,other,medium,0.0,No summary provided.
+PhonePe,4ea5c3a1-139f-40f7-ba7b-8d33945fe69a,4,good,2026-09-12 15:53:36,0,other,medium,0.0,No summary provided.
+PhonePe,f9de6b46-4b76-4dba-ab06-2fafaa7022f8,5,very good,2026-09-12 15:51:09,0,other,medium,0.0,No summary provided.
+PhonePe,c3e41040-10eb-47cc-884d-56d13ce2c3f3,5,good,2026-09-12 15:45:38,0,other,medium,0.0,No summary provided.
+PhonePe,97b4357b-5404-48ca-b470-e30d9870d7ee,5,good,2026-09-12 15:44:34,0,other,medium,0.0,No summary provided.
+PhonePe,d910c2b5-b8ca-40b9-8312-2a694ad06cc5,5,thank you,2026-09-12 15:37:10,0,praise_no_issue,low,0.7,Expresses gratitude for the app.
+PhonePe,4a8ab546-f5d4-441b-ba5d-4d637efa4831,5,good,2026-09-12 15:36:12,0,other,medium,0.0,No summary provided.
+PhonePe,c9cd1fba-d9f6-406b-a139-443bd9c01d0b,5,very good,2026-09-12 15:32:24,0,other,medium,0.0,No summary provided.
+PhonePe,80ea74fd-9a82-432b-bbff-e79656440478,5,good,2026-09-12 15:30:44,0,other,medium,0.0,No summary provided.
+PhonePe,947c2d6a-6e84-43bc-a330-598727add3ec,5,good,2026-09-12 15:24:38,0,other,medium,0.0,No summary provided.
+PhonePe,cafb0ab9-2181-4de7-a74d-014d0ba7ed04,4,good,2026-09-12 15:21:41,0,other,medium,0.0,No summary provided.
+PhonePe,105fab5a-0eba-4085-b09f-65a0831168e3,2,good app,2026-09-12 15:10:58,0,praise_no_issue,low,0.8,Simple praise for the app
+PhonePe,a00dad57-11e9-48bf-8108-1b45d8465ec4,5,super,2026-09-12 15:09:05,0,other,medium,0.0,No summary provided.
+PhonePe,4b21ad5f-e3cb-4fe2-b4f8-44cdb3882122,4,nice,2026-09-12 15:03:59,0,other,medium,0.0,No summary provided.
+PhonePe,a312aa37-8bb8-401d-95f3-0fb6f7699722,3,good,2026-09-12 14:57:40,0,other,medium,0.0,No summary provided.
+PhonePe,49bef188-14ff-475a-9814-2b9f7ab844d2,5,good,2026-09-12 14:54:08,0,other,medium,0.0,No summary provided.
+PhonePe,b096f130-a653-44af-aed3-0dc3f284a828,4,good,2026-09-12 14:53:59,0,other,medium,0.0,No summary provided.
+PhonePe,1c29a72f-e644-4d3d-a7c1-6d8f30280aab,5,good,2026-09-12 14:48:18,0,other,medium,0.0,No summary provided.
+PhonePe,88ac4ee8-c0a5-454d-a378-a14a20ab591b,5,good,2026-09-12 14:44:52,0,other,medium,0.0,No summary provided.
+PhonePe,62def653-899e-4fd1-b9f7-92dee89fd222,5,good,2026-09-12 14:41:22,0,other,medium,0.0,No summary provided.
+PhonePe,ff6e2d01-9d5a-4465-b88c-5b4415075589,5,good,2026-09-12 14:30:49,0,other,medium,0.0,No summary provided.
+PhonePe,b2f8c072-8290-4c7c-bfe3-e5f55d55bf70,5,superb,2026-09-12 14:24:29,0,other,medium,0.0,No summary provided.
+PhonePe,9bfffda6-849a-4e08-b1d8-ac941bb9146e,5,good,2026-09-12 14:19:10,0,other,medium,0.0,No summary provided.
+PhonePe,e3a4409f-cf37-444a-bb5a-06aab06d2d75,5,excellent,2026-09-12 14:13:47,0,other,medium,0.0,No summary provided.
+PhonePe,7f37cbae-6e0b-49c1-90db-eb0e68a1893a,5,good,2026-09-12 14:03:24,0,other,medium,0.0,No summary provided.
+PhonePe,06a9174c-daf7-4049-830c-10e5064e6beb,5,very nice,2026-09-12 14:02:26,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+PhonePe,c05a5fb3-44b3-4c43-a394-6fa1fec621e4,5,good,2026-09-12 13:48:35,0,other,medium,0.0,No summary provided.
+PhonePe,e2dc7719-e051-4442-931e-7a8e5c15d9c4,5,good,2026-09-12 13:38:33,0,other,medium,0.0,No summary provided.
+PhonePe,a2a337ba-fc3a-4a7d-86bf-c09dbad5b336,5,ok,2026-09-12 13:38:14,0,other,medium,0.0,No summary provided.
+PhonePe,b61b02bc-14cc-4003-874f-b522c795b75e,5,ok,2026-09-12 13:34:53,0,other,medium,0.0,No summary provided.
+PhonePe,0e8ba8aa-4b03-4e61-a86a-4612626b9a81,5,nice,2026-09-12 13:28:57,0,other,medium,0.0,No summary provided.
+PhonePe,1ded443b-054a-49f0-929b-b29ab47ea33a,5,best,2026-09-12 13:25:44,0,praise_no_issue,low,0.9,Praise for being the best app
+PhonePe,1ae40053-595e-411b-b7ff-4ba52ced7815,5,ok,2026-09-12 13:21:24,0,other,medium,0.0,No summary provided.
+PhonePe,2c80ca25-c7d6-4541-a8c2-c022f6063409,5,Nice,2026-09-12 13:20:55,0,praise_no_issue,low,0.5,Simple positive feedback describing the app as nice.
+PhonePe,4497918a-a45f-42c1-beb7-4ae795761d83,5,very good app,2026-09-12 13:20:41,0,praise_no_issue,low,0.9,User states the app is very good
+PhonePe,b961394b-2f58-4080-a13b-f86157e7f2a7,1,good,2026-09-12 13:17:37,0,other,medium,0.0,No summary provided.
+PhonePe,3645908a-7312-4388-87cb-ba8e39f0d444,5,good,2026-09-12 13:17:18,0,other,medium,0.0,No summary provided.
+PhonePe,fd6c52a3-8ab2-4c37-8fd3-df9c439c894c,5,thank you,2026-09-12 13:15:52,0,praise_no_issue,low,0.7,Expresses gratitude for the app.
+PhonePe,35f003f8-4ba8-4820-983d-dd0db003cd18,5,nice,2026-09-12 13:11:34,0,other,medium,0.0,No summary provided.
+PhonePe,61200bbe-c648-49f8-b3a2-722c86bd2032,5,ok,2026-09-12 13:03:19,0,other,medium,0.0,No summary provided.
+PhonePe,7a8b44f7-f0a1-48e4-a76f-241bd3e269bc,5,ok,2026-09-12 13:01:53,0,other,medium,0.0,No summary provided.
+PhonePe,d6066531-b90a-47f9-b5e1-b3b4b1591d21,5,good,2026-09-12 13:00:43,0,other,medium,0.0,No summary provided.
+PhonePe,abea177c-3964-4453-9bd7-6009cb6fa38e,5,good,2026-09-12 12:58:37,0,other,medium,0.0,No summary provided.
+PhonePe,d855e5d9-e74b-4c09-9eea-27159b15915b,5,super,2026-09-12 12:51:50,0,other,medium,0.0,No summary provided.
+PhonePe,6a226c6d-ab0a-431d-9fe8-26ca20bcad33,5,Best,2026-09-12 12:50:47,0,other,medium,0.0,No summary provided.
+PhonePe,2f911795-63f8-41b6-98e4-c2385bc6e0c3,5,best,2026-09-12 12:50:17,0,praise_no_issue,low,0.9,Praise for being the best app
+PhonePe,00861fe2-3d14-406c-8ca1-17e38d5c91a5,5,very good,2026-09-12 12:37:08,0,other,medium,0.0,No summary provided.
+PhonePe,55d01a9b-1c43-42fa-8ff0-cb0237e7c6a8,5,very nice,2026-09-12 12:33:48,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+PhonePe,d06311b4-3f97-492d-8fc3-f87521790806,5,good app,2026-09-12 12:29:27,0,praise_no_issue,low,0.8,Simple praise for the app
+PhonePe,f2725e16-8df3-4af5-8388-d63abf464d19,5,good,2026-09-12 12:17:19,0,other,medium,0.0,No summary provided.
+PhonePe,146a56d0-87aa-4803-a6e4-2e71e7d6b554,5,excellent,2026-09-12 12:16:04,0,other,medium,0.0,No summary provided.
+PhonePe,b2abb25d-71f1-425e-bc30-c9402fcae3db,5,good,2026-09-12 12:10:27,0,other,medium,0.0,No summary provided.
+PhonePe,975fd024-22fa-49fc-ace9-04b7764c9e52,5,super,2026-09-12 12:06:58,0,other,medium,0.0,No summary provided.
+PhonePe,a34884ef-5862-4887-afb5-1c8c0a2ead11,5,very nice,2026-09-12 12:03:58,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+PhonePe,92ed4aa0-8580-4738-b40e-6bc20acf87b9,5,ok,2026-09-12 11:59:43,0,other,medium,0.0,No summary provided.
+PhonePe,635cf769-a731-4ad3-a46a-28fe4dce1e01,5,good,2026-09-12 11:49:04,0,other,medium,0.0,No summary provided.
+PhonePe,81cc006d-b039-4083-a998-fbb6cf02f905,5,good,2026-09-12 11:46:37,0,other,medium,0.0,No summary provided.
+PhonePe,11b6e263-9e1c-44f1-9006-86bb6d810189,5,good app,2026-09-12 11:45:51,0,praise_no_issue,low,0.8,Simple praise for the app
+PhonePe,abeac159-275a-40f0-8e86-651283da0810,5,good,2026-09-12 11:36:56,0,other,medium,0.0,No summary provided.
+PhonePe,4c0ce784-9404-4919-bfc1-7cd6a1f38008,5,good 👍,2026-09-12 11:35:57,0,other,medium,0.0,No summary provided.
+PhonePe,d3eb05b3-16df-43c5-a677-93531897e4eb,5,good,2026-09-12 11:33:48,0,other,medium,0.0,No summary provided.
+PhonePe,51b9e810-9d02-41cb-be84-55198cc3ac15,4,good,2026-09-12 11:29:10,0,other,medium,0.0,No summary provided.
+PhonePe,ffdf1dfd-510c-457e-95f8-e31822351a1d,5,good,2026-09-12 11:22:55,0,other,medium,0.0,No summary provided.
+PhonePe,12ca3939-13dc-4cc4-85c2-e355c752612b,4,good,2026-09-12 11:21:04,0,other,medium,0.0,No summary provided.
+PhonePe,2f67cc4b-6c7f-4345-90a8-44165ff5d96a,5,good,2026-09-12 11:16:38,0,other,medium,0.0,No summary provided.
+PhonePe,f74bf294-c1ff-470a-af14-0988ebec85e6,5,nice,2026-09-12 11:14:14,0,other,medium,0.0,No summary provided.
+PhonePe,5bb7df64-756c-4c9c-bd1e-477d264210c3,5,👍,2026-09-12 11:08:23,0,other,medium,0.0,No summary provided.
+PhonePe,69fbdc3f-8d87-4976-a03f-f149cb403c42,5,amazing,2026-09-12 10:57:21,0,other,medium,0.0,No summary provided.
+PhonePe,1d1d9c05-e0c4-4223-8bf3-b3ec43d75db2,5,nice,2026-09-12 10:54:26,0,other,medium,0.0,No summary provided.
+PhonePe,94c47c55-3595-4df8-8088-9caf359df32d,5,nice,2026-09-12 10:52:42,0,other,medium,0.0,No summary provided.
+PhonePe,6bc4dfa4-5714-4a58-ae91-a772e7b0efb7,1,nice,2026-09-12 10:49:23,0,other,medium,0.0,No summary provided.
+PhonePe,a98ae603-a70a-4921-97ef-2f2160d56266,5,very nice,2026-09-12 10:47:30,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+PhonePe,696fd2d3-724e-4db5-9e10-0e5cb20a8b36,4,nice,2026-09-12 10:46:04,1,other,medium,0.0,No summary provided.
+PhonePe,05dd6b03-9418-40ad-91a2-4af1adf3087d,5,Excellent,2026-09-12 10:44:49,0,praise_no_issue,low,0.9,User considers the app excellent
+PhonePe,29575a05-a7fc-4c3a-b239-1125af5a62cf,5,good service,2026-09-12 10:43:48,0,praise_no_issue,low,0.8,Expresses satisfaction with good service
+PhonePe,0ba7c16a-6e26-48ae-9cc8-ab4fc11fb166,5,good,2026-09-12 10:38:00,0,other,medium,0.0,No summary provided.
+PhonePe,4a83b57a-d26f-4798-9022-401c4a1ece16,4,Nice,2026-09-12 10:33:01,0,praise_no_issue,low,0.5,Simple positive feedback describing the app as nice.
+PhonePe,c011bcc7-1651-4468-b3e3-dc9b9519e678,5,very nice,2026-09-12 10:24:23,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+PhonePe,8e38a475-f3c6-4b82-b5f5-a7c3425ce058,5,ok,2026-09-12 10:20:50,0,other,medium,0.0,No summary provided.
+PhonePe,ddc039cb-0bc3-423c-9147-f9c91650396c,5,best,2026-09-12 10:16:00,0,praise_no_issue,low,0.9,Praise for being the best app
+PhonePe,fe390a44-91e7-429c-876b-fc0ee28fb5c6,5,Good,2026-09-12 10:11:20,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+PhonePe,1c17ca49-9fd5-4df8-bd9a-e61d94443254,4,good,2026-09-12 10:06:22,0,other,medium,0.0,No summary provided.
+PhonePe,ef925f07-6185-4008-8e51-8cc6d00514a0,5,nice,2026-09-12 10:03:56,0,other,medium,0.0,No summary provided.
+PhonePe,cbc499e8-951a-4e70-ab02-1ab08c74fab7,5,nice,2026-09-12 10:02:22,0,other,medium,0.0,No summary provided.
+PhonePe,06ea59ac-ba94-4f75-bb70-2d1e6824c97c,5,good👍,2026-09-12 10:01:05,0,praise_no_issue,low,0.8,Positive rating for good experience
+PhonePe,c2fe29d7-4f60-46b9-b569-6edde80560cb,5,good,2026-09-12 09:59:03,0,other,medium,0.0,No summary provided.
+PhonePe,5a3710ae-600c-437d-987f-df54989eab28,5,super,2026-09-12 09:57:40,0,other,medium,0.0,No summary provided.
+PhonePe,18b30a84-9731-4743-af29-de180c910d6e,5,best,2026-09-12 09:51:40,0,praise_no_issue,low,0.9,Praise for being the best app
+PhonePe,756b7380-d5d8-40f7-9152-b2add45a4fa7,5,awesome,2026-09-12 09:45:10,0,praise_no_issue,low,0.9,Awesome app experience
+PhonePe,8edfb8c7-a0e6-4939-ac98-150e5c2ab805,5,Good 👍,2026-09-12 09:31:54,0,praise_no_issue,low,0.8,Short positive review with a thumbs-up emoji
+PhonePe,cb8606f9-9718-463d-8c94-9f3062751be0,4,Good 👍,2026-09-12 09:16:03,0,praise_no_issue,low,0.8,Short positive review with a thumbs-up emoji
+PhonePe,68bb84b5-603b-4a57-952c-af64e2db1ecf,5,good,2026-09-12 09:14:39,0,other,medium,0.0,No summary provided.
+PhonePe,41144aaa-33e5-42c8-a6ec-393fb845c8cb,4,Nice,2026-09-12 09:10:48,0,praise_no_issue,low,0.5,Simple positive feedback describing the app as nice.
+PhonePe,365bbfe1-e756-488b-baf5-496e692dde28,5,good,2026-09-12 09:10:14,0,other,medium,0.0,No summary provided.
+PhonePe,9e3168a5-d93c-4e68-b205-79ae402fe2b3,4,good,2026-09-12 09:08:37,1,other,medium,0.0,No summary provided.
+PhonePe,a4f5e60b-8cf0-4090-b746-ca4144ddcdcf,5,nice,2026-09-12 09:08:15,0,other,medium,0.0,No summary provided.
+PhonePe,239a5e2d-eef6-42f5-9f4c-05d8ac6d443e,5,good,2026-09-12 09:07:10,0,other,medium,0.0,No summary provided.
+PhonePe,fd1e9f60-3894-4692-b390-c53bb5752d06,5,good,2026-09-12 09:06:55,0,other,medium,0.0,No summary provided.
+PhonePe,759e48e0-7a73-4bc4-b8fe-39b7ac8d07fe,5,good,2026-09-12 09:01:48,0,other,medium,0.0,No summary provided.
+PhonePe,2aab9c09-ed9a-436b-9a27-034b5918ec3f,5,good,2026-09-12 08:55:47,0,other,medium,0.0,No summary provided.
+PhonePe,dd5a9d55-868c-4a4d-97fa-f34d429c5353,5,nice,2026-09-12 08:50:27,0,other,medium,0.0,No summary provided.
+PhonePe,32fa7d75-3440-4d9e-8a68-de700cc35d49,4,good,2026-09-12 08:47:06,0,other,medium,0.0,No summary provided.
+PhonePe,7abe634c-6aab-451d-ae2f-326e93d7b634,5,good,2026-09-12 08:38:01,0,other,medium,0.0,No summary provided.
+PhonePe,bf96ee80-14b1-4616-bdf2-b6bde9e069ee,3,good,2026-09-12 08:35:50,0,other,medium,0.0,No summary provided.
+PhonePe,6c93811d-1057-456f-864a-e1604c26b0ca,5,Good,2026-09-12 08:34:14,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+PhonePe,ce0350db-9562-43ca-b4f4-45d6504a4c2d,5,super,2026-09-12 08:20:11,0,other,medium,0.0,No summary provided.
+PhonePe,f5fda2bd-8e6f-4f34-b9e7-75a12274db3f,5,good app,2026-09-12 08:08:16,0,praise_no_issue,low,0.8,Simple praise for the app
+PhonePe,302b4968-07f1-4602-ae56-b768054b75c3,5,super,2026-09-12 08:08:07,0,other,medium,0.0,No summary provided.
+PhonePe,7f01c077-f8e1-47a8-90d4-b9bd77eb1884,3,excellent,2026-09-12 08:05:17,1,other,medium,0.0,No summary provided.
+PhonePe,98d73f03-ef9d-4a76-a072-5ccf5e259f7a,5,nice,2026-09-12 08:00:42,0,other,medium,0.0,No summary provided.
+PhonePe,44121012-69a3-4e07-876b-c5a4184d049e,5,nice,2026-09-12 07:53:44,0,other,medium,0.0,No summary provided.
+PhonePe,a1942d13-eeef-49b7-bcfa-9dd12e2d06c0,5,very good,2026-09-12 07:50:48,0,other,medium,0.0,No summary provided.
+PhonePe,3a3ea584-d141-4a2d-af91-f6968694a769,5,Best app,2026-09-12 07:41:11,0,other,medium,0.0,No summary provided.
+PhonePe,cf03648c-605b-4375-ad90-24de14a598cc,5,super,2026-09-12 07:34:08,0,other,medium,0.0,No summary provided.
+PhonePe,a9cc5b42-90eb-4ae4-bc5f-9a10abdb90a0,2,ok,2026-09-12 07:29:30,0,other,medium,0.0,No summary provided.
+PhonePe,eca2d05c-1429-4e18-8e1a-d65bd303f1c4,5,nice,2026-09-12 07:10:20,0,other,medium,0.0,No summary provided.
+PhonePe,31d766d6-9240-41ec-adb8-2d8c621e8a15,5,good,2026-09-12 07:06:25,0,other,medium,0.0,No summary provided.
+PhonePe,08b6b2f9-ebc9-406d-9246-c5a5a65a67c8,4,👍,2026-09-12 06:54:09,0,other,medium,0.0,No summary provided.
+PhonePe,c8eeec50-52f0-49a9-8a57-2e5cead40a0a,5,good,2026-09-12 06:43:56,0,other,medium,0.0,No summary provided.
+PhonePe,897d7af8-0171-4610-9843-e2347563b784,5,good,2026-09-12 06:42:09,0,other,medium,0.0,No summary provided.
+PhonePe,39abe959-dfcd-4eae-aebd-779ed5e00804,5,best,2026-09-12 06:37:56,0,praise_no_issue,low,0.9,Praise for being the best app
+PhonePe,f8028bf8-1607-4f87-80a1-941952abb497,5,good,2026-09-12 06:35:31,0,other,medium,0.0,No summary provided.
+PhonePe,8b7c9a13-233d-4ef0-8364-8036fa760b77,5,good,2026-09-12 05:59:49,0,other,medium,0.0,No summary provided.
+PhonePe,32173ae7-99e4-4507-890f-7c4afc1f1a27,5,good app,2026-09-12 05:57:42,0,praise_no_issue,low,0.8,Simple praise for the app
+PhonePe,0aad2293-876a-4778-95d4-78d22344546d,5,good 👍,2026-09-12 05:56:49,0,other,medium,0.0,No summary provided.
+PhonePe,0c81bb02-6e82-46c2-999d-f0e2a6e72918,5,good,2026-09-12 04:15:13,0,other,medium,0.0,No summary provided.
+PhonePe,cc7b4565-1250-44b8-947d-37101ad1b1fd,4,nice,2026-09-12 04:14:36,0,other,medium,0.0,No summary provided.
+PhonePe,93e5adc1-14ed-4370-bfba-ec75e59f7318,5,very nice 👍,2026-09-12 02:18:00,0,other,medium,0.0,No summary provided.
+PhonePe,e22fff5a-6e35-43d2-b42c-1fec0621618b,5,nice,2026-09-12 02:03:41,0,other,medium,0.0,No summary provided.
+PhonePe,5c2ba343-0fe0-4e5d-88fc-243b6e5571aa,5,good,2026-09-12 01:20:39,0,other,medium,0.0,No summary provided.
+PhonePe,1dc8eb86-765e-4855-b073-e3cfcc8e6fe4,5,nice,2026-09-12 00:33:11,0,other,medium,0.0,No summary provided.
+PhonePe,4c434eab-0dbb-4f5f-b0b1-1e59b62dfe8f,5,ok,2026-09-12 00:29:30,0,other,medium,0.0,No summary provided.
+PhonePe,b409ee40-695c-4157-90b6-c7bf4052a0f6,5,superb,2026-09-11 23:47:18,0,other,medium,0.0,No summary provided.
+PhonePe,203bc7b0-faec-4501-a204-e5e66754fa31,5,nice,2026-09-11 23:37:08,0,other,medium,0.0,No summary provided.
+PhonePe,4a5e847b-9243-4f22-9263-4fa792cda448,5,good 👍,2026-09-11 23:36:01,0,other,medium,0.0,No summary provided.
+PhonePe,8ecdc4e7-2791-4293-b788-0f4122984bb7,5,very nice,2026-09-11 23:35:27,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+PhonePe,a735b907-26eb-4ca4-8a7a-8a6649f79ad4,5,very good,2026-09-11 23:34:19,0,other,medium,0.0,No summary provided.
+PhonePe,c3f688a3-77ee-4d1f-9350-32aaebd747fc,5,good,2026-09-11 23:23:03,0,other,medium,0.0,No summary provided.
+PhonePe,59125d2f-73f1-42ab-a3ff-87c164b529b6,4,good,2026-09-11 23:04:02,0,other,medium,0.0,No summary provided.
+PhonePe,0a833af2-8419-4b29-950e-7ede9970b26a,5,good,2026-09-11 23:00:54,0,other,medium,0.0,No summary provided.
+PhonePe,434ca994-4f5b-4d39-997b-4d35098d99c8,4,Good app,2026-09-11 22:38:55,0,other,medium,0.0,No summary provided.
+PhonePe,647ae653-ae35-4104-9d87-ad586d56d320,5,good,2026-09-11 22:36:48,0,other,medium,0.0,No summary provided.
+PhonePe,5072c9f6-f9bc-4f28-8d30-c87ebc360c88,5,❤️,2026-09-11 22:30:39,0,praise_no_issue,low,0.8,User leaves a heart emoji expressing satisfaction.
+PhonePe,95194e6d-1918-469e-8231-cb0935dd7868,4,very good,2026-09-11 22:23:07,0,other,medium,0.0,No summary provided.
+PhonePe,c9440bd3-e9c2-4632-b551-9c24b27c2a17,5,good service,2026-09-11 22:22:38,0,praise_no_issue,low,0.8,Expresses satisfaction with good service
+PhonePe,ecb836eb-7334-4959-8174-b341c9b24bf5,5,good,2026-09-11 22:14:56,0,other,medium,0.0,No summary provided.
+PhonePe,f1842424-9831-44b4-b686-a53cd30ef762,3,nice,2026-09-11 22:12:48,0,other,medium,0.0,No summary provided.
+PhonePe,37bc9f7f-1fb2-4aca-9c99-7155abfc5a6f,5,great,2026-09-11 22:03:58,0,other,medium,0.0,No summary provided.
+PhonePe,fd5236cd-f731-48b7-b0e7-93d567f853a7,5,nice,2026-09-11 21:52:42,0,other,medium,0.0,No summary provided.
+PhonePe,7661dc1f-0400-4385-a70d-e6c00c649c78,5,nice,2026-09-11 21:46:38,0,other,medium,0.0,No summary provided.
+PhonePe,3cc42532-cf70-48dd-9c3f-8fa3b8bf33ab,5,good 👍,2026-09-11 21:39:28,0,other,medium,0.0,No summary provided.
+PhonePe,519151b0-1cc2-49b5-ad7e-5bded2e8d770,4,best,2026-09-11 21:29:11,0,praise_no_issue,low,0.9,Praise for being the best app
+PhonePe,706d42f2-a0f4-44b4-9562-cdd50cea82bf,4,nice,2026-09-11 21:27:08,0,other,medium,0.0,No summary provided.
+PhonePe,113d77ec-085e-4398-8b26-8061663fbba4,5,good,2026-09-11 21:21:34,0,other,medium,0.0,No summary provided.
+PhonePe,8b46ba1d-9331-466e-b20b-a0c6d102b42d,5,super,2026-09-11 21:21:16,0,other,medium,0.0,No summary provided.
+PhonePe,1dbaf925-d531-4fc3-8fb1-f3af1ba19e85,5,best,2026-09-11 21:15:02,0,praise_no_issue,low,0.9,Praise for being the best app
+PhonePe,9ef13adf-31e6-4d20-85b5-91f3a46cf03e,4,good,2026-09-11 21:07:35,0,other,medium,0.0,No summary provided.
+PhonePe,bcf0a1b2-b878-49a3-b817-bb0d2b9df2bb,5,good,2026-09-11 21:02:33,0,other,medium,0.0,No summary provided.
+PhonePe,f0b265bf-2895-4a8b-9116-46c9f906fb2b,5,good,2026-09-11 20:55:59,0,other,medium,0.0,No summary provided.
+PhonePe,470f1098-c6da-4899-bbdd-d4e3228d2f5d,4,good 😊,2026-09-11 20:51:40,0,other,medium,0.0,No summary provided.
+PhonePe,e6934a8a-7ada-4614-b726-367ec897efdb,5,Nice,2026-09-11 20:49:35,0,praise_no_issue,low,0.5,Simple positive feedback describing the app as nice.
+PhonePe,10b88313-a140-48dc-8c13-443cd9304690,5,super,2026-09-11 20:38:17,0,other,medium,0.0,No summary provided.
+PhonePe,6748cbc8-1640-4e4c-a237-2927dc140161,5,great,2026-09-11 20:38:05,0,other,medium,0.0,No summary provided.
+PhonePe,6b6f7b80-956a-422a-8bca-31c88b26b34b,5,good,2026-09-11 20:33:43,0,other,medium,0.0,No summary provided.
+PhonePe,75273a61-b5de-4c5b-bf35-b4c64de868a8,5,ok,2026-09-11 20:26:15,0,other,medium,0.0,No summary provided.
+PhonePe,4a6329b6-a8e8-45db-a5dc-590a146ade3b,5,super,2026-09-11 20:24:39,0,other,medium,0.0,No summary provided.
+PhonePe,2d55a408-adef-46fe-bb5a-197de3be96ce,5,good,2026-09-11 20:14:02,0,other,medium,0.0,No summary provided.
+PhonePe,87e332ef-eeae-4acf-9a5a-0418ed4f79a7,5,good,2026-09-11 20:12:48,0,other,medium,0.0,No summary provided.
+PhonePe,0ac30efb-dd30-41a7-b3ad-3ffcc008a1ab,5,good,2026-09-11 20:10:44,0,other,medium,0.0,No summary provided.
+PhonePe,48fb286b-da16-42f0-afaf-e2e9e6633c7f,5,Nice,2026-09-11 20:04:31,0,praise_no_issue,low,0.5,Simple positive feedback describing the app as nice.
+PhonePe,63344c97-9217-4c06-a117-feffd95b82bd,5,very good,2026-09-11 19:48:51,0,other,medium,0.0,No summary provided.
+PhonePe,b78dd638-9841-46c3-ae7d-98bb807b199e,4,ok,2026-09-11 19:47:06,0,other,medium,0.0,No summary provided.
+PhonePe,5cf43139-e5a8-4021-b272-f69784d6e0f5,5,good app,2026-09-11 19:42:44,0,praise_no_issue,low,0.8,Simple praise for the app
+PhonePe,a3dcd0ef-a23f-4e6e-80bb-3203cadfa61e,5,good,2026-09-11 19:34:23,0,other,medium,0.0,No summary provided.
+PhonePe,d5c273d9-e8f0-4a41-b1c3-25f967e0881c,2,poor,2026-09-11 19:33:35,0,other,low,-0.7,Generic negative feedback stating poor experience.
+PhonePe,ea562eb9-5aca-455f-84ba-7bd2580506c5,3,good,2026-09-11 19:31:27,0,other,medium,0.0,No summary provided.
+PhonePe,acf12c22-32b9-48bc-91b8-1945cb3eeba8,5,nice,2026-09-11 19:31:17,0,other,medium,0.0,No summary provided.
+PhonePe,c55fb975-2275-47d1-a9d4-d270bbe5c26a,5,nice,2026-09-11 19:30:59,0,other,medium,0.0,No summary provided.
+PhonePe,170c5d22-a227-4a6b-9e78-0437fc34baf6,5,great,2026-09-11 19:27:31,0,other,medium,0.0,No summary provided.
+PhonePe,e84a991b-d0c0-4e59-ba04-1b1371964344,3,nice,2026-09-11 19:25:40,0,other,medium,0.0,No summary provided.
+PhonePe,7354616e-1f8c-449f-9e38-3a9beea81ecf,5,good,2026-09-11 19:17:18,0,other,medium,0.0,No summary provided.
+PhonePe,937699c7-5bc7-4269-9446-bd6d4a4652aa,5,very nice,2026-09-11 19:10:42,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+PhonePe,42ae5235-9da2-4074-9ad2-366cee750ade,5,good,2026-09-11 19:03:39,0,other,medium,0.0,No summary provided.
+PhonePe,c1f769d8-4d48-4234-b14f-aee2f147be64,5,nice,2026-09-11 19:03:26,0,other,medium,0.0,No summary provided.
+PhonePe,5e015070-dcfe-49aa-938e-4f87581a39f9,5,good,2026-09-11 19:02:52,0,other,medium,0.0,No summary provided.
+PhonePe,6647a323-fb6d-41d1-8107-610a7233725d,5,good,2026-09-11 19:02:33,0,other,medium,0.0,No summary provided.
+PhonePe,d70010bf-7ed8-4758-8852-b2f089b7d33e,5,good,2026-09-11 19:02:02,0,other,medium,0.0,No summary provided.
+PhonePe,0f62deeb-9050-4acc-83d7-1755d1dbcf18,5,very good,2026-09-11 18:56:37,0,other,medium,0.0,No summary provided.
+PhonePe,f13c0665-e06d-4cab-b864-62f0e6061221,5,good,2026-09-11 18:56:29,0,other,medium,0.0,No summary provided.
+PhonePe,5f840684-20ee-4a76-adf7-d1ea386a7198,5,good,2026-09-11 18:55:13,0,other,medium,0.0,No summary provided.
+PhonePe,a517a0a6-7ab3-4117-9318-84f34f02918b,5,good,2026-09-11 18:54:54,0,other,medium,0.0,No summary provided.
+PhonePe,9eea488a-2a0b-4963-9c37-75a73bc2e26b,5,👍,2026-09-11 18:53:57,0,other,medium,0.0,No summary provided.
+PhonePe,b4460eba-b6f8-4737-a602-e2a809ac5c68,5,Good,2026-09-11 18:52:55,0,praise_no_issue,low,0.6,Short positive review rating the app as good
+PhonePe,9e3d3ab9-d1fb-412c-b9cc-83e7965601a2,5,very nice,2026-09-11 18:51:08,0,praise_no_issue,low,0.8,User gives positive feedback stating the app is very nice.
+PhonePe,4b770af7-4861-4a53-9eef-5644f21e9310,5,best,2026-09-11 18:49:56,0,praise_no_issue,low,0.9,Praise for being the best app
+PhonePe,42989241-0142-40fe-8577-8325e17d8c56,1,nice,2026-09-11 18:49:54,0,other,medium,0.0,No summary provided.
+PhonePe,5e53bd7d-cbff-41f3-be9c-09343977123b,5,good,2026-09-11 18:46:22,0,other,medium,0.0,No summary provided.
+PhonePe,b251d84c-6ae0-43a3-9498-ab81482deffc,5,good,2026-09-11 18:45:51,0,other,medium,0.0,No summary provided.
+PhonePe,2d640fe7-d265-41b8-bfd3-15e9fd0820ee,5,good,2026-09-11 18:45:37,0,other,medium,0.0,No summary provided.
+PhonePe,571570d6-1da1-492e-96ba-0ef36d26b34e,5,awesome,2026-09-11 18:44:17,0,praise_no_issue,low,0.9,Awesome app experience
+PhonePe,ad64d743-513f-4ba1-aaeb-40929fb56c80,5,awesome,2026-09-11 18:44:13,0,praise_no_issue,low,0.9,Awesome app experience
+PhonePe,20524b39-65f0-4c3e-b1c4-e2d84cf88555,3,nice,2026-09-11 18:34:29,0,other,medium,0.0,No summary provided.
+PhonePe,c054cebf-2d6a-4721-a252-5918819410de,4,ok,2026-09-11 18:32:30,0,other,medium,0.0,No summary provided.
+PhonePe,64f3b202-3183-4669-9a91-8783abe7af6f,5,nice,2026-09-11 18:27:34,0,other,medium,0.0,No summary provided.
+PhonePe,d1fbe8eb-6230-4a03-99e5-70e40ecfa74e,5,excellent,2026-09-11 18:21:43,0,other,medium,0.0,No summary provided.
+PhonePe,80994deb-3721-4e93-a403-f8aaefd6f9d2,5,good,2026-09-11 18:18:57,0,other,medium,0.0,No summary provided.
+PhonePe,9d8363f9-61d7-40a1-9f12-ed56fb819ff3,5,good,2026-09-11 18:16:25,0,other,medium,0.0,No summary provided.
+PhonePe,5b3e153e-759f-4601-96db-bdf42f86f95b,5,good,2026-09-11 18:12:05,0,other,medium,0.0,No summary provided.
+PhonePe,6760d7e4-955c-43ef-b3e5-e5bec0111421,5,good,2026-09-11 18:07:33,0,other,medium,0.0,No summary provided.
+PhonePe,b1550129-eaf8-49fc-9e1f-e3fd950cbad4,5,best,2026-09-11 18:07:11,0,praise_no_issue,low,0.9,Praise for being the best app
+PhonePe,b9b386b9-3bcb-447c-b770-8ed69eb065b9,5,good,2026-09-11 18:05:27,0,other,medium,0.0,No summary provided.
+PhonePe,a978d5d0-3c83-4365-9ac5-10682e21956f,5,nice,2026-09-11 17:54:38,0,other,medium,0.0,No summary provided.
+PhonePe,9d7742f9-f05b-4561-ac56-0c8b70719547,5,good,2026-09-11 17:51:35,0,other,medium,0.0,No summary provided.
+PhonePe,87d45ed3-8f14-4d87-b951-59e445fd1890,5,nice,2026-09-11 17:51:28,0,other,medium,0.0,No summary provided.
+PhonePe,207b0cab-9334-4713-b8b3-ce38972a7a07,5,good,2026-09-11 17:49:37,0,other,medium,0.0,No summary provided.
+PhonePe,20c32556-b643-4b88-9b0e-e09527be3b59,5,good,2026-09-11 17:40:53,0,other,medium,0.0,No summary provided.
+PhonePe,8074a257-86db-4a06-bad6-4e3bf0948fc3,3,good,2026-09-11 17:36:28,0,other,medium,0.0,No summary provided.
+PhonePe,7f190c63-2559-4c01-96d5-4cf78df6b946,5,excellent,2026-09-11 17:30:30,0,other,medium,0.0,No summary provided.
+PhonePe,36ba8377-740e-41c2-8918-5b74b1cf5f89,5,super,2026-09-11 17:26:57,0,other,medium,0.0,No summary provided.
+PhonePe,8a786937-ac7e-49ca-a6a0-1add0db7693f,5,good app,2026-09-11 17:24:23,0,praise_no_issue,low,0.8,Simple praise for the app
+PhonePe,6c615b3d-1667-42e8-9993-8c0fd58c8235,5,Nice,2026-09-11 17:22:54,0,praise_no_issue,low,0.5,Simple positive feedback describing the app as nice.
+PhonePe,4e6dd28b-1cde-4769-b73b-1624cb3b0901,4,Nice,2026-09-11 17:22:53,0,praise_no_issue,low,0.5,Simple positive feedback describing the app as nice.
+PhonePe,35b1c019-9e75-4fbf-9efb-fde7052681b5,4,good,2026-09-11 17:21:45,0,other,medium,0.0,No summary provided.
+PhonePe,c392ac50-8fec-43d0-9124-fa8b700b877d,5,very good,2026-09-11 17:14:48,0,other,medium,0.0,No summary provided.
+PhonePe,b196b0f5-ba28-4af1-8c2d-fb4320a3c2e9,5,super,2026-09-11 17:13:10,0,other,medium,0.0,No summary provided.
+PhonePe,df8a17b5-a757-46cf-a727-c1ffdda25d86,5,good,2026-09-11 17:10:01,0,other,medium,0.0,No summary provided.
+PhonePe,34fde569-f699-4aa4-a4dc-81659407f316,5,good,2026-09-11 17:09:06,0,other,medium,0.0,No summary provided.
+PhonePe,6934c370-7774-4d80-ab43-225c5a71f4a0,5,very good 👍,2026-09-11 16:55:40,0,praise_no_issue,low,0.9,Very positive feedback on the app
+PhonePe,9898984a-8af5-43c1-aaf0-644b8989b901,5,good 👍,2026-09-11 16:47:39,0,other,medium,0.0,No summary provided.
+PhonePe,d44e03bd-4ac3-45d9-815b-97f698ef6996,4,good,2026-09-11 16:47:26,0,other,medium,0.0,No summary provided.
+PhonePe,d662833f-cac8-4ff4-ad02-7b1608cee768,5,good,2026-09-11 16:40:07,0,other,medium,0.0,No summary provided.
+PhonePe,e4d5da02-16a0-4004-a813-479bbcdf5325,5,good service,2026-09-11 16:37:45,0,praise_no_issue,low,0.8,Expresses satisfaction with good service

@@ -1,0 +1,35 @@
+You are an expert product analyst specializing in Indian fintech and UPI payment applications.
+
+Analyze the following batch of customer reviews and classify each one. Return ONLY valid JSON — no markdown, no commentary.
+
+Taxonomy of themes:
+- failed_transaction: Payment failures, transaction timeouts, money debited but not credited, UPI errors
+- kyc_friction: KYC verification issues, document upload problems, account verification delays
+- refund_delay: Refund not received, cashback not credited, money stuck in processing
+- customer_support: Poor support experience, no response from support, unhelpful support agents
+- app_crash_bug: App crashes, freezes, slow loading, technical bugs, login issues
+- ui_confusion: Confusing navigation, hard to find features, poor UX design
+- fraud_security_concern: Unauthorized transactions, phishing, security worries, account hacked
+- praise_no_issue: Positive review, satisfied user, praise for features
+- other: Doesn't fit any above category
+
+Severity guidelines:
+- high: Blocks a core money-movement action (payment failure, money lost, fraud)
+- medium: Degrades experience significantly but doesn't block transactions (slow refund, KYC delays, crashes)
+- low: Cosmetic or minor inconvenience (UI issues, minor bugs, general complaints)
+
+For each numbered review below, return a JSON object with:
+- review_number (int): the number of the review
+- theme (str): one of the taxonomy values above
+- severity (str): "low", "medium", or "high"
+- sentiment_score (float): -1.0 (very negative) to 1.0 (very positive)
+- one_line_summary (str): a short paraphrase of the core complaint or praise
+
+Return a JSON array of objects. Example format:
+[
+  {"review_number": 1, "theme": "failed_transaction", "severity": "high", "sentiment_score": -0.9, "one_line_summary": "Payment failed during UPI transfer, money debited but not received by recipient"},
+  {"review_number": 2, "theme": "praise_no_issue", "severity": "low", "sentiment_score": 0.8, "one_line_summary": "Happy with fast and easy bill payments"}
+]
+
+Reviews to classify:
+{{REVIEWS}}

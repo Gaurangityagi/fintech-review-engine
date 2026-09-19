@@ -1,0 +1,2540 @@
+{
+  "055cc2e9baeb041db01bce7f3eb6f4b4994f67f34380c39a432fde78cadb3d8f": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "e186022d0931afe9fe0690857e32f85e50165e7fbe0966d49609ef1981f920c6": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "770e607624d689265ca6c44884d0807d9b054d23c473c106c72be9de08b7376c": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "95b82b6c6a39063be1c3bf9a61af3d16195862830da26d150a8e1cb99af714d9": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "6f48810566f3743ebe444382ec0b5778415a0e0d426d178ab0dc11d15d66c652": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "2ad1e262582c5585e60a4b64a04e205ea838667552b1f762d3da1ccac3c017f1": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "88ced0f3625c3ffa8b4778915d8bc54ae10ea5068dfec66d822f5bb897dbf0f0": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "72a7ab318788b3628e9f10ad3dcb0ee63eeb1dd0ce0f246fdab0740a391f8fae": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "8a6cfbf86be04cba922917f2ba4dedc0ff6c85839cb6ed0163e416ecf19fb64f": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "73d1b1b1bc1dabfb97f216d897b7968e44b06457920f00f2dc6c1ed3be25ad4c": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "8296b9df1523eb4d1047d69e5249185ffcd84c213b06165331262520dc29cb59": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "af6092658bfbaaa4c89554f41a4ec49693ce17a0799711d28cfa854aaa1a671c": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "445b8cffe54bce21a8e1ee3d326232194db7465da944c3fa3440d4b5b5ac17f5": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "ebf38f323fff644b0bd8242ae429f01d1e64865dee210f4a30a4b530ba3757e9": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "c4552d353545bcf65679fe1fff1090c3c682d260547b477b499f16e7ed65fb46": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "f1879be4181e4993c4e93f8cd83f564fc3f5a0992937813771b8dcc475c8e7a7": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "3e2260b6184076c044006ab99bcb50f4c73fde892dfd5d160a9f0d65b44d63c9": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "be7d64643d7ebd0b20f8dbae2982d3dda8c97541e8531211e0d08dda4144c4c1": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "01431b46f1839c1e618e12e888517c14111dc35c9308d59efcb15eed5c2f178d": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "eaa776814b7a87a70345d695633e80ef7639d4ae48bd165890e80ad2f496de7d": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "63c2dc51d089559ce10804e8184e2a80b717548fd33930b780214b2997c034cf": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "65e3ddd1c6142c3e94f684d7809d29ff6307a52e83538c7dd3a063cc27e71b8f": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "0859146367cf73a0ea256fef242a141b2270a6acc2ad8aa50f819452f8b34890": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "aea4fb56b03bb4fc74517c0f25a3537992753d2f9e0e26c48bb9a52e4c92a0ec": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "f7da7bd47bb5e89681bb4822c9bb339d58b15af6cc49112dcb5f3b18e4ed931f": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "057866d5a446b1593cfa5502d96838c65a7b6a87c7b762bbed6b1415ade19ee9": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "25d37642924779d355bd710e2bc440252219b2b2ff24746fca4a244fd5538782": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "624d026dc13e1e189f9ea4ca66a065466d3f438dd94250ee8bc45ab57566374e": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "2689367b205c16ce32ed4200942b8b8b1e262dfc70d9bc9fbc77c49699a4f1df": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "6d785acc7d4ce49fe4e4bbf276dc73f1cf7c20094d3e96fe84ef79fbebcaf88a": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "43bedf2a1d0b6ca79775b57b68b381f68b47913bd5f2c64184f834ade7f1898d": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "f55ab6e2a9c97b73bd51e049b335a140b7ece3a5199bf236e0279eca31ea4313": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "4e8e810ee6a940afc3ffa159f40360e60efa4c63d4a903632f56767590473775": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "d22951928224a9e18550fa978b55fa858ee838d83b756c84c0b834a2913b8ff9": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "a15b04db7966b96cad7e60158a4e03f335b7fad88605eebb9a45a5986efc3b82": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "affd7f16213c85e1188fba374f7430d3d4f25689ea72640a9ecd5d500f4bb728": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "e88cec6580fcff1dac7b411873fac3b292c52c398cef67cf7b2168b267f61017": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "3f4e5d68f49077547ea3abe34278a347f8483f6b3c1ee6fc01cc466c01568d1e": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "0e01c3940ce94c8873832f8cba9306581cf5766a8ba2cb8f8c71a02df5c1c168": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "1d19b3a76d808d4deedd8f2728a4a36dd2ce0e4e934a55a8d153a01a6b34401e": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "0103908676d99e81732e69680451b0962086942e84698b212aaa2de67262a42b": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "639a5f04a2e392b23d0922439a58f036410f9f7bee4c4693f24e0b60667eb3a4": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "704d56fff8535feff19165f8566f63b16deee7bf36ed8d60c8f89b0671fbe098": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "2b4a8f06506895762ffb26a8f31aea080b8b7e8b55612e5483644eef1fb3b738": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "5dc740b48624dc0fcabf80df20dca09ba0a0aa4dcc2cab99bf2a1871093e2d4a": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "a2284294349c7fb53e2dfc2dfa73d924bdc1c04b3eb6704b32bf12d13b5841aa": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "ba948e1b3f7c4d655db7166731800eef000ed2a94e15d0486deb29585e226bc4": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "428f54006df90a23c424784a8ba173a6746cc83d7a4d5adff667b3ec82ca2d29": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "87765da6ccf0668238c1d27c35692e11b4cee9c0e5cd5713a3f6e462d48e9730": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "3fc15339009b874542c9e10c46f2058c79b36a2cc3b3fe78455edf49973d4512": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "58442338e47643c2bf65f5a8dfa7cb034376bcc112dbd7f3ac9c5a76c9cb2722": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "5d57d39e6b7d8ea050980e6665bb1da357db14249d74e122f7d4e8cc2253beff": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "d5dc0dbf05458a9ef74833d18237dbf3153cce1c1c67e887890bb89a141842e4": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "e0f13653f1841af1ea57c3701244b745ab67cb0ddbacf41263e0429353ed8145": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "9aa9a8d1e53e4d871cb7cbc826f0c62811d269e30c1217ffa6ff925ae097673a": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "c7f194a41901098bc021a6386c1b9c920ee582b5949eaec892a37e773f39e8bd": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "f8ba04a1a7caa00e41c2580e8fcc4881b15ba4bfc1b491f4f77e406386dc5700": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "4bdd3a67b40950bbcc4bc8b7983ca985f4e2315af766b5a9eddaaa0d2c0f748e": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "1db4694cf6ec9f0afb3afb0fe97661d31e768a1dad38aadcf472d5065bc8be56": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "6610283559143a5456d5c3b7877f5db5b1c7af60585112e82d1834d72205b158": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "b2eef56622b81929a9202ceae4d393b14e412bb3674be0be32f031510e1e97d7": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "4f22460f443f564c462d9fc4d0ad438f420dfe6b10dd6f41f43d061c7b4055dc": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "491bef3a388ae0862cca488cdd43957242b817281066fb0166b4c1f6a03aa72d": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Unintelligible text input"
+  },
+  "68594064b3736c58e04232a44a5605050535cf79ea1e33dd616c977f0d7f5846": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "User likes the app"
+  },
+  "6d97813d7774f5960358ebf0b412e3605aab8ad672be588dcdbe6b5ddde63796": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.85,
+    "one_line_summary": "Positive feedback with praise emojis"
+  },
+  "0dc8ee555c28ec1beeb7adcf7b2ce3ae6bfd980068f9a2413384ab019393b4b8": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User considers the app excellent"
+  },
+  "8fd6173461628c4c5a77e954097893c23948627dfecca79f2dd4876776be7211": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User expresses satisfaction and engagement"
+  },
+  "c939327ca16dcf97ca32521d8b834bf1de16573d21deda3bb2a337cf403787a6": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.6,
+    "one_line_summary": "Short positive review rating the app as good"
+  },
+  "c61aaa45cc49a95dc5c393f4488cfba2a8dfdcd72c99cac6406ec111e35ba118": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Single Tamil word with no contextual details"
+  },
+  "9879fd3395e2ed5333176c871de398b6c38b862d9e14f99c7f2823567faf7f5c": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User describes the app as excellent despite a typo"
+  },
+  "1bced1d0ce55892e92065ce28610a61efc9b9a4d7b73d8d2beaf7088ad0d6592": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.75,
+    "one_line_summary": "User praises the security of the app"
+  },
+  "4ad39af364eb9e1676f5ebc5ee237414241c5b00f341c99a6642c931f7878b26": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Positive feedback expressed using heart emojis"
+  },
+  "04d360611cf8e7739e28ee488a5f1b2931c0f4ffafd714c1faa6ac9675880994": {
+    "theme": "app_crash_bug",
+    "severity": "medium",
+    "sentiment_score": -0.6,
+    "one_line_summary": "Unable to add debit or credit card to a new account"
+  },
+  "f0aac2804cdb0743ac9bee06868f24fbcb35e3fb955e35c821abba13c734c86e": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Simple praise for the app"
+  },
+  "980e92bb598a5262e1f20608985a15b0f0c0f0238cff3392d87718d0cbbb172f": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Irrelevant text containing a person's name"
+  },
+  "9256c97dc22e497b71db214dfa6ccd4e16d0f930214723096f26f6cb1134f820": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "High praise for excellent performance"
+  },
+  "5dad86331c8a4e83b56ffa9f8d915c7c2e0e2eeb7db73bc86aa36cf33710bc2e": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Short positive review with a thumbs-up emoji"
+  },
+  "6975178ab4f838636b0b83b74850c21e6bf828c5876f87c5c570f8ade361de04": {
+    "theme": "failed_transaction",
+    "severity": "high",
+    "sentiment_score": -0.9,
+    "one_line_summary": "Money debited but not credited to payee, causing vendor disputes"
+  },
+  "e218615c252662596512c7d07cf002012fcd73dc4d497d81c2b859601d2515a5": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.8,
+    "one_line_summary": "General negative feedback without specific details"
+  },
+  "bbafbd0c339d3f820cf6d1c9cc929a1c9c9a58e295dace204bc223ae9a1295d1": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.85,
+    "one_line_summary": "User feels the app is very safe"
+  },
+  "f84e07728980953272efb54599f86d4947863bbd0ac9bde9a92d2d30aaeada52": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Praise for convenient payment experience"
+  },
+  "fdeca1bcfa72f3e2bdbc0196f93563f2d82809a5b0e4beef30c18709d4f9e731": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.1,
+    "one_line_summary": "User query asking if the app is easy to use and navigate"
+  },
+  "9af6d11e6de1c22b538ebf93b900e7eef3aa7a2dc1e551fa02bce37834c88215": {
+    "theme": "failed_transaction",
+    "severity": "high",
+    "sentiment_score": -0.9,
+    "one_line_summary": "App is failing to process money transfers"
+  },
+  "e7254af193f4c1139372b84c3caed50f1dd0228cf9fc1cb73ebf0fa47d2ff21b": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User praises the app's good performance"
+  },
+  "f93c32f09228dc525baad51bb1f1a6a6bfa6e6f2f7bd0872abaa16f3ae7ca3ac": {
+    "theme": "ui_confusion",
+    "severity": "medium",
+    "sentiment_score": -0.7,
+    "one_line_summary": "Dislikes new update due to confusing layout and removal of monthly expense tracking"
+  },
+  "541a0b3becc4d6f9fee7fa191c7ada6fed49f43128ae4c25553f2f9b8188b616": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Complements the app as a great public service"
+  },
+  "037aeaeaf4bbf26ddabe7256a8294dc52da48d575a1247b5c2598c47de7aebab": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.6,
+    "one_line_summary": "Short positive comment praising the app"
+  },
+  "35dd2e64cdb63b5c861629872268dafc10f7550ac7662be14416ca2d56d313a7": {
+    "theme": "refund_delay",
+    "severity": "high",
+    "sentiment_score": -0.9,
+    "one_line_summary": "Complains about money being charged before loan application was rejected"
+  },
+  "c7f6497f6391bde74483114c96b48161c7beaaba730cf8d974a7ae20cedd03f0": {
+    "theme": "ui_confusion",
+    "severity": "low",
+    "sentiment_score": -0.4,
+    "one_line_summary": "Requests category-wise expense tracking to manage household budgets better"
+  },
+  "0b480af9be82c3bd48e00f424a64f583db8787d705a5623453029e9e79093e7b": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Satisfied with simple, straightforward, and easy-to-use user experience"
+  },
+  "5b394b39570dccc2805974353096d9a13ae64212720924a4c6698687205e9556": {
+    "theme": "ui_confusion",
+    "severity": "low",
+    "sentiment_score": -0.4,
+    "one_line_summary": "States the new version offers visual changes without useful new options"
+  },
+  "0cd2c396b61af071ab5ea76fe0b5087a0c788a93c4d0f95d53bf4871cfbb2c58": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Expresses gratitude towards Google Pay company despite minor typos"
+  },
+  "f2cce357b42e81d163ff6372f09c2d651ee56b6a9a82266988c7dbc5cb8ab29e": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Gibberish or non-meaningful text"
+  },
+  "bf7ee40dae7e9b3bca21257a7cd9567617c5dca7dcc808612f564f20f5421a9f": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Short praise rating the app as super good"
+  },
+  "03efa94791554dbba627db8103e8fe21b77639c1f08a81c80ac6be09217c524e": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Irrelevant text mentioning a person's name"
+  },
+  "3111072e31e387801f4e8577118b92f4d355ceec435b789fb2fd1164eef5c9d6": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User praises the app as super"
+  },
+  "52cc756414065eefc34abc8f6fc11f8fad4987b47dd41ca008fc0726989e44b7": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "User simply mentions Axis Bank without further context"
+  },
+  "e7938d5b3355fa071334d95635b0b778ca0b96236cf0698265bd6c33c8d72531": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User expresses gratitude for good work"
+  },
+  "7552477659415644018f405c8f0f7385b791dc033c6414ed8dcd7036d68abe42": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.3,
+    "one_line_summary": "Incomplete text likely meant to express an issue"
+  },
+  "4a5c81304dcf414a3009245281f86cda37cefbfe2b5aaa309d47f4d790204e0e": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Gibberish or accidental keystrokes"
+  },
+  "c7fd315280af4ea4c8061da28d55d71844b7d17e47343359976bb214b6cfd480": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "User mentions Google Pay"
+  },
+  "beba9964e694238a6d14a063b82282ddc5a0fff89e4d1ff82054ef1605a645fb": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User states the app is very good"
+  },
+  "30227182b089a73ee1ce26d4a91fcb1196eecfe0447b60f13c085c215893478f": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "User entered a personal name"
+  },
+  "b58f0c724ddd35e538664ccfbe3b058956bac807621dfec1297d6f967b569a25": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User compliments the app as too good"
+  },
+  "dfdaf168e9cdda88fc334816b3735446b1f03fd51a655bcbd90723a482aead9d": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Incomprehensible or accidental text input"
+  },
+  "ae940b68ff1a95e3be9dd908366e92ad6f6a63d73f90a19c97650ca7b3d1fe97": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Meaningless characters entered as review"
+  },
+  "03f649633fd19e5621958ffe6605d4047a06b2d2979d2c2a1526d6396bc17d7e": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Very positive feedback on the app"
+  },
+  "ccd8e02818c6116ff36823eb0b03cb6a81fc3144d77106c4c5f4b0bea98e8b86": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Positive rating for good experience"
+  },
+  "cd3a32eae386c72768bbbd8773c8458f5c98c4b36ac648142b4d3a29724fe36b": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.2,
+    "one_line_summary": "User considers the app experience to be okay/average"
+  },
+  "435578eca3539c494d00e8cc9bc54e65b8928af7f24d848600083bc5ca099879": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.5,
+    "one_line_summary": "Emoji-only review with no textual feedback"
+  },
+  "4addde307a830ebb9a6e4771601d6e75e9215fd65aca5ab31bd4494e5245f9b6": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User reported a good user experience"
+  },
+  "ecb713e0b27fd4e2c6be4db2c1a18cac3b786f57c0c4bb4f73f333fb6ea52f5d": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.6,
+    "one_line_summary": "General praise using popular slang."
+  },
+  "c76bbcb8d41af0d5dc18443035244bdd61330c65a7e005e793eeab9fa9410a9b": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Positive rating expressed with fire emojis."
+  },
+  "274564f5ceea62c6a0c5b98d0401b2d36c8f705dc1e573d9a39fdb2039ec0c7a": {
+    "theme": "ui_confusion",
+    "severity": "low",
+    "sentiment_score": -0.2,
+    "one_line_summary": "Requests a feature to save favorite or frequently used UPI IDs with nicknames."
+  },
+  "ae2291de146e0c992855fb3080d1d8a443a0e3f622412ae51ad86fe3506ed0dc": {
+    "theme": "fraud_security_concern",
+    "severity": "medium",
+    "sentiment_score": -0.5,
+    "one_line_summary": "Unable to lock the app instantly after use."
+  },
+  "32893a8bcdbf241893129a46275f7b93eaf883e6801404a2e0c34b1310d39f3c": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.8,
+    "one_line_summary": "Generic negative feedback without specific details."
+  },
+  "931dee087560f62c6a362c98b455ec04fa81d2894627a6b74cd4eb16cf99696b": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Enthusiastic praise expressing love for the app."
+  },
+  "705db0603fd5431451dab1171b964b4bd575e2230f40f4c300d70df6e65f5f1c": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Awesome app experience"
+  },
+  "323d4f62cf3b6e7b3322d56e7cc82794239342567d23c7df5f08b383fe31fc58": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Irrelevant text or gibberish"
+  },
+  "e76380ebae2756ed082dcc7295c1db8d12604da6272aabadfad0fcc1517da647": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.6,
+    "one_line_summary": "Expresses dislike for the app without specific details"
+  },
+  "ecc3575478a42db6bf971bf15edb9a7de62df336b4ddb9816e02319452cfd426": {
+    "theme": "app_crash_bug",
+    "severity": "low",
+    "sentiment_score": -0.4,
+    "one_line_summary": "Delayed payment or app notifications"
+  },
+  "a61f1da1cb18eee44aa0af4794dc69a109998301546d06c69edcf39f9c239748": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Good and easy to use"
+  },
+  "8f4375ec65c2c4092a1cc21e76712472eae0de999384e8327c495957121db9c2": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Praise for being the best app"
+  },
+  "4cde8e76471505aad3291fc568dc8ee92a6119fc6de52696a09e73eee73fd634": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 1.0,
+    "one_line_summary": "Great experience with quick and easy payments"
+  },
+  "9fe4d000ecd5e9f50c8edade2e4ae1ef06e4017b7d509d1c459dab0ec2d927fb": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "App is easy to use"
+  },
+  "e12fe6b1ed795314ae9c872d4c1a1c2ad7ddf450efcdcb2c7d2977ac31eb4dde": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Positive feedback describing the app as nice and good"
+  },
+  "78d92df6e5ecf9e03da35c210d0a6e7cf5277d6cb95a789f3e05af25601c2322": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Vague review asking to open Google Pay"
+  },
+  "40f56acb1ea140d655d787f58e556a17f3eef8613ddb84a358f719dda434b7e5": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Unclear single-word typo or gibberish"
+  },
+  "040ffd5925d40e11c67b7238a7fc9957850b8b9a46e9729fab88c24d6a98aff2": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Single word review mentioning payment with no context"
+  },
+  "0c12dff1543a372925aeb270cf498ed27251a24e9351d97392c95bd9cee27ddd": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "User submitted a personal name as the review"
+  },
+  "471dc1a70397161705f9357395a35665f06e88dd7b4268b94724b32c97adbda3": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Highly positive review praising the app as very good, super, and useful"
+  },
+  "118736779a8539c921aa0199b0272446bbfe0ea3fbbe6b8819c2beb7997e7ec4": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Unclear text with an amount reference."
+  },
+  "b7d407e2d39f82e4f9ae99e8aeee3babb41951ed1950fc419c77311a5e57167a": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User expresses overall happiness with the app."
+  },
+  "3b7e8302b412a76052be7f3323759faf8518fd37278f637fd83364d96afe244f": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Short positive review praising the app."
+  },
+  "5aac54193408d50652aaa44957d071199497e7ccb95482a9429ee061335cceeb": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Random emojis and characters without clear feedback."
+  },
+  "63cc2dfe39fdd7e72e04a4a3d8de307739aa0cbfd3f501eab7b4c55b116dd7d9": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Simple positive review praising the app."
+  },
+  "0a97863c8304236c2493f4b93b86af6d9d2c8cf6422cf69abcbae57c629f4953": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Positive feedback with supportive emojis."
+  },
+  "b207cb2d528b4a1fb169e36c9c4c60f91a1b46816392f2dedc6a98f63475551d": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User compliments the platform."
+  },
+  "65f69b01d13d2e6c729bc3f836e558dcf696b7af3741797b472ff52fc44e6036": {
+    "theme": "failed_transaction",
+    "severity": "high",
+    "sentiment_score": -0.9,
+    "one_line_summary": "Payment failed twice due to busy bank servers, money debited, and refund is delayed."
+  },
+  "0423b657beddd47765f8dc62ddf4089d007d314fb3674d73f7ee4e2b7f3ec076": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Irrelevant single-word review."
+  },
+  "4c99c4f1a1143f45d71557e0d86a215dbd2f977677bbf38de82d983d2ad0f0b9": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Unclear or gibberish text."
+  },
+  "4e3795d05d9d3ed261ea49f6f8a047f90cc05a4436d187bb0bd28848561a571c": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.7,
+    "one_line_summary": "Generic negative feedback stating poor experience."
+  },
+  "7ad180ac055662878b712fcea59d57513ce13ab0d9e2a273c9470aca730f7dfe": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Random or invalid Hindi character input."
+  },
+  "8185c8ac4656219f4aa5541915079f7b3743e1b5f48bacfcc3386af016b55320": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Positive feedback praising the app as super."
+  },
+  "844347e54f00c4b97fe4736909730faaf8365292b076ea5a1378ebd1b0fd3bbb": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Expresses gratitude for the app."
+  },
+  "e5b90cd742290f1a57cacda7e2810fa1d13eea7a982f0611a9586397173ed5f6": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.5,
+    "one_line_summary": "Slightly positive review stating the app is okay."
+  },
+  "9ec5e72fbe2ee8bc463c0eeb845e58e8c084a397fc2539fe82de2957c3587ba8": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Gibberish or accidental keystrokes."
+  },
+  "1ae072ddec7e8e5d8ee2fe6233d8d6f2465fb203c251583b63d58bdf23ff56fb": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.6,
+    "one_line_summary": "User considers the app nice."
+  },
+  "a9a0e9c9ae04be3601110a5c078574d0d507a771b610747ca22e0431bd42330e": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Review contains only a user's name in Malayalam."
+  },
+  "fdc96ffbf256523aec8846ae56321053c7ab751c99eb766e6bb4a7d362a4f060": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.5,
+    "one_line_summary": "Simple positive feedback describing the app as nice."
+  },
+  "0635c4aaddc8f4b1bcdc309e5810f41879769ae09f64d3ef5bbe70a410af5729": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "High praise calling the app amazing."
+  },
+  "144933568af560a7953769daa41b95c861800ec8ebb5675222624b1554707e7e": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.4,
+    "one_line_summary": "Bot-style message complimenting the app as very good."
+  },
+  "fa6dbb39e8c305f34946f567c1612cd9cf3cbcc977d5f40ada14982b0aa67d9f": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Review contains only a user's name."
+  },
+  "83c23b871d27a557d49f2ca9401d3468d82cf4105a7ee9c0ce3e647d60601457": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Praise for the app's clean and smooth interface."
+  },
+  "0bf7a3c6df1958251ab7fbe55f38b082ef7f32eb16634d2b2754a9fe858cd720": {
+    "theme": "app_crash_bug",
+    "severity": "medium",
+    "sentiment_score": -0.5,
+    "one_line_summary": "User unable to use the app after installation and asks for assistance"
+  },
+  "85a3e02fe74b01fbf6c3ad86831e3b70eef6a661a8b396d6eff6a7ce3a4002cc": {
+    "theme": "failed_transaction",
+    "severity": "high",
+    "sentiment_score": -0.8,
+    "one_line_summary": "UPI Lite has not been working properly for four months despite updating the app"
+  },
+  "4c5cb0bb64fc438ab7bad072da07490d19756a03395ce477ceec465c8d37173c": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Gibberish or accidental text review"
+  },
+  "019d50b47fd07996f7b3177db891fcf72c82216fd2113fa96600be43c7e21da5": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Positive feedback expressing general praise for the app"
+  },
+  "1187ecbfec333fed27994edc2b7d1b30d7f33fbba6a2b8355068309c9807b722": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Complimenting the good service provided"
+  },
+  "7f52cccb3822fdea830ab9f6eef2cfdc149cd6a4a1caa9bd63f40b8e5523ecbf": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Accidental paste of keyboard clipboard text"
+  },
+  "5097288e9cdfd8668e9f0973ea9ef7943bd12eb33e0474a2c9bed650ca46af6e": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User praises the app as the best payment application."
+  },
+  "c1f026582fe6e8cb620d0c85a72fe421ddded756662a8ec00ed4c297ad10676b": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Irrelevant review mentioning 'food'."
+  },
+  "5f2063569ff4e7b8c3131bbb3b0b44a205f34a77fcfbddb141b4dfc0c942add8": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.2,
+    "one_line_summary": "User states the app or feature is not required."
+  },
+  "16e81418a36c58995e00aeb9c261c9ef7fb739b37c72351f511dc3b3a89e5962": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User leaves a heart emoji expressing satisfaction."
+  },
+  "343614bcdb829f7e0ab1e3a876dc5437a01a6eea3df3fd1031774b5e691fd949": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User gives positive feedback stating the app is very nice."
+  },
+  "c2fca3a2b9751caa8c1ee9b76158a410096e2a5d0ebe2402a98db870fb80b9cd": {
+    "theme": "failed_transaction",
+    "severity": "high",
+    "sentiment_score": -0.8,
+    "one_line_summary": "Money was debited despite transaction showing as failed."
+  },
+  "23ee124846a12451f84c746a5b975935e3878981b71da153c64f7000c08ee510": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "User asks or notes to link their bank account number."
+  },
+  "43cc8e6d41d2d680b1821d15adde0e5769f951ac6e118a3c673e60a2f17315c1": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.1,
+    "one_line_summary": "User cryptically mentions exploring or having other options"
+  },
+  "01d3838410ad9aff34b0f7266088f3851939361c273a5205300a42fab7cf5489": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User is satisfied and praises the app"
+  },
+  "0b2199265a95cbe8fc79ee170de786a849cbced106f92e3697c0162a636a5cc0": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Review contains only a user's name with no context"
+  },
+  "43a26e295f73a4d3b4ee244ea3d79bd19ac8088cf933d5e923553b104b8e9fcc": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.1,
+    "one_line_summary": "Short neutral acknowledgment with no actionable feedback"
+  },
+  "af60ef9dbff7f540be9e18aa1c775980060c22b7380bc5915f06f563a3b72319": {
+    "theme": "ui_confusion",
+    "severity": "low",
+    "sentiment_score": -0.3,
+    "one_line_summary": "User confused about why the app is asking for setup"
+  },
+  "bb0d553bec53ebf9458d7d240e434245649d03d1fdf4a7010de54ebafb79743f": {
+    "theme": "failed_transaction",
+    "severity": "high",
+    "sentiment_score": -0.6,
+    "one_line_summary": "Intermittent failure to make payments while shopping"
+  },
+  "7d842e6064f4bc74620a94e37f3507143544b2d056af7d69bd6a6a4ee8843281": {
+    "theme": "refund_delay",
+    "severity": "high",
+    "sentiment_score": -0.9,
+    "one_line_summary": "Unwanted AutoPay deduction of \u20b91,399 with poor support and no refund"
+  },
+  "8dca440433e9ed0030e2030abb0899919aca611bae1c45d7346fef23e2c6137d": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Positive feedback expressing satisfaction"
+  },
+  "207225de0af30cb2b37af5800d5b5778fb6b757acd655f72159c7d0220a89b77": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Enthusiastic praise for the app"
+  },
+  "1532fba06c0f945c0cc372cc308edeee0f640e53a746b804e5c7b7ab4ac77908": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "User praises the app's UPI performance"
+  },
+  "f18e2051236021f7e3968de106e7c939e6c6c6768c813b193e352c8c4300cd3b": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.4,
+    "one_line_summary": "Vague positive remark about the app"
+  },
+  "b09731884d11f977c5a2068620495b27ae2ca9d0c4979a81c230fa529b36b526": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Non-informative review consisting of a personal name"
+  },
+  "676f358172a26c7f45626bfbd47924a93f1ed26fd55238e163fd2d28ef00bc76": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Appreciates the app as being very nice"
+  },
+  "5b314af23094b157cf2fa70abf37ecefcca09325ce3db104b92624264dc32c62": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.6,
+    "one_line_summary": "Positive general feedback mentioning Google"
+  },
+  "6ccc4f3be6ff7350a4c2bf576dd19398ff18c733d128fd1bb9bbbedcbbb7b465": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Irrelevant review containing only a random word or handle"
+  },
+  "b50d2156de29f44553b4c80f8d76ac1d3d9e80fd3f32e3b1fd863374d5b25a59": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Review contains only a person's name with no feedback"
+  },
+  "3af3045ce6d68f0ed85e1c02cc8a34ee5ea56c10c2d85e5c95f34f16cd6319df": {
+    "theme": "app_crash_bug",
+    "severity": "medium",
+    "sentiment_score": -0.6,
+    "one_line_summary": "Auto Pay mandates do not display properly without multiple refreshes after update"
+  },
+  "f6a2bd7d0c0c28adc80639cbd2e6a2837bdf76fcbfc83c35d179c2376e0e17cc": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Irrelevant text containing no actual feedback"
+  },
+  "39b04b4102fa22f6c12d9af6bf9860040df476dd5bfcdb9dea59eb837440ebc7": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Review contains only a user's name"
+  },
+  "2f05d4b689d270cafb02285f35f44866f7dc8a2d368a3f9d1124373eeab31fb1": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.8,
+    "one_line_summary": "General single-word negative complaint with no specific details"
+  },
+  "8e34d8f13ef167ad0fcd9bc90907978afc2de9e71e10ef0d5665a7efc0fd1dec": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 1.0,
+    "one_line_summary": "Praises the app as the best UPI application ever"
+  },
+  "7e35c55c19dca5cb891840d053f88e3624efbcd5e64175e527fa9e68173b0e22": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Short positive review praising the app"
+  },
+  "43751721789b597c760ebdcf8b45a17ea91ec161718a825071baf6771be8ebea": {
+    "theme": "refund_delay",
+    "severity": "medium",
+    "sentiment_score": -0.9,
+    "one_line_summary": "Upset about useless reward coupons and uncredited cashback on Swiggy and Flipkart offers"
+  },
+  "f493b0120c9d33d33f43a5ddee99b6dc6d794d9d9d29979a3e1b4a728cc6952b": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.3,
+    "one_line_summary": "Dislikes low rewards and extra recharge fees, but praises seamless payments and good support"
+  },
+  "cb9bed075593dde34d1e4eb8caa3a20f5555d41170e6fae8e5ccbe170c4e847b": {
+    "theme": "app_crash_bug",
+    "severity": "medium",
+    "sentiment_score": -0.5,
+    "one_line_summary": "Unable to download or install the app"
+  },
+  "81f1a179149981cbd4410cbce0485b03a74054a0ca72b843c45f957577e56c39": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.8,
+    "one_line_summary": "General negative feedback expressing dissatisfaction without details"
+  },
+  "f0b8b6fb9b7ea63fbe5fe748e8405aca9765ceb80b4482fae0c96c6a16e61f78": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Short positive comment praising the app"
+  },
+  "141db7d62a7519024d76a6e19086a00a14bf035ca431c2b1080f53627f31fb4c": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.6,
+    "one_line_summary": "Complains about platform fees on recharges and receiving spam coupons"
+  },
+  "ce2bd279570541dcba25c1a389fde036dd8582a0aabafa75062ea38266f60a0d": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Praises the app for amazing performance"
+  },
+  "1801477a67c9ad1e681d703d81adaf67e243564859d5e5c3b7488d7b76b860cf": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "High praise calling the app superb"
+  },
+  "270c0eea6520c47e052dcfcb8d42d5a01bc9fec230bbda478a22908f62fa79a8": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Brief compliment calling it a nice app"
+  },
+  "45bfd7d6b0db6049c09596474c4c95031262b38909eab2523f7d2f752df9f7a6": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Expresses satisfaction with good service"
+  },
+  "125a4bf8bcd238cb13d3ad8f9efaf0c954b63af9c931fff80fa9363d76b04605": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.85,
+    "one_line_summary": "Praises the app in Marathi and supports digital payments over cash"
+  },
+  "cdfcc4dd93e94895d0190d55c083087457ff01edd984105b45db9327a51fcc8f": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Irrelevant or ambiguous single-word review"
+  },
+  "2dde2353d8fd02a4f37f1a70dbc764dc86c2219fa138c0a77718c1e3139821a1": {
+    "theme": "ui_confusion",
+    "severity": "low",
+    "sentiment_score": -0.6,
+    "one_line_summary": "Complains that the app interface and flow are confusing"
+  },
+  "7253c866f22f468f966715e5a7b9380966085aeaa349fa2d3258c7928088393f": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Non-descript input containing a name and payment reference"
+  },
+  "9e50ed5852f4564772e248d53d7c71e0ea37faf5b748ce12f74686627c191392": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Random gibberish text review"
+  },
+  "f6d7fe99a554ec0683c1d67c3d9100d2d73c3f1a41af1e53fc74146c5b31788b": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "User entered only a personal name"
+  },
+  "1bafb6e4d0334cd3c2d259e1ddbe7047a0782beb9e9e5cd969ef377cc160960a": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Praises the app as being great"
+  },
+  "345766e842ece64cf719d5b440ce7dc7147f45c90da5912557993336ecb4b56f": {
+    "theme": "app_crash_bug",
+    "severity": "medium",
+    "sentiment_score": -0.5,
+    "one_line_summary": "Applied IPO application status is not appearing in the app"
+  },
+  "91880cfd06a483d1e2855864853cd3fa7c00c8008dfc98898ab7c74ebf9f5bd4": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Short positive feedback praising the app in Hindi"
+  },
+  "4b28750a211b7894fb5004c7a9222e87caad8f64415ca5b65b6998c4320ad76e": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Positive compliment in Malayalam slang praising the app"
+  },
+  "bd03f087e977c0759619d26f8e85578bce4aaa2ccc025ca693ba5473c992df60": {
+    "theme": "ui_confusion",
+    "severity": "low",
+    "sentiment_score": 0.2,
+    "one_line_summary": "Requests adding a note/remarks field during transactions for future reference"
+  },
+  "0e5c22997d43fd2f0bc2df0ae1e41be0e9b6fa32128b603a78293b3c6c06e2a1": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User expresses great appreciation for the app"
+  },
+  "441c1e533e3f54fbfb01d7b5378a03ac5bae136ec0b396aa78282fd459e784ca": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "571fc0db016b99d7b65e08d9fde05133bee05f24539227e392a3d3751348e31c": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "ed42d88ee92279fc189d2d00fde9ae344333d36301529b4e2d10966b1831e391": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "4b7987c968d60453007f0445f7a3966680bd4b0ecb69fc6db7ff0ee84db87fb0": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "40db454f51dd65495b329f3e2b7d2907612335e081b9e82071da69a680c2b9a2": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "52879357e83f89e5eb5888a0f92d5266780d73ed3368e644a95df3e46d693ef8": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "3830519b4ebcc2e6045d731c06e86bbf51f3f03c1cfe7d295046fe77c2f1fd03": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "97301c1bfcaaf11cb47b43642efa8e3a85892b650c176fef98e0e85086002e93": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "1543a5680fd50c1d36abd1dd8a8897a9bd1b7cd717281e369372d91bb05608d4": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "ac9aa182ccdbba374cea4f8d1ba5665e2899a96de8a5afe39349e8e86713ffef": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "52752eb2f721bcd7977fc5a3b12ab7b0f0c3dc24b8486c45eb1dcb00a2d5b4cc": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "b3fed766298d4a2f5ae99e948d1a640ebd5a503f560a576971a1b0712f9654e0": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "a3b142af6e97cfc3bb23e409ab83467af7d16ded7dc0632be6a6a9023e49ce8b": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "5608a870f091782e827087c7d5eb105b683c57b9c652acba59d9a0cd5988b19a": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "44f48336e77d102cbd60eb2a5c63df8f20d7a78f8f4e5db7a1607020ca0a59cd": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "61e9497464e15130763f80acc56698804e30f2a4b7f7ff789351adfae7cf7967": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "63d9390076e666b5b6eb82320e260f2d93ecb082eec405663f2e038c23c6dc47": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "314eebfa4eb45cb7cfa88130c385cd23a42335331aa58e55997d73327c44dd71": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "eaf34a3fe70528c798de9e0a4ebeab3d1cecabae8059ff612f05cd15661213f4": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "29a7d353cf023d2fbbe617147823f6778339691dc38fc1317771791723d7aea4": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "f6f527d9c2fcc552dfd952c65a8c687835db1c263be10d8ff9cc31b7a0a4063e": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "d1f0556c112dc873af90428696a3ff5614716944867202986cdc08804b278988": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "69d91e7750a53e41042b712683afcaa34733aab91ac823bb6a9bb463565c770a": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "9318d4d2cfb337b9af564d2a0d95c7f47ef2a6f38dec5b3dfb9fe4401a319272": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "436aeaed1a8da3d136048fac46b7cef487caef02662b476b4f1eebd6a046f75c": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "cb57ad56a34c73aecdd4513b7836242de948b8320fcb0b66192b349207fc5075": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "180b988a36f655a375c5eadb524e0364aa1acd22c07568c1789235ae54a5514a": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "ce176c57e68a7ef9fea6bfbf5821bd035d83eccc41084f8144ecc71aed0a5279": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "389601d0ccfc15f3e500ac2894cc4629ef10c5f5d798736cd704141ee30c6a02": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "23221f7b4bf91fa52bff3e6e637f16bf1efff8570ec1b9440d7a64a6ed5628bb": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "773fecc200cd9c5bb0900f63e68855fb6965027458d01b06492ff9a601d6d5c8": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "7ebd3572b46df78c5fa18db4c5a3848e8a7f736c835679f85663997d6b2b95c5": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "28720365c5e7476a011e4f43ac003ee5f16247a263b9d623aa85ed311d73bf39": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "3bc7612b39f25b0db574d247fcdaa30efeef88685a161cdad0bf702aac2b91f0": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "779d015d41a6f5570acfff4059c8d799d7c302e9548226626152c70d7580d98b": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "344a23a6e4b8d2a21123c576de468ed2f211c277022ed5f415fd5ed05764bea1": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "f1d7d4e5aae3ed81ea63692d6962b0abaf65d383381d329909fe8a46ea7693af": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "2e8aa5824f507fc469eca3febeda4038ac77c0ec894b2520895f8e9631f8d383": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "9816de376ea33e5f06a748cec1fb72596326cc9402696de58a04991dfbfaf87b": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "5c022b93f4b6ccae0e1069aa6881b49192bc9642e726f22ff69cc04c1627fcdb": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "c6eaae8118e3ef9b99ba2f19feb0815540d9016d01bcf48f17ea094d52aeb822": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "81248fcc5ae1a144a3d02008d78828a1b99e74bf2afe518b82106919a273743c": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "f912f084634d836b49444ab7f64311c254a36d46550952d0f99a04c5c8195775": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "e932d1b8d060e0a9aec46a58b2670ec2f48ddad84dd09a490bc9c07cc5618811": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "fc0a30497efcca11fd67dc35b524bd185de48ef9840fb409e267c9743c9e5717": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "9d7a8df67a2b9e38082ae5b91f5f6f1b40de1b69e94413fe9fe72ad34366a0cd": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "c47d21c643c02c57d23e4f5cbd62860c067125b2392d02deda78036315fb21dd": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "09bb34773b6c8d482b7f440b1e0187f54726eb05f7e9642574a741b49e30bf1d": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "804f1e5c8cfad9f12ce272459f1bdd4134de5e615ff00f1bc6a6d008736095b3": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "b8cbb06aa40f5c1789d170ff66818d9acdcd4fd35b38710ea7e94f8ac03ee1c8": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "a23df86eb87f20c8fc04cbec2613b99664e9b782853a2252f96258ddd80dab92": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "7a6daf8bd2f008d9f8c4bf5720a34020bbd783dc73931e37cfbc8355b19a0388": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "135b2b8f03529098a936a94739a47860396dd928abf5d1fdd945749e0ba90fc3": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "0bff50110c2b18d07cbc20932458d05d4961575cdb9cb7d87b861cd93a1be675": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "0178fa91fd0fe5bdd059ffecf865aed15fd1a94904f46f311c1047c21663fe2c": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "536dc5a08cd7f36fd811b41f4a59c31f0ebd56944e23c366a77a380c230cae3f": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "c600a2caa370b69ba01718c8b77c20e552f62dfa26ead4cc72c411a94ead10d5": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "cdbc448baf613803823de0aa953fc8cea4008b9904404e293c9f5622330535cd": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "85a27a20444fcfb8db55d87a23e3e6f314310c89b62f3a89b359d8c48f55883d": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "9724eebff02bd03152ec29c2408d9fcb50023ff4a65fc61ff5ebdfd0215e9ae0": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "cd6dc2a9eef9244818a172a473b68beb977131a2f68f795b331bdd3fe05c0505": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "d636fb9e54cda7d56b8c90faaa0972785d8957a767357f07541f2f4296c8dd54": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "a863162487c580fd5e00d2b3a1ae32721e5116d5bef71bd2d1571a3e178dd401": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "3fec21686fb237e7c953cc23fc50d36edf92e325a69491b181b78a65528b4cf0": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "8e85e67fd97638d55e15c7cadc961e4911dfc2bc0ccd4dc44c7c46ca409e7f2c": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "fd8091267adc1ef6db2a9956724e0e63f22c73d2786dd096f69d07538de2f552": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "eb5c0f956b6d03793234888d565d72b8ec9fdf342cbf23d01e1969c1cc0c1883": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "6f8fa2e1db23a444c0d4ab0370c03cb68d4ca17391e21676f652006b6d1fccf4": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "664ca003baf7fea34a6152e00f3135312292e7b4969ada9fcd79e5a0ea28ad8f": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "7b1fcc46fbf9237fc845156ed87b885acb11ba432b73ef29eb15cba76fbfa867": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "77721653409aa0f4926eff43bc05e25ff3de5abcf899abba4d6982d6b92ca625": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "da5677d6a328cbe5a6afc0bbb5d7b861a8e75de6d42a38848f91872b4f28026d": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "794c90a92946a24d79f223484d73d8d67f2403e06c3bc24c3f3bf11ae57ad178": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "10b6c60562696c07485d8c5f4ebe721914bb2a56d1d0cf4b374756bc6d0c5fc2": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "38e515301e80af52205f31dd6dca97cd7904f693b6679a72de41e9a1d2450c22": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "53d75eef6dc336d6ba58757e953acd1e6801b9d6495dfc34e6d82db63b977298": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Single vague word review with no clear context"
+  },
+  "4e7ec44efe1f2f9cf8eb15683ea32e27b5b7e962086fe08cb74b66a7a1a8e6b9": {
+    "theme": "refund_delay",
+    "severity": "medium",
+    "sentiment_score": -0.7,
+    "one_line_summary": "Rewards and cashback claiming features are not working"
+  },
+  "26337f2e38e75cbd36fe0f054ed3be94d16145a7c06e1de80c85931e79330641": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.8,
+    "one_line_summary": "User expresses intention to uninstall the app"
+  },
+  "fde281f3efb869cd55bad56717b6608d348f0a194f402364cb4f5764c0445651": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User is satisfied with the app"
+  },
+  "a54b4841bb1ff07343b9afdc7daafda24fc36686a108280cfdbefa8c3018c276": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.2,
+    "one_line_summary": "Feature request for Wear OS contactless payment support in India"
+  },
+  "ca2608d7279b1a04bf51a6a4c2464a11647a29a8a649bebc2bdd9d8467a2a62c": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "General praise for the app"
+  },
+  "ee2a2213692fe41d31c45cda34a0c136467b90919581c57d94abc307012ff19d": {
+    "theme": "kyc_friction",
+    "severity": "medium",
+    "sentiment_score": -0.4,
+    "one_line_summary": "User needs assistance activating or linking their bank account"
+  },
+  "b8f5a9cbbc8b7bdcbb8b2c8a8e24ad7bab38c37deedfca7f6289f903f6dc0620": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Incomplete or unintelligible text"
+  },
+  "83ce2ac08aabed1ae29fbb1692d33114fd654f10d1d0a110a9042eaee73a140c": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.8,
+    "one_line_summary": "Dissatisfaction over platform convenience fees charged on mobile recharges"
+  },
+  "9def324a57fc1c62010c174493e80c183c0fb3a2dd77136e8e1820ca7cd5a57a": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.9,
+    "one_line_summary": "General dissatisfaction and unfavorable comparison to PhonePe"
+  },
+  "33d0ca0d6f11fd7381b18ef93c7d3f6476929463733cdb08d1bcf2761c149545": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 1.0,
+    "one_line_summary": "User gives the app a 5-star rating."
+  },
+  "7fbd144be3227105b6c36f914a786961f6949ff7c3d9df657b0c6c02be9ca395": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Irrelevant request asking to call someone."
+  },
+  "450678f2a40da89e677d376c039c6fa431c01b22b3b1691f45094d17fc563159": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Praises the app for being good, fast, and secure."
+  },
+  "0fdb6a92965c593fa6ef608d2e638d7258258452b1e316d2a50de8af1bd9d234": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Positive feedback with emojis expressing satisfaction."
+  },
+  "86c661650ffc3e2fe9d33658948a0313e7af35cf2102ba2f2729e3fa33ee39ce": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.5,
+    "one_line_summary": "User states they are no longer loyal to the app."
+  },
+  "534a55e373247556e3630b0979d5fa5c5942104365a35957f071a9ae2034eb9f": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Pasted standard Play Store privacy disclaimer text."
+  },
+  "c96d9dce9cc48888efb2ae52cac37102f9dc8057297a2febb5f7f8813af25fab": {
+    "theme": "failed_transaction",
+    "severity": "high",
+    "sentiment_score": -0.9,
+    "one_line_summary": "Frequent server errors prevent completing transactions and checking bank balance."
+  },
+  "51a9508d850199c78972795eb6012a4a4b6c7e80d33c8142293d74696771759f": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.6,
+    "one_line_summary": "User expresses frustration and intends to quit using the app."
+  },
+  "99c7cba83b38fea26b0e2a62628a20de26434e7d7f7b5502ec4e822dbce399aa": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.6,
+    "one_line_summary": "Complains that the provided reward coupons are useless."
+  },
+  "a1e8506eee40737f6aa0b9faa9c86773bc305b1db2730d08f1119d96c8b8f9dc": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Positive rating given with thumbs up emojis"
+  },
+  "adeb118a6aa1a3d1cd7711510427ca3954e832197df6bc2f29092450180b6a0a": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.6,
+    "one_line_summary": "General complaint stating the app is useless"
+  },
+  "261006af31228e35ba42a08b3b211edc8631873a2f5a324c48f538690bd4bce9": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "User entered a personal name without feedback"
+  },
+  "b6dc933311bc2357cc5fc636a4dbe41a01b7a33b583d043a7f870f3440697e27": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Short praise expressing satisfaction"
+  },
+  "e1fe0455891589d7fc4abfee17800bfd6ed24edd72b65abb1f59cfb2c7d51ee1": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Incoherent comment without clear feedback"
+  },
+  "d88f951b98a85f393761bc01970a78b0582b61754782243923164e21e35bcbb4": {
+    "theme": "refund_delay",
+    "severity": "medium",
+    "sentiment_score": -0.6,
+    "one_line_summary": "Complaint about missing cashback rewards"
+  },
+  "8abcc46f472af2d610e72d24ae2ab8e48eba151df46db8c09e124403605e992c": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "High praise for the app experience"
+  },
+  "c01ba841ae009463699e4c0c39f92fa0b1891a5367d8f785fbe1015da84c1b6d": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Random unreadable character input"
+  },
+  "917026359ab01e0d462dc30122e5a9120002a5914525d5bbc5c6f1cbdf94743f": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Non-descriptive minimal input"
+  },
+  "8b9dd53f6a7981c63f80d73fe6232de89fa5acb2fb474a46cf820a6e34c10a36": {
+    "theme": "fraud_security_concern",
+    "severity": "high",
+    "sentiment_score": -0.8,
+    "one_line_summary": "User seeking help because their Google Pay account got suspended"
+  },
+  "a019b4e8e9646548d54d6f07a5bf5b9debcb522af27e68136468052f4b60ffb6": {
+    "theme": "refund_delay",
+    "severity": "medium",
+    "sentiment_score": -0.4,
+    "one_line_summary": "Dissatisfied with missing and insufficient rewards after spending 1000 rupees"
+  },
+  "388018b0a8074cc81b1f0ef212335c6cac694aed70569f86d7d41721c8e36038": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Praise for the app being very good"
+  },
+  "c1dba7511d5e8a89a17ad2b34c273410efe70f0df7a4906a526113c12558cbc0": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User praises the app for working well"
+  },
+  "c7bdca99d9714d47c132f91d6daba5a6e3b200f2f1fdfdfd110836b0831f801e": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User praises the app in Bengali saying it is good"
+  },
+  "cd1f52aa9fe9b68621fda6f8d697df94cdece6d0090a885aa30d7970cc59bfc5": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Short positive feedback calling the app nice"
+  },
+  "4cab59a06a635e2ebf49b9c87eeb5d9072bcd5cd3e9dcd1770c6ba91ae267443": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User praises the app for fast and secure payments"
+  },
+  "2ef27cb85a7ed8f6803d91ceadb13b8be2c15556fce0246e0987902808813ec1": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User compliments the app as very good"
+  },
+  "828fc221e7827d73bee75ff30f2a97561c889e0c6c47524782653423a9c4a665": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Ambiguous comment mentioning movie to cash payment"
+  },
+  "9dcfab28a3f6d31021f7ee8f5de2648460e7c5488547df0846f5bd93d60d5b8c": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Positive review rating the app as good with a thumbs-up emoji"
+  },
+  "fe1aa057d1470abeb2ce09e22d449dc163d563358dc349af53f1049c16020569": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Generic salutation with no specific issue or feedback"
+  },
+  "d7cf30206052444acf84fa08c64b6c115fdd4a1e01319d58083004396f48b667": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User praises the app as top-notch in Hinglish"
+  },
+  "569c728776dd297b64cedacbf48faa105a22536142b99692fc948416395838e0": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User expresses high satisfaction stating very good"
+  },
+  "f465eb88428e9b42711ef5a165d0872715c1e0a27bc2ead526a277a6cc4cd79d": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User compliments the app as very nice with a smiley"
+  },
+  "9d9b90817fc39231aedf8f19d5e19acde3e9421afff1018d942ecf9f2676176a": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Unclear or meaningless text"
+  },
+  "2f79a476866f1285a0d9ad464a6df80e35a51527d8a2279042da8ec168990e37": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "User considers the application good"
+  },
+  "255f4419e0ef2d3424a54ea4631a9927e86bba6751b702822a26e2e51c492c45": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Simple positive feedback praising the app"
+  },
+  "dcdc871b94ec8ffcfb44f188c2df34a35dd39f099bb1a2633045247317c29b5c": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "User posted a personal name with no feedback"
+  },
+  "8c2efdb82f9017a091b92936683dd0409a7c719ced4a74432ec33ff127ff85bf": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User praises it as the best app"
+  },
+  "776f69a8122fb2d9e95f8e2afcb5b9a7b9a2fffe221e2a7a1820fc9689b702f4": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.6,
+    "one_line_summary": "Short positive review stating the app is good"
+  },
+  "254874cc8a9d79511882ce30dc50912ec75daa7e1c7446a7676dac9e11fd665e": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Irrelevant review referencing a celebrity name"
+  },
+  "e7a72ee40639674873f0424ca1391ee113788561b70153d7c19cc0de6af2ec61": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Praise for quick and prompt cash transactions"
+  },
+  "b95ddf244fc075709d14aebb22a1acb0221b4b5b8ef7b2d258c9596fb3694109": {
+    "theme": "ui_confusion",
+    "severity": "medium",
+    "sentiment_score": -0.4,
+    "one_line_summary": "Unable to find or enable the auto-pay feature in the app"
+  },
+  "20e03831c72b813a0b3c8ee64a85fb2b6a90bbffb799aa3a3ddfbab8c2c698ac": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User praises the app as being very good"
+  },
+  "537edf774949f41f4d9e1b0677a50833de4698ac2c099df9a5cd7ea3b455f112": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User calls it the best application"
+  },
+  "2a01c4cfdc0b89913f10e8d434e66ad9a5674c16b18c6f365e400dc17ceb3150": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User finds the platform very useful for doing all transactions"
+  },
+  "89f4fa20419aaf814f93fbc5461e93ac3ffbd47c04cc6a7f5dff635aab252fab": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.2,
+    "one_line_summary": "Single emoji review with no specific feedback"
+  },
+  "55c123196402ef4b16c36bad51f12467397146987c479d41375831d1de9ed935": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Incomplete and non-actionable text input"
+  },
+  "bb7b9e286b3420ece4f18c73853e051bc52d1db53d715f0a547b20c5300f6dce": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Incomprehensible gibberish review"
+  },
+  "34ae530193c54a53b3caec8ec445a04950c1cfa4b9fb044882462598d3929543": {
+    "theme": "fraud_security_concern",
+    "severity": "high",
+    "sentiment_score": -0.9,
+    "one_line_summary": "User advises deleting the app to protect against financial loss"
+  },
+  "6ea8868d342ae745a433924ce6a936100deec4f3ca9125139a19ba7b8dfa7faa": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User finds the app very useful and expresses thanks."
+  },
+  "77a1ae3dd286438c3c31c34d18742627e2237d5cc236e61f0ba206b59035ad92": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User appreciates the ease of money transfers."
+  },
+  "d47d9fb154d414c628a1e7fb022db2d2a9e1d95edea2eca86ddc3adb5a93dbd7": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Irrelevant text containing only a city name."
+  },
+  "d5f4bab1ef3ccff87eeb54ea4e6e0e87a05f532c6e4bf8b34f1b0a2262d8b787": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Irrelevant text containing only a person's name."
+  },
+  "686f746a95b6f836d7d70567c302c3f9ebb5ee0def3d1220ee9d4e9f34f5e131": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User expresses love for the application."
+  },
+  "a48b5d7a58f5a306fe481ec65aca4154fa16ef7b99a8bc0353b4d225b3244e52": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "User states that the app is helpful."
+  },
+  "8f69dba8f06e84c9811a878951d15a7c81b681b5c2ebab5f7bad8cac060d997e": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User rates it as the best online UPI payment app."
+  },
+  "41a1c14a0a3f4da2663efd241396f982536cd787dcfb8edee22a8444b1a1ae63": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "1356f15f4a85eb73562a3b007008296a1c6c245777137e68021769f7a0eaecb3": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "User is asking how or where to view their policy number in the app"
+  },
+  "5281473d4f08567b81215488737832680b64ae517444d4f40c7ecd0099db7b4e": {
+    "theme": "app_crash_bug",
+    "severity": "medium",
+    "sentiment_score": -0.6,
+    "one_line_summary": "Facing issues while scanning QR codes"
+  },
+  "d70b118c66704c618a3c7fe2077606d8fb8f1aeb1c32b48d25233849c36b374c": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Praising the app for good service"
+  },
+  "77b9fe3531cc7012b85493b23e85e7dd33cd731a593943c1ab35c5520ce94048": {
+    "theme": "app_crash_bug",
+    "severity": "medium",
+    "sentiment_score": -0.8,
+    "one_line_summary": "App fails to open or launch properly"
+  },
+  "fc9ba565edd06a5ffe8d9fa9129f6dd5e33b6bb2c34e09d48af372f10191d3d5": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Highly satisfied with the UPI app"
+  },
+  "10b5aa06bf24ae0c57e30b14aa5a2c4ae92ab4fc342c987b96ac9b2fdf80ce78": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": -0.7,
+    "one_line_summary": "User expressing frustration and intention to stop using the UPI platform"
+  },
+  "9e954cf412541d1180bfb70bb376f3e43a2c1af60b2d5d0209d1e5972719c40f": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Positive feedback liking the app"
+  },
+  "c94d4edb2d2ef41258b25dfb7a790979d60c2830f14a30ceed308bae957ad060": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.5,
+    "one_line_summary": "Threatening to delete the app if transaction charges are levied on Rs 2000"
+  },
+  "690bd190558c7443be91edb368ce7a65a50fffb5763f2cbceaacbff49a3eb53e": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.8,
+    "one_line_summary": "General complaint stating the app is bad"
+  },
+  "585395520247a5bfcbc8e5d9ceae7a5b658259278510ec2661f39f95b0171366": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Short positive review praising the app"
+  },
+  "bcd018d1d601ec3dd4e1aa02c31a0aa1c8c479695d095ff02245debbecac5ca5": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.85,
+    "one_line_summary": "User expresses a very good overall experience"
+  },
+  "6ae989a3370c3d51b6df1fb374e4bb90f65ed0b043e62354ab4b5ff923c4fbd6": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User finds the app very nice"
+  },
+  "b1dc84836aab77e7190db9086ae01ecce0070a9c78e7f709bdb78fc83b7d436b": {
+    "theme": "ui_confusion",
+    "severity": "high",
+    "sentiment_score": -0.9,
+    "one_line_summary": "Unable to cancel or pause AutoPay mandate leading to unwanted account deductions"
+  },
+  "87c49765126ad33f8eafa82eafcddc6e45ff4502d9d73527477a69e6a787bfe9": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Unintelligible text with random characters"
+  },
+  "e2d76677777ea3e859430e6c82be7781e86f3e9cb8832ce8b1ff7fb5b3e14bfc": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.5,
+    "one_line_summary": "Planning to stop using UPI due to MDR policy changes"
+  },
+  "5ef4ce3d6535ed8c7c7e725b51f7801fb7a707bcfb1a5551b1f5f3564e29e347": {
+    "theme": "ui_confusion",
+    "severity": "low",
+    "sentiment_score": -0.6,
+    "one_line_summary": "User finds the app interface to be poor"
+  },
+  "b6844ce94620140393d3b4125e98460153ff376a9e6ccfe42d71d5bbbcf23378": {
+    "theme": "app_crash_bug",
+    "severity": "medium",
+    "sentiment_score": -0.5,
+    "one_line_summary": "Difficulty opening or logging into the app on a new phone"
+  },
+  "a74fda19f5190ac1df27b2217c891eb56e191ba6b4a129200097d21bacef64d7": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Praising Google Pay as a very good app"
+  },
+  "310f758a2fc7f0da9fa2cce0fd8f788af796d208aa4433ce8e56c3279fc5030e": {
+    "theme": "ui_confusion",
+    "severity": "low",
+    "sentiment_score": -0.4,
+    "one_line_summary": "Complaint about advertisements being shown in the app"
+  },
+  "f283c736a4cb51b61eaa6c22bce13c0baf7924457b7aad52eccb558e54b1ff7a": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.8,
+    "one_line_summary": "Dislike for the MDR policy"
+  },
+  "1561599ca7c517c46e9a10e474cd27e899f4a34b08aedd0eb6824cb9ce768838": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Irrelevant conversational Hindi text"
+  },
+  "fb7eba1e49f488d925f0615e1c04cf29693bd194ed981685c0ef7976e2ded44e": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Short praise for the app"
+  },
+  "64dc2863c68e27976abf284bdeb5497e77638448ca2b20b87711c9aa931a556c": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "05941ddd7bd2df07a48493649a4ea7f3b6c66d5e453a7ee825e1e087cc47f2b7": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "d4b2a436a54d521dc1f6a9d78ae4b159f2b092cf4ee0705ae6b6be9c495d09db": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "a5ff3319812c7ebbd97b7be1be697cc70157686dbb82fce2647271e56bf9df31": {
+    "theme": "failed_transaction",
+    "severity": "high",
+    "sentiment_score": -0.9,
+    "one_line_summary": "Money debited but mobile recharge was not processed"
+  },
+  "685d2be9c51cf01992237f24307d7d7cc918242d614aaac13de976b40c8264d3": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.5,
+    "one_line_summary": "Threatens to switch back to cash if UPI charges fees"
+  },
+  "b160c190de76dc81997d6d1f62e31dccbbbe3191110fb953dcd987ee4bed7ad1": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Praises the app for awesome transfers and payments"
+  },
+  "001e13b2f852dfc5ff423a048a552df805e1fd003b5a2c38cfc8bc0bf3c4ae11": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.6,
+    "one_line_summary": "Expresses intention to uninstall GPay soon"
+  },
+  "bd7b1e866934556dac0a87964c991e2cd3433caa92fe5ffbefcdb5679966813d": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Brief positive review praising the app"
+  },
+  "f1b38a10bb5cf6eed2d95ddb7962bfeb68e716b1515bc396a6860adebd8c71c4": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Short praise stating the app is nice"
+  },
+  "160d4bb23bfadf8ca3fe84c062362217f3e61f333b1c481cf030c61da503ce83": {
+    "theme": "refund_delay",
+    "severity": "medium",
+    "sentiment_score": -0.8,
+    "one_line_summary": "Complains about cashback and rewards not being credited"
+  },
+  "70c9e3874517e449bc22da44b9f6d94afa9bd1d4e3c8191ecc9bd17bf3d14046": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.6,
+    "one_line_summary": "Expresses gratitude to the app"
+  },
+  "06a2935e6f57d4494a9017393d4f3b5a7a3d4df4e26b25f853b27b6ae1d6f821": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Positive rating describing the app as very good"
+  },
+  "0dcb2885d7c38ed3267dbd50900c52d5e2a8a6bbcfa194c2569473f04f37c2c1": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "d14fe4addafbe57bf6b79316218dbd10ecdae1cb40262b0a01324de76847e0c5": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "c35e24419417c70d496edf32945706cf57e4dd6245da95cd1cfadd27efaf8eca": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "fdf28ee613da61d9c8ed2f6decf927e235aa67b2a0dfd6f51d4dbefef95ffa0f": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "2fb8671171ac867b3ffaee3e136ef3b2d471ee0046c29428707d52a5fcff3660": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "6ecfe5a65149352b225a3911e951ce97c29fef012f670a7827b43bddedf2f90a": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "824e29cc836432b6e7a210a7c4879a934cbae285971c6094910c36a8d666a2b2": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "df19064d96673a4c6aa65516690233cb04499cc829d0db538e2256382146aa96": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "77ecc81f8be8e9e1e31edff41f5facb215550f850361d4ebabe61ba0e3384353": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "7a6a92f102eff0f5b0a41e984d77faebf2e889261a58d8d457e5be8749c1e6a6": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "77698ef8503bc48b7e0107dff3e3a853de4573de2aa11cdc432bb9d4b73a0dc0": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "5497e7079e814b57b26731e4845076330c4adaaef2e901f5fdb37b98cf3c9aef": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "6d8074e4ea1adb0c4d0fef5c31ef4813b7015226feb5b4f4e74833658b9cedf1": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "6a581ee901185606598bbd5369794c46dcf21ebf95955a46fb4a6244bb89e79f": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "2d751601deb03a99f54424f5cf233284a211d36e8a1abf377235ba6b1c496c3b": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "5fe85eaa4531bf4545b8f7b64f38c6c16f2af97ff4a52c1700f304178589aee2": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "5e64b413dd007732f2c3ab0b8cbe6b6cde88fe73deb0aac7015ddd173d84767a": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "2a4dc5327b118a55fa7d1c1f5acf6055a5614d844a409f7187c97fe6cd7883a8": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "ee13a2e13994e5d358d81d5c16775a722c8dc06d92a6ac9a13af50ef737944ff": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "a34c717dad390cc7f98c55588467b771459ebb66f82a8c24a2cbcd33988a21e8": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "0506fcd532e462944a92ea3a37cec98bbf5bd9cd29e4dacd292af74b5a4bd249": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "48b716c6c6cbb7eed9ccc49830c35d448201188cf80c330531898c7a8a29e12c": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "8cf83cdbd50747bc1da81c8942cb4a5126a38093a41ccd9bd6c6739d321aa4e1": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "8197289ce343a501b1fe536d83fd150ef7aa1b261249363eff001107b9a36c83": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "2dadfebbab0584986ba0c5742bbf622ace98148bf7af7f616db4804da9d5cc94": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "4632340b4dc06ad01c2b4ec011cd92aa51678c39de0910a1f36b06b1f8857154": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "e0b0777bfd0b44196d349f71c2ff8382d8eee2dce65a782f7ed639f2067f470d": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "4e0636467bbc6701e32d229e5476013cd45a28db33e60f143c3da769b9854729": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "4c874e295a74a579d532ba5227edc67411f9069a7e7b7b3c0ea8b61137f427b7": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "cbd67d2e43e1eab550ebcd8f2f296fd118d6fa62dc839226548a3401acec8c8b": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "68b979d698eb1a5394bef723be4a3f9a6a62c34866d02f093e18b5cd2f9b4559": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "d0c82aafe51310fb3bd847adc135b9af04107664a7c5dbe8bec2f867289353e7": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "9ef83e008571f64a120b0c45dcf852dadbfaf4a0b4db6f1b89ddafb25eee1363": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "97f7baee4f6ba5d92c56fdcc12b64a1fe6f3129364abc74028b2120842712077": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "75d8773bb2d03a436a0065eab6b45e2053aaf570ffa501084b37c008c780ed09": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "f19a9b547b2e7f677ad7036de1074c5846d8fc73802c9c188c99864829e5296a": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  },
+  "d6ef2cca9e1de374486321a8d398e77c9f6ea876d509918618532bb69d409b5c": {
+    "theme": "other",
+    "severity": "medium",
+    "sentiment_score": 0.0,
+    "one_line_summary": "No summary provided."
+  }
+}
