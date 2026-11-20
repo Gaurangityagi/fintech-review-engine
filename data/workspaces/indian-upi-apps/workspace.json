@@ -1,0 +1,95 @@
+{
+  "name": "Indian UPI Apps",
+  "category": "Fintech / Payments",
+  "country": "in",
+  "lang": "en",
+  "apps": [
+    {
+      "name": "PhonePe",
+      "platform": "play",
+      "app_id": "com.phonepe.app",
+      "icon": "",
+      "developer": ""
+    },
+    {
+      "name": "Paytm",
+      "platform": "play",
+      "app_id": "net.one97.paytm",
+      "icon": "",
+      "developer": ""
+    },
+    {
+      "name": "Google Pay",
+      "platform": "play",
+      "app_id": "com.google.android.apps.nbu.paisa.user",
+      "icon": "",
+      "developer": ""
+    }
+  ],
+  "taxonomy": [
+    {
+      "key": "failed_transaction",
+      "label": "Failed Transaction",
+      "description": "Payment failures, transaction timeouts, money debited but not credited, UPI errors",
+      "impact": 10.0,
+      "effort": 9.0
+    },
+    {
+      "key": "kyc_friction",
+      "label": "KYC Friction",
+      "description": "KYC verification issues, document upload problems, account verification delays",
+      "impact": 7.0,
+      "effort": 5.0
+    },
+    {
+      "key": "refund_delay",
+      "label": "Refund Delay",
+      "description": "Refund not received, cashback not credited, money stuck in processing",
+      "impact": 8.0,
+      "effort": 6.0
+    },
+    {
+      "key": "customer_support",
+      "label": "Customer Support",
+      "description": "Poor support experience, no response from support, unhelpful agents",
+      "impact": 6.0,
+      "effort": 4.0
+    },
+    {
+      "key": "app_crash_bug",
+      "label": "App Crash / Bug",
+      "description": "App crashes, freezes, slow loading, technical bugs, login issues",
+      "impact": 7.0,
+      "effort": 6.0
+    },
+    {
+      "key": "ui_confusion",
+      "label": "UI Confusion",
+      "description": "Confusing navigation, hard to find features, poor UX design",
+      "impact": 5.0,
+      "effort": 3.0
+    },
+    {
+      "key": "fraud_security_concern",
+      "label": "Fraud / Security",
+      "description": "Unauthorized transactions, phishing, security worries, account hacked",
+      "impact": 9.0,
+      "effort": 8.0
+    },
+    {
+      "key": "praise_no_issue",
+      "label": "Praise / No Issue",
+      "description": "Positive review, satisfied user, praise for features",
+      "impact": 0,
+      "effort": 0
+    },
+    {
+      "key": "other",
+      "label": "Other",
+      "description": "Doesn't fit any other category, or is unintelligible",
+      "impact": 3,
+      "effort": 5
+    }
+  ],
+  "created_at": "2026-11-20T20:56:15"
+}

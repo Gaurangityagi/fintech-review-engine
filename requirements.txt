@@ -1,10 +1,15 @@
-streamlit
-pandas
+streamlit>=1.40
+pandas>=2.0
+numpy
 plotly
+scipy
+scikit-learn
+tabulate
+requests
 google-play-scraper
+python-dotenv
+# LLM providers (install the one you use)
+groq
 openai
 anthropic
-google-generativeai
-python-dotenv
-scikit-learn
-numpy
+google-genai

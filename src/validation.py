@@ -150,3 +150,39 @@ def generate_validation_report(agreement: dict) -> str:
             report.append(f"- Severity Mismatch -> Manual: `{d['manual_severity']}` | LLM: `{d['llm_severity']}`")
             
     return "\n".join(report)
+
+
+# ═══════════════════════════════════════════════════════════════
+#  WORKSPACE-GENERIC VALIDATION (human-in-the-loop, any taxonomy)
+# ═══════════════════════════════════════════════════════════════
+def workspace_label_sample(classified: pd.DataFrame, n: int = 50, seed: int = 42) -> pd.DataFrame:
+    """Stratified (by app) sample for manual labelling; LLM labels are hidden to avoid anchoring bias."""
+    d = classified.dropna(subset=["theme"])
+    d = d[d["review_text"].astype(str).str.len() > 15]
+    per_app = max(1, n // max(1, d["app_name"].nunique()))
+    sample = d.groupby("app_name", group_keys=False).apply(lambda g: g.sample(min(len(g), per_app), random_state=seed))
+    out = sample[["review_id", "app_name", "rating", "review_text"]].copy()
+    out["manual_theme"] = None
+    out["manual_severity"] = None
+    return out.reset_index(drop=True)
+
+
+def workspace_agreement(classified: pd.DataFrame, labels: pd.DataFrame) -> dict:
+    """Accuracy, Cohen's kappa and confusion matrix for the rows a human has labelled."""
+    lab = labels.dropna(subset=["manual_theme"])
+    lab = lab[lab["manual_theme"].astype(str).str.strip() != ""]
+    m = lab.merge(classified[["review_id", "theme", "severity"]].drop_duplicates("review_id"), on="review_id")
+    if len(m) < 5:
+        return {"n": len(m)}
+    sev = m.dropna(subset=["manual_severity"])
+    labels_ = sorted(set(m["manual_theme"]) | set(m["theme"]))
+    return {
+        "n": len(m),
+        "theme_accuracy": accuracy_score(m["manual_theme"], m["theme"]),
+        "theme_kappa": cohen_kappa_score(m["manual_theme"], m["theme"]),
+        "severity_accuracy": accuracy_score(sev["manual_severity"], sev["severity"]) if len(sev) else np.nan,
+        "severity_kappa": cohen_kappa_score(sev["manual_severity"], sev["severity"]) if len(sev) > 1 else np.nan,
+        "labels": labels_,
+        "confusion": confusion_matrix(m["manual_theme"], m["theme"], labels=labels_),
+        "disagreements": m[m["manual_theme"] != m["theme"]][["app_name", "review_text", "manual_theme", "theme"]],
+    }

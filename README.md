@@ -1,122 +1,68 @@
-# Fintech Review Intelligence Engine
+# App Review Intelligence Engine
 
-> AI-powered analysis of 2,000+ customer reviews across India's top UPI payment apps — turning raw app-store feedback into a prioritized product improvement roadmap.
+> Pick any apps on Google Play or the Apple App Store → scrape their reviews → let an LLM classify every review → get significance-tested competitive benchmarks, rating drivers, release-regression alerts and a prioritised product roadmap.
+
+Started as a fintech-only analysis of PhonePe, Paytm and Google Pay; now works for **any category, any app, any store market**.
 
 ## The Problem
-Fintech product teams drown in thousands of app store reviews. Star ratings tell you *if* users are unhappy, but not *why* — and not which issues to fix first. Manual review triage doesn't scale.
+Product teams drown in app-store reviews. Star ratings tell you *if* users are unhappy, not *why*, not *how you compare to competitors*, and not *what to fix first*. Manual triage doesn't scale, and naive dashboards mistake noise for signal.
 
-## The Solution
-This engine scrapes Play Store reviews for PhonePe, Paytm, and Google Pay, then uses an LLM to classify each review into structured product signals: failure themes, severity levels, and sentiment scores. The output is a prioritized action plan that reads like a PM's quarterly review audit.
+## What it does
+| Step | What happens |
+|---|---|
+| **1. Workspace** | Create a workspace (e.g. *Swiggy vs Zomato*), search either store by name / URL / package id, add up to 8 apps — mixing Android and iOS is fine. One-click templates for food delivery, quick commerce, ride-hailing, streaming and e-commerce. |
+| **2. Taxonomy** | Start from a category preset (10 built in) **or let the LLM propose a domain-specific taxonomy from a sample of real reviews**. Edit themes, impact and effort in the UI. |
+| **3. Scrape** | Newest or most-relevant reviews plus store metadata (rating histogram, installs, version, ads/IAP). Re-runs **merge** with past scrapes, so the dataset grows into a time series. |
+| **4. Classify** | Batched LLM calls tag each review with theme, severity, sentiment, a one-line summary and any **feature request**. SHA-256 cache, invalidated automatically when the taxonomy changes. |
+| **5. Analyse & act** | 14 dashboard pages (below), an AI executive brief, and a Markdown report export. |
 
-## Headline Finding
-> "X% of negative reviews across Indian UPI apps trace to failed transactions, with PhonePe showing a measurable improvement trend while Paytm's transaction failure complaints worsened over the past two quarters."
-
-*(Finding updates automatically based on actual scraped data)*
-
-## Key Features
-- **Automated Scraping**: 500-1,000 reviews per app via google-play-scraper
-- **LLM Classification**: Batched GPT-4o-mini calls with 9-theme taxonomy and severity grading
-- **Validation Layer**: 50-review manual label comparison with Cohen's κ agreement metrics — because LLM output needs proof, not blind trust
-- **Severity-Weighted Scoring**: Composite friction index normalized per 100 reviews for fair cross-app comparison
-- **Trend Analysis**: Monthly theme frequency tracking to detect improving vs worsening issues
-- **Priority Action Plan**: Impact × Frequency − Effort scoring with quick-win flags
-
-## Architecture
-1. **Scraping**: `google-play-scraper` extracts recent reviews for PhonePe, Paytm, and Google Pay.
-2. **Classification**: Reviews are processed in batches via LLM (GPT-4o-mini/Claude 3.5 Haiku) to assign a specific theme and severity level based on a predefined taxonomy.
-3. **Validation**: A subset of reviews is compared against manual labels using Cohen's Kappa to ensure classification reliability.
-4. **Analysis & Scoring**: Reviews are aggregated, and a Priority Score is calculated for each theme using the formula: `(Impact × 4) + (Frequency/Severity Gap × 4) − (Assumed Fix Effort × 2)`.
-5. **Visualization**: A Streamlit dashboard presents interactive charts (Plotly) for trend analysis and cross-app comparisons.
-
-## Tech Stack
-- Python 3.10+
-- Streamlit (dashboard)
-- Plotly (interactive charts)
-- OpenAI / Anthropic API (classification)
-- google-play-scraper (data collection)
-- scikit-learn (validation metrics)
+## Dashboard pages
+- **Overview** — KPIs, app scorecards (avg ★, NPS proxy, top issue), headline insight, automatic **spike** and **release-regression alerts**
+- **Market Snapshot** — store metadata; *lifetime vs recent rating momentum*; lifetime star distribution
+- **Theme Breakdown** — normalised theme share per app, treemap, **voice-of-customer quotes** (ranked by helpful votes and severity), filterable review explorer with CSV export
+- **Trends & Severity** — rating, sentiment and theme-share trends (time bucket adapts to the data span), friction index, severity heatmap
+- **Competitive Benchmark** — each app vs its pooled peers: two-proportion z-tests with **Benjamini-Hochberg FDR correction**, **Wilson 95% CIs**, delta heatmap, radar
+- **Rating Drivers** — key-driver analysis: *rating drag* = share × (★ of other reviews − ★ in theme), i.e. stars gained if the issue were fixed, with Welch t-tests
+- **Release Impact** — rating by app version; each release is compared to the previous one (Mann-Whitney U) to flag regressions
+- **Developer Responses** — reply rate overall / on 1-2★ / on high-severity reviews, median hours to reply, reply rate by theme
+- **Feature Requests** — LLM-extracted requests clustered by TF-IDF similarity, ranked by mentions and helpful votes
+- **Text Lens** — phrases distinctive to each app's complaints (**weighted log-odds with informative Dirichlet prior**, Monroe et al. 2008); *hidden detractors* (5★ with negative text) and *grumpy fans*
+- **Action Plan** — impact/effort **2×2 prioritisation matrix**, ranked backlog per app or all apps, quick wins, CSV export
+- **AI Brief & Export** — the LLM writes a TL;DR / risks / 30-60-90 plan **from a pre-computed fact sheet and verbatim quotes only**, so numbers aren't hallucinated; export Markdown report, classified CSV, fact-sheet JSON
+- **Validation** — hand-label a stratified sample in the UI (LLM labels hidden to avoid anchoring) → accuracy, Cohen's κ, confusion matrix, disagreements
 
 ## Quick Start
 ```bash
-# Clone and install
-git clone <repo-url>
-cd fintech-review-engine
 pip install -r requirements.txt
-
-# Configure
-cp .env.example .env
-# Edit .env with your API key
-
-# Scrape reviews
-python -c "from src.scraper import scrape_all_apps; scrape_all_apps()"
-
-# Classify reviews  
-python -c "from src.scraper import load_raw_reviews; from src.llm_classify import classify_dataframe; classify_dataframe(load_raw_reviews())"
-
-# Launch dashboard
+cp .env.example .env          # add an LLM API key (Groq has a free tier)
 streamlit run app.py
 ```
+In the app: **＋ New workspace** → pick a template or add apps → **Setup › Run Pipeline**.
 
-## Methodology
+The original UPI dataset is migrated automatically into an *Indian UPI Apps* workspace on first launch.
 
-### Theme Taxonomy
-We use a 9-theme taxonomy tailored for Fintech applications:
-- `failed_transaction`: Money deducted but not credited, failed UPI transfers.
-- `kyc_friction`: Issues with identity verification and onboarding.
-- `refund_delay`: Stuck refunds and delayed reversals.
-- `customer_support`: Complaints about unresponsive or unhelpful support.
-- `app_crash_bug`: Technical glitches, freezes, and crashes.
-- `ui_confusion`: Poor UX, navigation issues, and confusing interfaces.
-- `fraud_security_concern`: Unauthorized transactions, scams, and security fears.
-- `praise_no_issue`: Positive feedback and general praise.
-- `other`: Unrelated or unclassifiable reviews.
-
-### Severity Framework
-- **High**: Blocks core functionality (e.g., lost money, cannot transact, account locked).
-- **Medium**: Significant friction but workaround exists (e.g., slow UI, delayed but eventual refund).
-- **Low**: Minor annoyance or aesthetic issue (e.g., typo, ugly icon).
-
-### Priority Score Formula
-The Priority Action Plan uses a weighted formula to rank issues:
-`Priority Score = (Impact × 4) + (Frequency/Severity Gap × 4) − (Assumed Fix Effort × 2)`
-- **Impact**: Proportion of high-severity reviews for the theme.
-- **Frequency/Severity Gap**: How often the issue occurs relative to others.
-- **Assumed Fix Effort**: Estimated engineering/ops effort to resolve the root cause.
-This ensures product managers focus on high-impact, low-effort wins first.
-
-## Validation Approach
-To ensure the LLM's classifications are reliable, we maintain a validation layer. A random sample of 50 reviews is manually labeled for both theme and severity. We compute simple accuracy and Cohen's Kappa agreement metrics between the manual labels and the LLM outputs. This approach proves that the automated triage is grounded in reality, addressing the common "black box" criticism of LLM data pipelines. A Kappa score above 0.6 indicates substantial agreement, providing confidence in the aggregate trends.
-
-## Project Structure
+## Architecture
 ```text
-fintech-review-engine/
-├── .env.example
-├── .streamlit/
-│   └── config.toml
-├── README.md
-├── validation_report.md
-├── requirements.txt
-├── app.py
-├── data/
-│   ├── raw/                    # Scraped CSVs per app
-│   ├── classified/             # LLM cache + classified output
-│   └── validation/             # Manual labels for validation
-│       └── manual_labels.csv
-├── prompts/
-│   └── classify_review.txt     # LLM classification prompt
-└── src/
-    ├── __init__.py
-    ├── scraper.py              # Play Store scraper
-    ├── llm_classify.py         # Batched LLM classification + caching
-    ├── analytics.py            # Scoring & aggregation functions
-    └── validation.py           # Agreement metrics (accuracy, Cohen's κ)
+src/
+├── workspace.py      # Workspace + AppRef model, on-disk layout, legacy migration
+├── scraper.py        # Play + App Store search, metadata, reviews (one normalised schema)
+├── taxonomy.py       # Category presets + LLM-generated taxonomies
+├── llm_classify.py   # Batched, cached, taxonomy-aware classification (Groq/OpenAI/Anthropic/Gemini)
+├── analytics.py      # All statistics: benchmarks, drivers, versions, spikes, text analytics, priorities
+├── insights.py       # Fact sheet → AI executive brief, Markdown report
+└── validation.py     # Human-vs-LLM agreement metrics
+prompts/classify_review.txt   # Classification prompt template ({{CONTEXT}}, {{THEMES}}, {{REVIEWS}})
+data/workspaces/<slug>/       # workspace.json, raw/*.csv, app_meta.json, cache.json, classified.csv, brief.md, validation.csv
 ```
 
-## 60-Second Elevator Pitch
-"We're turning unstructured app store complaints into a prioritized product roadmap. By scraping thousands of reviews across India's top UPI apps and running them through a custom LLM classification pipeline, our engine identifies exactly why users are frustrated—be it KYC friction or stuck refunds. We don't just count bad reviews; we grade them by severity and calculate a Priority Score based on impact and fix effort. The result is a Streamlit dashboard that tells Fintech PMs exactly what to fix next to move the needle on user satisfaction, backed by rigorous validation metrics."
+## Methodology notes
+- **Severity:** *high* blocks the core job, or causes money loss, a safety risk, data loss or lock-out. *Medium* is a significant degradation with a workaround. *Low* is cosmetic, minor, or praise.
+- **Priority score:** `Impact × 4 + Frequency/Severity Gap × 4 − Effort × 2`. Impact and effort live in the workspace taxonomy. The gap is the severity-weighted volume (3 / 1.5 / 1), scaled 0–10. A quick win is Impact ≥ 6 and Effort ≤ 4.
+- **NPS proxy:** % 5★ − % 1–3★. It is a rating-based proxy, not a survey NPS.
+- **Significance:** results are FDR-controlled across every app × theme test, so a "significant" flag survives multiple comparisons.
 
-## Limitations & Future Work
-- Scraper may be rate-limited by Google Play
-- LLM classification has ~X% disagreement with manual labels
-- Taxonomy is English-focused; Hinglish reviews may be misclassified
-- Future: Add iOS App Store reviews, multilingual support, automated periodic scraping
+## Limitations
+- *Newest* sampling for popular apps covers only hours to days. Re-run with **Merge** periodically, or use *Most relevant* sampling, to build history for trends and release analysis.
+- Apple's public review feed caps at 500 reviews per app and doesn't expose developer replies.
+- LLM labels are probabilistic. Use the Validation page to measure agreement for each workspace.
+- Mixed-language reviews (e.g. Hinglish) are classified by the LLM but excluded from English-tokenised text analytics.

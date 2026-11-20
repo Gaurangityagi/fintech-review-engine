@@ -1,0 +1,102 @@
+{
+  "name": "Swiggy vs Zomato",
+  "category": "Food & Grocery Delivery",
+  "country": "in",
+  "lang": "en",
+  "apps": [
+    {
+      "name": "Swiggy",
+      "platform": "play",
+      "app_id": "in.swiggy.android",
+      "icon": "",
+      "developer": ""
+    },
+    {
+      "name": "Zomato",
+      "platform": "play",
+      "app_id": "com.application.zomato",
+      "icon": "",
+      "developer": ""
+    },
+    {
+      "name": "Swiggy (iOS)",
+      "platform": "appstore",
+      "app_id": "989540920",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/a4/7f/caa47fc2-af32-3aa2-98f3-e8200f800b31/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "developer": ""
+    }
+  ],
+  "taxonomy": [
+    {
+      "key": "late_delivery",
+      "label": "Late Delivery",
+      "description": "Order delivered late, ETA wrong, order never arrived",
+      "impact": 9.0,
+      "effort": 7.0
+    },
+    {
+      "key": "wrong_missing_items",
+      "label": "Wrong / Missing Items",
+      "description": "Wrong order, missing items, spilled or damaged food",
+      "impact": 8.0,
+      "effort": 5.0
+    },
+    {
+      "key": "food_quality",
+      "label": "Food / Product Quality",
+      "description": "Stale, cold, bad quality food or groceries, expired products",
+      "impact": 7.0,
+      "effort": 6.0
+    },
+    {
+      "key": "refund_cancellation",
+      "label": "Refund / Cancellation",
+      "description": "Refund not given, cancellation charges, order cancelled by platform",
+      "impact": 8.0,
+      "effort": 5.0
+    },
+    {
+      "key": "pricing_fees",
+      "label": "Pricing / Fees",
+      "description": "High delivery fees, surge, platform fee, price higher than menu",
+      "impact": 7.0,
+      "effort": 4.0
+    },
+    {
+      "key": "delivery_partner",
+      "label": "Delivery Partner Behaviour",
+      "description": "Rude or unprofessional delivery agent, asking for extra money",
+      "impact": 6.0,
+      "effort": 5.0
+    },
+    {
+      "key": "customer_support",
+      "label": "Customer Support",
+      "description": "Chatbot loops, no human support, unresolved complaints",
+      "impact": 7.0,
+      "effort": 4.0
+    },
+    {
+      "key": "app_bug",
+      "label": "App Bug / Payment Issue",
+      "description": "Crashes, payment failures, coupon not applying, tracking broken",
+      "impact": 7.0,
+      "effort": 6.0
+    },
+    {
+      "key": "praise_no_issue",
+      "label": "Praise / No Issue",
+      "description": "Positive review, satisfied user, praise for features",
+      "impact": 0,
+      "effort": 0
+    },
+    {
+      "key": "other",
+      "label": "Other",
+      "description": "Doesn't fit any other category, or is unintelligible",
+      "impact": 3,
+      "effort": 5
+    }
+  ],
+  "created_at": "2026-11-20T21:02:28"
+}

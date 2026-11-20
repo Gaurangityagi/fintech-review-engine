@@ -1,0 +1,1585 @@
+{
+ "__taxonomy__": "8381514bec6ddd50",
+ "2b4a8f06506895762ffb26a8f31aea080b8b7e8b55612e5483644eef1fb3b738": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Positive short feedback",
+  "feature_request": null
+ },
+ "2d4ed9bf6b9857d327082431c12a9111e1dbf8617a453312cfc093a78750b659": {
+  "theme": "pricing_fees",
+  "severity": "medium",
+  "sentiment_score": -0.7,
+  "one_line_summary": "Prices are too high",
+  "feature_request": null
+ },
+ "21df04d452c23f3560f05282ddde72fb4b397bc6881bb9fcaad593944abf1d08": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.7,
+  "one_line_summary": "Nice and amazing",
+  "feature_request": null
+ },
+ "13a099fdfea476de8f4aa0258d531b2a1d6bc9a5caa5a10754704a4fbd1c862f": {
+  "theme": "late_delivery",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Order delayed over an hour, cannot contact agent",
+  "feature_request": null
+ },
+ "c802ba763849c2eb3cd0c563d4c00397890077b4a60488a591465d9aa3ceead4": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": -0.4,
+  "one_line_summary": "Cash on delivery not available",
+  "feature_request": "Add cash on delivery"
+ },
+ "612d09f0e6547ab88874a80f121769b4922465fbfe7e96393d959c8a737dd894": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Happy with service",
+  "feature_request": null
+ },
+ "08c7f09d974a8ab0faee621321906f39f2bbf518693beb4a2c75b5527463dc63": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Instamart offers reasonable prices",
+  "feature_request": null
+ },
+ "ef4b01029e5c161d2810df4e70637dfad69c8d297a45a2c73085307f1cc5f208": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": -0.8,
+  "one_line_summary": "Worst food service",
+  "feature_request": null
+ },
+ "fdc96ffbf256523aec8846ae56321053c7ab751c99eb766e6bb4a7d362a4f060": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.7,
+  "one_line_summary": "Nice",
+  "feature_request": null
+ },
+ "8f4375ec65c2c4092a1cc21e76712472eae0de999384e8327c495957121db9c2": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Best",
+  "feature_request": null
+ },
+ "beb2b8387478fbbba5b68c5c52acaa05ba8732c895b218a2a2ccaa0e83ea621c": {
+  "theme": "pricing_fees",
+  "severity": "medium",
+  "sentiment_score": -0.8,
+  "one_line_summary": "GST price too high",
+  "feature_request": null
+ },
+ "1a524143aea4b1d91660aab075dabc6a0622b68d6298ade955a2c246b7009803": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": -0.6,
+  "one_line_summary": "Poor service",
+  "feature_request": null
+ },
+ "2419bc6a9f950751042f7457287e4ff44529289ff5e934c695517656d10c90e1": {
+  "theme": "refund_cancellation",
+  "severity": "high",
+  "sentiment_score": -1.0,
+  "one_line_summary": "Late delivery and no refund despite complaints",
+  "feature_request": null
+ },
+ "73d1b1b1bc1dabfb97f216d897b7968e44b06457920f00f2dc6c1ed3be25ad4c": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Super",
+  "feature_request": null
+ },
+ "770e607624d689265ca6c44884d0807d9b054d23c473c106c72be9de08b7376c": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.7,
+  "one_line_summary": "Good",
+  "feature_request": null
+ },
+ "81f1a179149981cbd4410cbce0485b03a74054a0ca72b843c45f957577e56c39": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": -0.8,
+  "one_line_summary": "Very bad experience",
+  "feature_request": null
+ },
+ "b9d30899e0d264479f97cd22aa3bb3366616cdc4bae1fb49ca66fcdc6c4be579": {
+  "theme": "customer_support",
+  "severity": "medium",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Poor customer support, order cancelled after 45 minutes",
+  "feature_request": null
+ },
+ "0aebb4809615cbe6850067aad81383d5b4229d8ef786c88bde6330a26c027e35": {
+  "theme": "food_quality",
+  "severity": "medium",
+  "sentiment_score": -0.8,
+  "one_line_summary": "Stale food from outlets, no action taken",
+  "feature_request": null
+ },
+ "537edf774949f41f4d9e1b0677a50833de4698ac2c099df9a5cd7ea3b455f112": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Best app",
+  "feature_request": null
+ },
+ "8b1833d0ae86fb58c4e03f6df25bf90fe7f5e4f621672abb3d0883614f8d77af": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.6,
+  "one_line_summary": "Good",
+  "feature_request": null
+ },
+ "5aceb60cc9585a909014b9674d2f0eb1f95960906c000cfa78753e1e4426f9b7": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Best food",
+  "feature_request": null
+ },
+ "f0aac2804cdb0743ac9bee06868f24fbcb35e3fb955e35c821abba13c734c86e": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Good app",
+  "feature_request": null
+ },
+ "ac603da4bf2196ab4da56d554d834cac4c3c2026d1b7cb20bef96bc532096154": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": 0.0,
+  "one_line_summary": "Unintelligible comment",
+  "feature_request": null
+ },
+ "7659a4a729c5715086cc6fe3db093aaf51af63100b210ec98c24785e6ba78673": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Fast order and delicious food",
+  "feature_request": null
+ },
+ "dc660f34ac28c60fb53f3e6b57dea9731a83b96631b4bcd205903897b405322e": {
+  "theme": "pricing_fees",
+  "severity": "medium",
+  "sentiment_score": -0.8,
+  "one_line_summary": "Insanely high platform fee up to 20%",
+  "feature_request": null
+ },
+ "8e5d97316f0433cdf45c25bb838cdc90c2ccec3b2ffd7036b8a754296da9edcb": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": 0.0,
+  "one_line_summary": "Unintelligible comment",
+  "feature_request": null
+ },
+ "785a7f0da27e71ab1f51d32051be0dc5e58150f1e56f09961f3eb8d59d1c8aec": {
+  "theme": "refund_cancellation",
+  "severity": "high",
+  "sentiment_score": -0.95,
+  "one_line_summary": "Order cancelled, refund handling poor",
+  "feature_request": null
+ },
+ "d1f0556c112dc873af90428696a3ff5614716944867202986cdc08804b278988": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.7,
+  "one_line_summary": "Nice",
+  "feature_request": null
+ },
+ "7a803492d406e940ae12605340b1f730bf9608d9c8c924cd6fd5b5e08d2f8326": {
+  "theme": "pricing_fees",
+  "severity": "medium",
+  "sentiment_score": -0.6,
+  "one_line_summary": "Fake discount ads, food okay",
+  "feature_request": null
+ },
+ "e1e4d435449bc83b0803b48bd105c14965aba23eb8953e219c6ff5124e255f96": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": 0.0,
+  "one_line_summary": "Unintelligible comment",
+  "feature_request": null
+ },
+ "42358a72ee776ff8fa4ef8744bb2328d36b79a06d7939b67ccd8c852f37a9592": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Excellent experience",
+  "feature_request": null
+ },
+ "1e7ea1217cbddd7452fc3c4a83f4fa7fe075c82defb3b2023c92116c04f55705": {
+  "theme": "late_delivery",
+  "severity": "medium",
+  "sentiment_score": -0.7,
+  "one_line_summary": "Orders always delayed",
+  "feature_request": null
+ },
+ "7a490a2a24e9a4beebd49ffa8c5f21c3d872af97cb99ce71b529979737108ce9": {
+  "theme": "late_delivery",
+  "severity": "high",
+  "sentiment_score": -1.0,
+  "one_line_summary": "App fraud, no deliveries, terrible support",
+  "feature_request": null
+ },
+ "d527a9509ce55c80e0cfb18b1c31d1ee724eef4e05e1be32812ab8dec9c02a20": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.6,
+  "one_line_summary": "Good service",
+  "feature_request": null
+ },
+ "a7dc442ae63375f9efb91d1d2d72008f24290e25a09a9a2e42272edb4ed56314": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.7,
+  "one_line_summary": "Kind and sensible person",
+  "feature_request": null
+ },
+ "7d998def9a5d23156a82a560739829b856f09bc96013565976e8a978bc6753c8": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Love the app",
+  "feature_request": null
+ },
+ "378f6d7f036ece31d0c50dd93fbcf9c7e9918cd76d9555808e807762603c6999": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Five star rating",
+  "feature_request": null
+ },
+ "9817d55ee480ce3c3b84c3c597037804752692eded7838c8b103080e8d5584e0": {
+  "theme": "delivery_partner",
+  "severity": "medium",
+  "sentiment_score": -0.8,
+  "one_line_summary": "Rude delivery partners, poor address handling",
+  "feature_request": null
+ },
+ "b51b46b18e2b4e828476b0b13b7977581d5df38dfef11ac5f56253dc3f9f2cb1": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.2,
+  "one_line_summary": "Acknowledged, thanks",
+  "feature_request": null
+ },
+ "624c9eb27f03ea6311e54b7cba4c26b11c27fd36ec87657ab03ddc13b480d0c1": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": -0.5,
+  "one_line_summary": "Poor service",
+  "feature_request": null
+ },
+ "5d57d39e6b7d8ea050980e6665bb1da357db14249d74e122f7d4e8cc2253beff": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.5,
+  "one_line_summary": "Thumbs up",
+  "feature_request": null
+ },
+ "04e8bade0349a95b39a5ebc59699cc61e61387dd1ad99588739bb0b530cf17f0": {
+  "theme": "customer_support",
+  "severity": "medium",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Customer support useless, calls dropped",
+  "feature_request": null
+ },
+ "4422b34fbc904ff766c51958b6748fd57cffa1d84b9929182ed074e05a718f73": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Swiggy is the best",
+  "feature_request": null
+ },
+ "ae4e646227d28e50baddeee7aa7098d9d76170e1a18fc339d73f48b6894eeba7": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": 0.0,
+  "one_line_summary": "First time user",
+  "feature_request": null
+ },
+ "62b380b8c3af07e2fd98c5e3f0ed9923a975ddfef59462a5febb90fea1cc40d6": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Excellent",
+  "feature_request": null
+ },
+ "705db0603fd5431451dab1171b964b4bd575e2230f40f4c300d70df6e65f5f1c": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Awesome",
+  "feature_request": null
+ },
+ "beba9964e694238a6d14a063b82282ddc5a0fff89e4d1ff82054ef1605a645fb": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Very good app",
+  "feature_request": null
+ },
+ "4712464003360349ba06d68ec29b6fa7559059e943ad3aa62f62d916c27ad3c6": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Good experience so far",
+  "feature_request": null
+ },
+ "32c1deb0d66833c7a356d44c10bbd55da789070eb49e1db20e7f72017ee10595": {
+  "theme": "wrong_missing_items",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Cold stale food and missing items with unhelpful support",
+  "feature_request": null
+ },
+ "343614bcdb829f7e0ab1e3a876dc5437a01a6eea3df3fd1031774b5e691fd949": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Very nice",
+  "feature_request": null
+ },
+ "e186022d0931afe9fe0690857e32f85e50165e7fbe0966d49609ef1981f920c6": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Nice",
+  "feature_request": null
+ },
+ "624d026dc13e1e189f9ea4ca66a065466d3f438dd94250ee8bc45ab57566374e": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Very good",
+  "feature_request": null
+ },
+ "6c72f683b540ce1e409258a0f23131a8b0657ac0a260b7a7d10682753d6401a2": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Fast service",
+  "feature_request": null
+ },
+ "2042780135590876e41bce9a025fbd8686572fbb06d385d1f6d693dd9c7d4b64": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": 0.0,
+  "one_line_summary": "Unintelligible text",
+  "feature_request": null
+ },
+ "bb9235062f053d6d775a10bde7e86c2c44a9ebddf2abc1bacc5b7d9701807a51": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Good thumbs up",
+  "feature_request": null
+ },
+ "ffbe07abec7b7fff038fa66fff7b7dabcbe24c628be751097e04272c881104e0": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": 0.0,
+  "one_line_summary": "Unclear term 'swwige'",
+  "feature_request": null
+ },
+ "5e774f7c14730d324ed69dbf04102e2956ed6ef0b9e3476fab4c493944755e56": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Fav app",
+  "feature_request": null
+ },
+ "3d96c1a2214419dfb7f23752eb5a82411645c8fe52046cba344c3f30cf269da8": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Super served Swiggy",
+  "feature_request": null
+ },
+ "550cd990baa41888845bf42c213a66f2cfa04f7307a39ec1fdb28683d198b425": {
+  "theme": "late_delivery",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Delivery takes double the ETA",
+  "feature_request": null
+ },
+ "907d5d7d2d6a286e2b2e177c5e44b5c35b5588a71e25b657e64493748856d62a": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Good and best",
+  "feature_request": null
+ },
+ "069ae92e9db08a1969d1101e9a09d7ae3b2a27c47fc711809647ba53bf778ce6": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Nice experience",
+  "feature_request": null
+ },
+ "987aa218eed5ff9e75f27a70302d4972c2b46f82b2ef4c16eb049848ce4fe1df": {
+  "theme": "other",
+  "severity": "medium",
+  "sentiment_score": -0.8,
+  "one_line_summary": "Long-time user unhappy, switched to competitor",
+  "feature_request": null
+ },
+ "ab31ffd9701c108a0a3b358a2b8a858ac768e908d7c7ae42269bc0f971e44979": {
+  "theme": "pricing_fees",
+  "severity": "medium",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Discounts advertised incorrectly",
+  "feature_request": null
+ },
+ "e63ae28010148480222ae33b068722e37076c499efae1f51dfea94cd020528f2": {
+  "theme": "other",
+  "severity": "medium",
+  "sentiment_score": -0.6,
+  "one_line_summary": "Service deteriorated from good to bad",
+  "feature_request": null
+ },
+ "71d6f27e6f19603c33efb7641e5484492cbdf545b6a1570394a769b6362a62d1": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Good experience",
+  "feature_request": null
+ },
+ "664ca003baf7fea34a6152e00f3135312292e7b4969ada9fcd79e5a0ea28ad8f": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.85,
+  "one_line_summary": "Good 😊",
+  "feature_request": null
+ },
+ "cc1121f33eba4ebd24f4c555a48d48aec2a278dead56e581b2f10b0f0f52db0e": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": 0.0,
+  "one_line_summary": "Unintelligible comment",
+  "feature_request": null
+ },
+ "d04dbf37be9632e94a6c7d7358d80048d31054672cdcce48a84836930c24673c": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.7,
+  "one_line_summary": "App helps save money",
+  "feature_request": null
+ },
+ "42378d6cd862938c348332ebd40e5d1b77b1f13b21ccc8a86a9f1365ba768a8a": {
+  "theme": "pricing_fees",
+  "severity": "medium",
+  "sentiment_score": -0.7,
+  "one_line_summary": "Price and extra charges too high",
+  "feature_request": null
+ },
+ "c89a2c8475462fc839ddd63a4dd995a38acb941c474bd0cda24b4332ddb799cd": {
+  "theme": "delivery_partner",
+  "severity": "medium",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Delivery partner was terrible",
+  "feature_request": null
+ },
+ "01288502e2bfcfce6ba2f4d6e6172208221303ec9add5ddc6832789599259487": {
+  "theme": "refund_cancellation",
+  "severity": "high",
+  "sentiment_score": -0.95,
+  "one_line_summary": "Refund not received after cancelled order",
+  "feature_request": null
+ },
+ "d29eaa20c3bb9144884a64166c32f4f9212c044e5d6a16dc7b111b0c56742b0b": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Very good experience",
+  "feature_request": null
+ },
+ "b5685a7c0f0093ba40b15e70994e69d6e59ca5261460400fac8cde036b671647": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Good job",
+  "feature_request": null
+ },
+ "776f69a8122fb2d9e95f8e2afcb5b9a7b9a2fffe221e2a7a1820fc9689b702f4": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "gud",
+  "feature_request": null
+ },
+ "cb8b96a25a9efc51367359389313d190902b9adeaa0ed4a459742c4df699cba4": {
+  "theme": "late_delivery",
+  "severity": "medium",
+  "sentiment_score": -0.8,
+  "one_line_summary": "Order arrived late, food cold",
+  "feature_request": null
+ },
+ "7806ebf760f83faee27e21a6b32dac9ac771ace9b450a3390a270278bc0a5e42": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Positive feedback, good",
+  "feature_request": null
+ },
+ "961f96437eb9b2e5993fb6106d45f1fc7df74af25c83d0c4cf545f5851012690": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": 0.7,
+  "one_line_summary": "Comment on good battery usage",
+  "feature_request": null
+ },
+ "245ccd9091ae0095d691faf3a1257cf03ac5a489da58a1a9cc87e7ec44466066": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Great and nice",
+  "feature_request": null
+ },
+ "5193a442b6009f7340417943333e32006a91a3dcc3b157f7c8e612b48c81d9fa": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Good service",
+  "feature_request": null
+ },
+ "9adbbc276114247a52c2dbd574127d35fa4462243e9a5fdacb86fab3026ea99d": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Best service",
+  "feature_request": null
+ },
+ "6d785acc7d4ce49fe4e4bbf276dc73f1cf7c20094d3e96fe84ef79fbebcaf88a": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Excellent",
+  "feature_request": null
+ },
+ "2689367b205c16ce32ed4200942b8b8b1e262dfc70d9bc9fbc77c49699a4f1df": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": 0.0,
+  "one_line_summary": "Just ok",
+  "feature_request": null
+ },
+ "c39c2eea0ff927044e22b2c67aacc5be0d89ab50bd81b958badc2929b7d92731": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Nice service",
+  "feature_request": null
+ },
+ "473e51108f591402331a3976ee1a270cd079d68a5e2281b87bd7742a2e88c320": {
+  "theme": "app_bug",
+  "severity": "medium",
+  "sentiment_score": -0.6,
+  "one_line_summary": "Cash on delivery not accepted",
+  "feature_request": "Allow cash on delivery"
+ },
+ "cdf71dea7d7741a2b6f021f3dd344f75c8333988f547866a8fbf28f064cf7c78": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": 0.2,
+  "one_line_summary": "Greeting",
+  "feature_request": null
+ },
+ "d4b2a436a54d521dc1f6a9d78ae4b159f2b092cf4ee0705ae6b6be9c495d09db": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Nice app",
+  "feature_request": null
+ },
+ "8fe95376a16a01da888f58c45e0c094a126628cada3c90a5d7c09c0365899dcd": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Amazing app, grateful",
+  "feature_request": null
+ },
+ "56fb015dd0c7767ad962f0b2a6a18b62725d16bdb05a2fc1a8ca38b9c46fef23": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Great coupon received",
+  "feature_request": null
+ },
+ "dc057646bd5c97ba7095605ac9b1ed35ad788b599224b2dffc9a55983f6b6a0c": {
+  "theme": "pricing_fees",
+  "severity": "low",
+  "sentiment_score": -0.5,
+  "one_line_summary": "No cashback or offers shown",
+  "feature_request": "Show cashback offers"
+ },
+ "6bd5d567b666c995f9700953ec30519348af42dfebb95e9600a13f861a470520": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Super nice app",
+  "feature_request": null
+ },
+ "08081c499cdeab015ad5c888c4aac3e8a4ba2333be9862f69482732bd817411d": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Positive emoji",
+  "feature_request": null
+ },
+ "18fd28666af518e84e8677a0af59618a39c7da032022aa301cc3f58e8af19bae": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.7,
+  "one_line_summary": "Good service",
+  "feature_request": null
+ },
+ "e989600e0129ad471915090b0c092fdf7fa0357e1c81b58cb3e46b11ce992962": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Thank you with heart",
+  "feature_request": null
+ },
+ "5781eca80ee166a0ff8c1fc112f61b281de5d2ec624ff75af52ff300a6e37d08": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Thank you",
+  "feature_request": null
+ },
+ "ca2608d7279b1a04bf51a6a4c2464a11647a29a8a649bebc2bdd9d8467a2a62c": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Nice app",
+  "feature_request": null
+ },
+ "d7d67959f81007989fc296805e9f3d6fa8ef3bca1a161720c449423742fc92dd": {
+  "theme": "delivery_partner",
+  "severity": "medium",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Unprofessional delivery service",
+  "feature_request": null
+ },
+ "e7e7d7fb4411c54f31c9a025bac5c409a37ceff060d32976e9e7f16f405e0d83": {
+  "theme": "delivery_partner",
+  "severity": "medium",
+  "sentiment_score": -0.8,
+  "one_line_summary": "Shameful service",
+  "feature_request": null
+ },
+ "d1543998a34020de7fb48ba66becdd2025be12cdba8391a275da256f7fcd4065": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": 0.2,
+  "one_line_summary": "Acceptable order handling",
+  "feature_request": null
+ },
+ "d9214197803795d8df851806cc4bb22398671412fb5776aa6a56bab0130672fa": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Superb",
+  "feature_request": null
+ },
+ "cd5b7b9fb7b9cbb140de33c39af7cb8e843f27e4eb3ec3a43d12d94a7e99db5f": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": 0.0,
+  "one_line_summary": "Irrelevant word",
+  "feature_request": null
+ },
+ "c40ac72268a7da04aa9d2096907a48ee54f0d994ad0e4f74923ba2ee4dcf8d97": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Nice work by Zomato",
+  "feature_request": null
+ },
+ "e8db312a4bc6d6e7a0f9391be6532c8bafe0654536d346b06ffeac904dfb69d1": {
+  "theme": "food_quality",
+  "severity": "high",
+  "sentiment_score": -1.0,
+  "one_line_summary": "Stale, rancid food delivered",
+  "feature_request": null
+ },
+ "0103908676d99e81732e69680451b0962086942e84698b212aaa2de67262a42b": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.7,
+  "one_line_summary": "Nice",
+  "feature_request": null
+ },
+ "564efe1a0a074a69f9e65765dd612b33e45fbe28aff7c30a5ceb8461da1818b2": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Heart emoji",
+  "feature_request": null
+ },
+ "7cdba3a84afb0a1a14e268a8e3a49f13d5e2b8b434251d55fd456f1e6d40691c": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Best services",
+  "feature_request": null
+ },
+ "3feeafc4ba597641de0abb2d5035c3e63c51e69a62c694e1ff255719a4da56b7": {
+  "theme": "pricing_fees",
+  "severity": "low",
+  "sentiment_score": 0.4,
+  "one_line_summary": "Charges and GST increase but overall good",
+  "feature_request": null
+ },
+ "3e40db021920af68e5c57f2a4a8477d74ed2dcba318f06d50feba473ff27ec25": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Very best service",
+  "feature_request": null
+ },
+ "f6078ebe0c2f08c225c0349aef2fe062d71b972e3c91b9687cccdff24d0c8ac8": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Expresses happiness",
+  "feature_request": null
+ },
+ "948e8ec2c97df8c9aa9beed1703a8d1a0be901473e08cdaca890897cd3ce2556": {
+  "theme": "wrong_missing_items",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Received wrong kachori and missing items",
+  "feature_request": null
+ },
+ "1b338350e676e5420a10853627920fdb20b8738cd55b858d21be61c5910d2e06": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Superb and best experience",
+  "feature_request": null
+ },
+ "dcaf2d0b13dd460d212e24c27c150982a5fda18a30b3e7860db9f5c036628db1": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Good good",
+  "feature_request": null
+ },
+ "ccd8e02818c6116ff36823eb0b03cb6a81fc3144d77106c4c5f4b0bea98e8b86": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Good with thumbs up",
+  "feature_request": null
+ },
+ "79ae91c7036b0857502bcd36a9bd56f459fbbdf38e68c1fad310d730420adefa": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Good product delivery",
+  "feature_request": null
+ },
+ "c36d6541a9dbbd1f0da854d36c52d22652cc8d4e3598868203c4c5da1a9f5f00": {
+  "theme": "delivery_partner",
+  "severity": "medium",
+  "sentiment_score": -0.6,
+  "one_line_summary": "Charged extra money",
+  "feature_request": null
+ },
+ "68be753ef382438fe36121cd1005f546e38dcc054afb9eb25bdbe48a2f13388c": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Very good service",
+  "feature_request": null
+ },
+ "1b6d63e07551c6f6e95acbf750aaa3caecb62ed1c02da30b31c10b137a0adb30": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Nice with thumbs up",
+  "feature_request": null
+ },
+ "45bfd7d6b0db6049c09596474c4c95031262b38909eab2523f7d2f752df9f7a6": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Good service",
+  "feature_request": null
+ },
+ "4542fd22a72927440fd46a6f9fa2c399bb7b52a815a1c08e4d390777e0aef051": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Great multiple options",
+  "feature_request": null
+ },
+ "1d7d12e9f5657d1aff314e26d01b54d7face059e14f88bd488f4f7cb6cbe5e38": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Best cake",
+  "feature_request": null
+ },
+ "710063872265f41f4331d22f407035c7df9b4cbd94e196df7ceb52532ac0a77e": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "We are satisfied",
+  "feature_request": null
+ },
+ "f0443a342c5ef54783a111b51ba56c938e474c32324d90c3a60c9c8e3a37e2d9": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": 0.5,
+  "one_line_summary": "Smile emoji",
+  "feature_request": null
+ },
+ "c939327ca16dcf97ca32521d8b834bf1de16573d21deda3bb2a337cf403787a6": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.7,
+  "one_line_summary": "Good",
+  "feature_request": null
+ },
+ "2d751601deb03a99f54424f5cf233284a211d36e8a1abf377235ba6b1c496c3b": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Good service",
+  "feature_request": null
+ },
+ "811cfb0f9f0de9046eab5138252b7af83c98ef82bbca56bcbb18493505d9f277": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Nice and good",
+  "feature_request": null
+ },
+ "80a632038daea2d1e45c046d33c664130493ef831648f8b1e767b36ab491ac41": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": 0.0,
+  "one_line_summary": "Unclear statement",
+  "feature_request": null
+ },
+ "89d4e525aeced3145ea5d27d8893db5e6d1bce5fb7eb3cb2d82862ba85f90ff5": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Happy emojis",
+  "feature_request": null
+ },
+ "96b7cb6e89928bb0b4afe9bcfe8009dbf037505bf1144a43b9d6f7c128f7c663": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": 0.0,
+  "one_line_summary": "User name only",
+  "feature_request": null
+ },
+ "18953b4eded511b59d523b19f429b8bfb8d80a9ba2f2e0253052217d8b70800f": {
+  "theme": "delivery_partner",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Delivery person ate food",
+  "feature_request": null
+ },
+ "bb9facb149d7b7be8bc80ccb98ab99824a4d9228166bdcf5a7f406961cdf41a8": {
+  "theme": "refund_cancellation",
+  "severity": "high",
+  "sentiment_score": -0.95,
+  "one_line_summary": "Unresolved cancellation fee and poor support",
+  "feature_request": "Faster support resolution"
+ },
+ "a33dc77ff928c4ef053231376ed738115744f894e1e3e3dc493a566035cfc7e2": {
+  "theme": "other",
+  "severity": "medium",
+  "sentiment_score": -0.9,
+  "one_line_summary": "User dissatisfied, deleting app",
+  "feature_request": null
+ },
+ "3b221191b41519551b9f23de5e05d3cb21f5cc3706b7e9c262bfe50475aea42f": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Fast, trusted, no missing items",
+  "feature_request": null
+ },
+ "c266a4d944fdb41ca7d3c2642b039f6ca1bed62bbfcc769aa0c2354331adbbe2": {
+  "theme": "delivery_partner",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Fraudulent delivery agents and poor support",
+  "feature_request": "Better agent vetting"
+ },
+ "d9c1f8bce45c723c6209cf611b4dca4d65f8aefe9ed512eeba5a639836ae0dc9": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Very good service",
+  "feature_request": null
+ },
+ "bc6fa6115749e9d8347ab3134f6e32b81a83e3212dbf5874ebe592feba9dae1f": {
+  "theme": "delivery_partner",
+  "severity": "medium",
+  "sentiment_score": -0.7,
+  "one_line_summary": "Poor delivery service and support",
+  "feature_request": null
+ },
+ "181f81d2252d9450a7837f94c6482547bfd13fbac8834ff226881326c350e73e": {
+  "theme": "food_quality",
+  "severity": "medium",
+  "sentiment_score": -0.8,
+  "one_line_summary": "Unprofessional staff and poor food quality",
+  "feature_request": "Improve food quality"
+ },
+ "a5d69042dd4d1e36abe942d9dd5965b6801522c4b74a80a3d0a2b9850354bf3a": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Food always delicious, satisfied",
+  "feature_request": null
+ },
+ "b692ec245e807753e7c1959621d92a209bf05b24ac8916d721b2906789ac2ad8": {
+  "theme": "wrong_missing_items",
+  "severity": "medium",
+  "sentiment_score": -0.7,
+  "one_line_summary": "Orders mixed up, received extra wrong delivery",
+  "feature_request": null
+ },
+ "eb7967af1cb055f8e23730360cba836d39e31768757bb16e50e2d9806796173f": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "App is good",
+  "feature_request": null
+ },
+ "3f8dc9a8d08f13e794b3938bcd891fd103d5fa326f5aecd85d3ec5ea83409e34": {
+  "theme": "pricing_fees",
+  "severity": "medium",
+  "sentiment_score": -0.6,
+  "one_line_summary": "Discount not applied, price unchanged",
+  "feature_request": null
+ },
+ "94b0963a3aff13684ef1df63da9b1b6bd7c0b79b26d96375c0bdc70bf7b2f27b": {
+  "theme": "customer_support",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Terrible customer service, support unhelpful",
+  "feature_request": null
+ },
+ "b5f7a55410e50c7a541439883f7bcff3f6b03c6c54ae2c2ee3fda58ebfd50db8": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.7,
+  "one_line_summary": "Instamart helpful for busy life",
+  "feature_request": null
+ },
+ "8c8b828335e16b0fbc4589ba487f88f8718bd93890d6ad56c718f5338e7b3cb2": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Fast successful delivery, app best",
+  "feature_request": null
+ },
+ "1ac9de2df2f7652820dcc74daabf0d44d289342e1da845de35796a5eca7d7af9": {
+  "theme": "late_delivery",
+  "severity": "medium",
+  "sentiment_score": -0.6,
+  "one_line_summary": "Order delivered very late",
+  "feature_request": null
+ },
+ "2550665dc394a609e837182e4cf566fcf7e64cc04339143c88dd0df6fee8aabf": {
+  "theme": "customer_support",
+  "severity": "medium",
+  "sentiment_score": -0.5,
+  "one_line_summary": "Good items but very bad service",
+  "feature_request": null
+ },
+ "7a06f529f08d704146d05bd3c19ba57c4ba696eac7b048c57c10640ccaaf8363": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": -0.9,
+  "one_line_summary": "App considered worst",
+  "feature_request": null
+ },
+ "c212a8d64514a15f4883f7bfedf5a43df0a999db95dfcb85c5377625364343be": {
+  "theme": "app_bug",
+  "severity": "low",
+  "sentiment_score": -0.6,
+  "one_line_summary": "Removed order time info, feels unfair",
+  "feature_request": null
+ },
+ "edc5662a735994e8d7faa4c6306d88c2ee575d70564fb6dfeb7a99ab2e584d10": {
+  "theme": "food_quality",
+  "severity": "low",
+  "sentiment_score": -0.2,
+  "one_line_summary": "Food was good but prepared too early",
+  "feature_request": null
+ },
+ "11319b588008e650106118e11dfb7bf187b37a6599450927dc208ee5460b687e": {
+  "theme": "wrong_missing_items",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Orders missing items, wrong products, opened used packaging",
+  "feature_request": null
+ },
+ "7470b4968648f0d9108cfd69326167dca12a1a0367efbaffe45906017117b56d": {
+  "theme": "refund_cancellation",
+  "severity": "high",
+  "sentiment_score": -0.95,
+  "one_line_summary": "Incomplete orders, no refunds, terrible support",
+  "feature_request": null
+ },
+ "d0b4ff69e917d7d8b494c2464bb59031178a825adc40ea291bdce0b9411072ad": {
+  "theme": "app_bug",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Account blocked after adding money to wallet",
+  "feature_request": null
+ },
+ "1c8d25dfeb8c284466a186835528a7bf584613c2f40ebaf4097d814a1c737387": {
+  "theme": "customer_support",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Support unhelpful for delayed orders and no delivery partner",
+  "feature_request": "Improve support response"
+ },
+ "da1be6c557fd7b90b502c2ccd3f53617b72ae103f57338cfe630c5317783cdc0": {
+  "theme": "late_delivery",
+  "severity": "medium",
+  "sentiment_score": -0.6,
+  "one_line_summary": "Order arrived later than expected",
+  "feature_request": null
+ },
+ "47a57730c973ebe5223272745221bbe5a7c05c76fd82e9ac966c96c7825cfbd0": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Positive feedback",
+  "feature_request": null
+ },
+ "d7bf3784c7f18178d710026c0095a9d620513629320bec3f8196644e33aeaa18": {
+  "theme": "customer_support",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "No response from support, no accountability",
+  "feature_request": null
+ },
+ "8e680450afc3e7d1636d5a0213e0e17d0490afe0792b255c809ecc9ef72fb5e0": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Excellent fast delivery",
+  "feature_request": null
+ },
+ "1f73c65f493bf38a42d2614c83caa04b8923eb0d9e9e3bc57cb62fefbf48d6cf": {
+  "theme": "refund_cancellation",
+  "severity": "high",
+  "sentiment_score": -0.85,
+  "one_line_summary": "Refund policy unprofessional and useless",
+  "feature_request": null
+ },
+ "1c495eb426e79438ec373093803301e372431f3ffbd2ee106bf6ed68fb4a8582": {
+  "theme": "refund_cancellation",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Cancellation fee keeps full payment, app support useless",
+  "feature_request": null
+ },
+ "9c7d870d923e9a31fb4e14dc19c1c8351cf0a4aad57acf239647962ce0b57010": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": -0.4,
+  "one_line_summary": "App has too many confusing options",
+  "feature_request": null
+ },
+ "b65319009afad827299677898727d7d7eaa74fedf97a750f5721cc9751a8a7fe": {
+  "theme": "app_bug",
+  "severity": "medium",
+  "sentiment_score": -0.6,
+  "one_line_summary": "App fails to detect home address",
+  "feature_request": null
+ },
+ "ae75bdd27a7ab1db396335905ca841eadb7af330db480f79d5cb00ec4e1864d4": {
+  "theme": "late_delivery",
+  "severity": "high",
+  "sentiment_score": -0.8,
+  "one_line_summary": "Delivery person not picking up order, no response",
+  "feature_request": null
+ },
+ "64ba3f2f990560a451c275c9dc441301c5393dcb44fcfd14903c696f9a7b757d": {
+  "theme": "pricing_fees",
+  "severity": "medium",
+  "sentiment_score": -0.7,
+  "one_line_summary": "High surge and extra fees",
+  "feature_request": null
+ },
+ "33e869cf2850b8ed847499b8651ed76465303fc8e4694863c57dd739754010a7": {
+  "theme": "app_bug",
+  "severity": "low",
+  "sentiment_score": -0.5,
+  "one_line_summary": "Bad UI caused duplicate order",
+  "feature_request": null
+ },
+ "155fde087499d39cf33ca03db224fbc9cdd26059c12f174d4db5829815516207": {
+  "theme": "delivery_partner",
+  "severity": "medium",
+  "sentiment_score": -0.6,
+  "one_line_summary": "Riders wasting time",
+  "feature_request": null
+ },
+ "f6529a11084e7f49d50e1b3b7a2bea3eb130ab9cd158caf6149f500fce16e527": {
+  "theme": "refund_cancellation",
+  "severity": "high",
+  "sentiment_score": -0.85,
+  "one_line_summary": "Charged cancellation fee despite delivery delay",
+  "feature_request": null
+ },
+ "a5128faeee85faac130c926f50d6743cb376cfcb033ac0627648780b9bb9a645": {
+  "theme": "refund_cancellation",
+  "severity": "high",
+  "sentiment_score": -0.95,
+  "one_line_summary": "Refund of 374 not received despite multiple follow-ups",
+  "feature_request": "Provide real-time refund tracking"
+ },
+ "8eda44ed9c7f00c2178572b117f63c8e1f15dcb22050fb592d92179aae663837": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Very good service, satisfied",
+  "feature_request": null
+ },
+ "7ca6ebbdbe7e5856452b8fb28f0932419b0aad467562f6666ad9e61c7032b42e": {
+  "theme": "refund_cancellation",
+  "severity": "high",
+  "sentiment_score": -0.8,
+  "one_line_summary": "Frequent last‑minute order cancellations",
+  "feature_request": null
+ },
+ "75a105f057796d3bb152b9612e2c3071515a27d17f494c2d937d504a418b28f3": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Positive feedback, nice experience",
+  "feature_request": null
+ },
+ "321056eb250064398b8f7ab10f6024d031de61c987932bcea8def5bb3125586a": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": -0.6,
+  "one_line_summary": "Generic negative complaint about the app",
+  "feature_request": null
+ },
+ "2d79900c76d7b895ab59534b95f7065eb8d807f6c0a273048ee7c43264faa820": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Strong negative remark, no specific issue",
+  "feature_request": null
+ },
+ "55f98bac92081f0f7c3b2610c467ff4357fade18ccecee7bb471e5dff8e217cf": {
+  "theme": "late_delivery",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "No rider for 40 min, order not delivered",
+  "feature_request": null
+ },
+ "1fd024004852887373e3432f564d578bc7e4b33543f00ff93d4e8fa7fe13e3da": {
+  "theme": "late_delivery",
+  "severity": "high",
+  "sentiment_score": -0.85,
+  "one_line_summary": "Order not assigned at 4 am, perceived fraud",
+  "feature_request": null
+ },
+ "5f74fab1246ddc94bc95a4f53dab71b2081451ace5464c69f22586e19a652e95": {
+  "theme": "app_bug",
+  "severity": "medium",
+  "sentiment_score": -0.5,
+  "one_line_summary": "Location screen reappears each launch",
+  "feature_request": null
+ },
+ "b4f1681f5be33457ec590128deaae3ad08d45a282be07d84999473de60835dfc": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": -0.4,
+  "one_line_summary": "General complaint about slow service",
+  "feature_request": null
+ },
+ "3df6156f35efcee73168da6be3ed8ef96adf1146fe7bde4bfdb3bbfd90aa8a51": {
+  "theme": "late_delivery",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Food delivered late, calls ignored",
+  "feature_request": null
+ },
+ "27c7756680b8a628554ef557dbf26a69d9b27a386a8252ebebb9133c18d3f0ad": {
+  "theme": "refund_cancellation",
+  "severity": "high",
+  "sentiment_score": -0.85,
+  "one_line_summary": "Order cancelled after long wait",
+  "feature_request": null
+ },
+ "0a0e53bf9290c5fe3a64d9db3254dea2eaf17b8f5db91a71fcd64861693ec93b": {
+  "theme": "late_delivery",
+  "severity": "high",
+  "sentiment_score": -0.8,
+  "one_line_summary": "Item not delivered, partner unavailable",
+  "feature_request": null
+ },
+ "4f4aa3cdb554d111fe8458efc31dfd7f602f21c08d602bbdfa7b0cb7d4a0db5f": {
+  "theme": "late_delivery",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "1.5 hr delay, multiple reassignments, poor support",
+  "feature_request": null
+ },
+ "63ada3d3e6fb2443554272b7c908e4eca4603ce36655be4b50115cbaf8f2ad32": {
+  "theme": "customer_support",
+  "severity": "medium",
+  "sentiment_score": -0.75,
+  "one_line_summary": "Support delayed coupon instead of refund",
+  "feature_request": null
+ },
+ "8d6d86eb91425586e1c38e672c6bceb0bb42e29317acee77dc2ceac0ff6c1e2a": {
+  "theme": "food_quality",
+  "severity": "medium",
+  "sentiment_score": -0.8,
+  "one_line_summary": "Reduced quantity, bad taste, bad support",
+  "feature_request": null
+ },
+ "039b0aa223711a5902c744f953efcad2e2c8d260ee7aa14e94e0ae7ca678cf58": {
+  "theme": "refund_cancellation",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Charged cancellation fee and no delivery assigned, poor customer care",
+  "feature_request": "Free cancellation option"
+ },
+ "1903f94960231b7e0304e86a1650f1875f039e3634576b19f30f44ace1ea834d": {
+  "theme": "late_delivery",
+  "severity": "medium",
+  "sentiment_score": -0.7,
+  "one_line_summary": "Deliveries consistently late despite short distance",
+  "feature_request": null
+ },
+ "f35c6594713525592b1ce40605031e538f4fae9c3d1f005cbb85fde0bc54d000": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.8,
+  "one_line_summary": "Wide variety of items comparable to Blinkit",
+  "feature_request": null
+ },
+ "1bebdbb8ee9b9ee74c43e1bacb20740da31bc5bf720907bae9181fdb5f231710": {
+  "theme": "pricing_fees",
+  "severity": "medium",
+  "sentiment_score": -0.6,
+  "one_line_summary": "Undisclosed platform and GST fees",
+  "feature_request": "Show full fee breakdown"
+ },
+ "ce62f8fd37600229bf7c02cc49abd72c3db5a8943bfe40b896e2a90f4a1901f0": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Positive feedback, satisfied",
+  "feature_request": null
+ },
+ "d2757a937caf4bb43f6b0f6f3dd2645a24d0e0faed8bb683a624fd327b44c149": {
+  "theme": "late_delivery",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Delivery ETA inaccurate, chatbot unhelpful",
+  "feature_request": null
+ },
+ "e93c5ba2c905b629eff5ce13f62d8515fd36b1b74c48b634a313f59b96cf3755": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Loves Swiggy, trusts the food",
+  "feature_request": null
+ },
+ "a632a33e6b20d36c5045a8bf7f1035e96cb7bb84884ab9272685e41f836d379f": {
+  "theme": "late_delivery",
+  "severity": "medium",
+  "sentiment_score": -0.5,
+  "one_line_summary": "Orders delayed, timing ignored",
+  "feature_request": null
+ },
+ "715feb4cc75a33d611807c127ac52614f74e1c899e2285493111b5131d27d67c": {
+  "theme": "wrong_missing_items",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Received wrong burger, got limited coupon",
+  "feature_request": null
+ },
+ "bca09b58c176e882d83f39146544070cac7abd41aee5a0d9a7952e9f1bb36331": {
+  "theme": "customer_support",
+  "severity": "medium",
+  "sentiment_score": -0.6,
+  "one_line_summary": "Worst reply from support",
+  "feature_request": null
+ },
+ "587230253cfc391656b4cb6d758bd5225573b7639abfd7d6b97dfa4bc662258f": {
+  "theme": "food_quality",
+  "severity": "medium",
+  "sentiment_score": -0.7,
+  "one_line_summary": "Food arrives cold due to delays",
+  "feature_request": null
+ },
+ "5181f27097277a0ab95aa3ba32f59dadb2838620bec754495976295dce76aa5f": {
+  "theme": "late_delivery",
+  "severity": "medium",
+  "sentiment_score": -0.5,
+  "one_line_summary": "Order arrived late",
+  "feature_request": null
+ },
+ "db8b3d25629e8b40ecb03dbdfed241c3f6b5d2ebf330c7b9734dd3209f788ee2": {
+  "theme": "late_delivery",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Orders extremely late and food cold",
+  "feature_request": null
+ },
+ "3f4052cafe0eee20d672501841feeed71d924098c570543a13e5216f9eded350": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": -0.8,
+  "one_line_summary": "Terrible service overall",
+  "feature_request": null
+ },
+ "d0998f48dfee1e64277eb32e5f1b44e004603d193e238db332494a78c2aac67b": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Accuses platform of fraud",
+  "feature_request": null
+ },
+ "dba82418a95807239de56b6782bb534e5caa22893c81f4c60c2256a6e018f7e8": {
+  "theme": "customer_support",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Poor customer support and unresolved spoiled food complaints",
+  "feature_request": null
+ },
+ "126a4f8d5748124ab4c2e94e548fc310c7430dabd299ae983a1285999e8c010f": {
+  "theme": "refund_cancellation",
+  "severity": "high",
+  "sentiment_score": -0.85,
+  "one_line_summary": "Can't cancel or get refund, support unhelpful",
+  "feature_request": null
+ },
+ "a9cc092245ba32490d1ec8acd623ffb0e96b4cbf36a478da6ada12549ce0ed58": {
+  "theme": "delivery_partner",
+  "severity": "medium",
+  "sentiment_score": -0.6,
+  "one_line_summary": "Rude delivery agent",
+  "feature_request": null
+ },
+ "6e98ab6204d2759909b15f408ef3bcf77b25ec2089b8b32da1581982ddca021d": {
+  "theme": "customer_support",
+  "severity": "medium",
+  "sentiment_score": -0.7,
+  "one_line_summary": "Overall disappointing service",
+  "feature_request": null
+ },
+ "a2c9bd310dabc213dd7d1247583e08d48398c4ef5f2768e2a2c566b06499b26e": {
+  "theme": "app_bug",
+  "severity": "low",
+  "sentiment_score": -0.4,
+  "one_line_summary": "App not optimized for iPhone Duo",
+  "feature_request": "Optimize for iPhone Duo"
+ },
+ "1598539fcdabdd212421a2c2e80910c8aa753243343bd3d6e809e09e90b1894c": {
+  "theme": "delivery_partner",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Delivery agent harasses with repeated calls",
+  "feature_request": null
+ },
+ "43e463bc9de6ef9f2213edfa83d5108c4fdb41fe3973e890d5d68dac87fd97e6": {
+  "theme": "refund_cancellation",
+  "severity": "high",
+  "sentiment_score": -1.0,
+  "one_line_summary": "Scam: order cancelled, money deducted, no support",
+  "feature_request": null
+ },
+ "9fbb0fdf9dae0e4e45921732dfcd343ac84fce07153a8e3f19ba2352ac37966c": {
+  "theme": "food_quality",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Received expired protein, overcharged, no help",
+  "feature_request": null
+ },
+ "13dfb4c81edc04f0781c9a1b79ed6d33fcf0f334bf6568aeb82e754ad71bf74a": {
+  "theme": "wrong_missing_items",
+  "severity": "medium",
+  "sentiment_score": -0.8,
+  "one_line_summary": "Half order missing, long support wait",
+  "feature_request": null
+ },
+ "694faf94b87f31e2073a3601a22885a2ccf81899b202afbb402de26d89cfc95f": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": -0.7,
+  "one_line_summary": "Generic negative comment",
+  "feature_request": null
+ },
+ "40db957f29d7bbf7aeb0689d0e8ef2123bd5eb915dc659f45936cd5314742109": {
+  "theme": "customer_support",
+  "severity": "medium",
+  "sentiment_score": -0.6,
+  "one_line_summary": "Poor service and no response from service centre",
+  "feature_request": null
+ },
+ "0031ae80d2911d8355e038d0a57f98496fb9af895aceccca331ee6288f7e26bb": {
+  "theme": "app_bug",
+  "severity": "low",
+  "sentiment_score": -0.5,
+  "one_line_summary": "App UI confusing, needs simplification",
+  "feature_request": "Simplify app interface"
+ },
+ "de74bc3f671584919c54f5f24b724d76ec554fff9d7ca63d957d2d2388258545": {
+  "theme": "customer_support",
+  "severity": "medium",
+  "sentiment_score": -0.8,
+  "one_line_summary": "Very slow delivery assignment and poor service",
+  "feature_request": null
+ },
+ "6caec72cbaf1fa575231867219813e6aad2c9dd762b1e3d7173d95a0f8956685": {
+  "theme": "late_delivery",
+  "severity": "medium",
+  "sentiment_score": -0.7,
+  "one_line_summary": "ETA wrong, rider not assigned",
+  "feature_request": null
+ },
+ "5494985a439d2fdeeb130bd6c05b18c3ca6aacaa3205fd48a09b8904171e6d14": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": -0.6,
+  "one_line_summary": "Negative generic review",
+  "feature_request": null
+ },
+ "0289b56b56bfeed10650d063086dff27b2c9d5a51036283c6c2d28dfa9262a2a": {
+  "theme": "wrong_missing_items",
+  "severity": "medium",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Received wrong pizza, support unhelpful",
+  "feature_request": null
+ },
+ "707ded2b8db49adcbb1371ec7b9e693a780fae146afda891da90ea7883e3ed01": {
+  "theme": "customer_support",
+  "severity": "medium",
+  "sentiment_score": -0.8,
+  "one_line_summary": "Rude customer care, issues unresolved",
+  "feature_request": null
+ },
+ "828e3d1a67e6f977e75c910506e0f5599df6c46c030554c3b5255c87afd6adc6": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": -0.7,
+  "one_line_summary": "General complaint of horrible service",
+  "feature_request": null
+ },
+ "6c173e209f19bfdfa955da84aea9075ac3b4c8a392ff85a99a13756d62e59696": {
+  "theme": "pricing_fees",
+  "severity": "medium",
+  "sentiment_score": -0.85,
+  "one_line_summary": "High prices, hidden charges and occasional wrong items",
+  "feature_request": null
+ },
+ "dc84a12ba1f5778f7fc0696b706f82b9b0cae5e30d01fcc8274b8558ed0def87": {
+  "theme": "wrong_missing_items",
+  "severity": "medium",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Missing one burger, coupon code invalid",
+  "feature_request": null
+ },
+ "828dd233facf33ba2b2ffbed80b56ec17daea3f1be48de3643c326ce2ec0f805": {
+  "theme": "other",
+  "severity": "high",
+  "sentiment_score": -1.0,
+  "one_line_summary": "Accuses app of scamming users, terrible delivery",
+  "feature_request": null
+ },
+ "238868ea0a21aabb65c57b305ba6a45b49325d5ebce0ae1c15647d03c2729090": {
+  "theme": "app_bug",
+  "severity": "medium",
+  "sentiment_score": -0.85,
+  "one_line_summary": "Order timer stops after placing order",
+  "feature_request": null
+ },
+ "d029374f8301e9dbbcd899c256e71162aed43d1b07e42902d06007788aeee947": {
+  "theme": "praise_no_issue",
+  "severity": "low",
+  "sentiment_score": 0.9,
+  "one_line_summary": "Very satisfied with the app",
+  "feature_request": null
+ },
+ "4bce95f800411225d5b19e89887381696b2ab2ac113c1f02b4be88d34182ccbb": {
+  "theme": "other",
+  "severity": "low",
+  "sentiment_score": -0.6,
+  "one_line_summary": "Service described as third class",
+  "feature_request": null
+ },
+ "858caae830a67b26683a9808c18ec4c24dc89a222a950b191a447a7d9810907b": {
+  "theme": "late_delivery",
+  "severity": "medium",
+  "sentiment_score": -0.7,
+  "one_line_summary": "Few delivery execs cause longer times and order bundling",
+  "feature_request": null
+ },
+ "d9c87be4d3bcbc5ccb499617d46a223a990547212150f44d84ef67f312b217c2": {
+  "theme": "late_delivery",
+  "severity": "medium",
+  "sentiment_score": -0.75,
+  "one_line_summary": "Food very late, no response to calls",
+  "feature_request": null
+ },
+ "c398795c507c5fb75888ba0b77f55c609613928a3dd652968bcd8c557c231595": {
+  "theme": "customer_support",
+  "severity": "high",
+  "sentiment_score": -1.0,
+  "one_line_summary": "No support, feels fraudulent",
+  "feature_request": null
+ },
+ "5720511164b16092fe1f6569e95983d08e135b662edb7880ab33057369366671": {
+  "theme": "late_delivery",
+  "severity": "low",
+  "sentiment_score": -0.6,
+  "one_line_summary": "Service very delayed",
+  "feature_request": null
+ },
+ "81f62327e34769ff5c00142d36cbf8c3642d4b02f5bc867d876bf49ed12f1a65": {
+  "theme": "food_quality",
+  "severity": "high",
+  "sentiment_score": -0.9,
+  "one_line_summary": "Food arrives cold after long wait, no help",
+  "feature_request": null
+ },
+ "147d26a847e85fe64bb1a779cc9af530c60e5165756fcfc3f63576c36d7ce286": {
+  "theme": "late_delivery",
+  "severity": "low",
+  "sentiment_score": -0.6,
+  "one_line_summary": "Consistent delivery delays",
+  "feature_request": null
+ },
+ "6055f12082489ef1acea474dc0c14edb49523dc050fb8e4db7cdd9dbae9ca58b": {
+  "theme": "customer_support",
+  "severity": "medium",
+  "sentiment_score": -0.8,
+  "one_line_summary": "Substandard customer service",
+  "feature_request": null
+ }
+}

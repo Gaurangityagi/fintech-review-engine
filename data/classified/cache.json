@@ -2536,5 +2536,1025 @@
     "severity": "medium",
     "sentiment_score": 0.0,
     "one_line_summary": "No summary provided."
+  },
+  "eeb7061e3abcbee35719145aaa8f852d9022df6423cb536020bd2a5927e0f14b": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User expressed brief positive feedback about the app."
+  },
+  "d3748f80c7bc4ee78f8934da9eef7e417c9117ecc4d862980bd6541590e6b23f": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User highly praised the app with positive emojis."
+  },
+  "e98c22a446a7353e3faa4a61a244e167b84062a42d44eeba18667efdf205dd39": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.1,
+    "one_line_summary": "User gave a neutral Hindi review stating 'Okay'."
+  },
+  "30b5945aca2285f6da542bd0ae0545c9fdcf6705189b1f20eb637f3ae041a597": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.85,
+    "one_line_summary": "User praised the app experience as super."
+  },
+  "09064be004df21543e65bfe6ae0d927c5f94705f4c80d460540ba2307441655b": {
+    "theme": "refund_delay",
+    "severity": "low",
+    "sentiment_score": -0.4,
+    "one_line_summary": "User expressed disappointment regarding low cashback amounts."
+  },
+  "71d6f27e6f19603c33efb7641e5484492cbdf545b6a1570394a769b6362a62d1": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.75,
+    "one_line_summary": "User reported having a good experience with the app."
+  },
+  "fce2a5603c60fb223a7bb1044815167cd6d92c1a1e4104fb85b8514b05c46641": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Short positive review praising the app."
+  },
+  "18c1cfa067013b8dd3c7dbdd554f062e6aff85c6258ce004d403c267ceae7bce": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Positive feedback praising the payment experience."
+  },
+  "7403c9d61a569bf6014457b59c6ccf1423a30efd45e4977484f69e3df02c9637": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Review contains only a user's name without feedback."
+  },
+  "fa3c9ac1ad7d313b9bc2a07e1c05fa62a659949c2499e4d2a9a169d941d84085": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Review contains only a name or short text with no actionable context."
+  },
+  "65c44c269942f081cf784fe437488bb315cf9d23f7ad4042a616e8d01f9af770": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.95,
+    "one_line_summary": "Highly enthusiastic positive praise for the app."
+  },
+  "c526280e4b996949ad0539955cbdbd2a53e1b9bda880ef7720b04ad4b0049dae": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Positive sentiment expressed using cheerful emojis."
+  },
+  "878dc8aabbbed2a22a50b1e4b7d9428075b3edef79e7c7b99fcdd667d5da429e": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.85,
+    "one_line_summary": "Praise for the app being very good and useful."
+  },
+  "5c3f6718840c687cbfab09e3b1b140f7b1e1c936814399be74a337281c6492cc": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Simple positive review in Hindi meaning 'Good'."
+  },
+  "1ce89e2842f736bfe24223a967af5a630018eb877a3de83e734a5e6431a7f2a4": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Praise for the app's top-notch security features."
+  },
+  "11dce2205d982000b7534e92884dfe99d28ba378d9b5c5d2adee937ec1f9f96a": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Positive sentiment expressed using emojis"
+  },
+  "5844e00af01298515f68283998350b7ec91956d9b071ba6d1393738efcb57e4b": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User expressing gratitude"
+  },
+  "c18874f405d2d7c9abb07051558fce886ec5def4fdf6a27409b220c27bd9d628": {
+    "theme": "refund_delay",
+    "severity": "low",
+    "sentiment_score": 0.2,
+    "one_line_summary": "Likes the app overall but complains about the lack of reward points"
+  },
+  "58828202159b350861f78757f59f2e2a83df915631bec94e5c5919a2043ca1e2": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User praises the application as the best"
+  },
+  "b7305d5255c174802adcae1528a654811250ef5225c22d6784b0d392b7ad6f90": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Unclear or gibberish single-word review"
+  },
+  "fb2d2592705231fb19d960888b0f9606978efecd1d2cf940dbf949ea3d2ab763": {
+    "theme": "fraud_security_concern",
+    "severity": "high",
+    "sentiment_score": -0.9,
+    "one_line_summary": "Accuses the app of being fraudulent and calls for it to be banned."
+  },
+  "1a524143aea4b1d91660aab075dabc6a0622b68d6298ade955a2c246b7009803": {
+    "theme": "customer_support",
+    "severity": "low",
+    "sentiment_score": -0.6,
+    "one_line_summary": "Expresses general dissatisfaction with poor service."
+  },
+  "82ce6837aa3b68844b31aa7c645d74dbecc376c957c349610ccb8a680856ca4b": {
+    "theme": "app_crash_bug",
+    "severity": "medium",
+    "sentiment_score": -0.6,
+    "one_line_summary": "Complains about very slow app performance."
+  },
+  "e5343709f0b1ee1e161ec231022c149b2e6bc099634c9dce8619221e8c62581c": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Praises the app for being great and very easy to use."
+  },
+  "b1d65aff88499cccbb0a045825a5d26c09bb024c7195c332ddce05514583b07b": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Positive feedback on the payment experience."
+  },
+  "f19c42189ab09fec2294cb09e64b19b9b2eee62c7ad156c2b6f533c2a87f71f5": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Highly rates the app for money transfers and rewards."
+  },
+  "5538c44295bfdd2819bc076cc70468b4b08098a8f9d2afa99bac2c94a0cb5d4a": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Simple positive review stating the app is very good."
+  },
+  "cc108c4bed26bcfe92989ef301a5b9a465e1666926c1a397a89e5f1e44b92f0a": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Unintelligible text with no actionable feedback."
+  },
+  "2d54fd4177b26b6f02203078c9cd7ed2e47263645d25e3509b749de58c13cdfd": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Praises the app's reliability and top safety rating."
+  },
+  "4042c2032c213486c76a717a262dd350a5b1822b81225593c0d2d3569b8fb686": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Praise for excellent experience with the app"
+  },
+  "ea38a35e6edf12b0f30fc2c472ef01d6b261d81c8823c1a75cc42b60967567da": {
+    "theme": "app_crash_bug",
+    "severity": "medium",
+    "sentiment_score": -0.7,
+    "one_line_summary": "Complaint that the app is not working"
+  },
+  "39e66fdc90a495aa122ef07419c1733edcdd87e7be4051fe43e05bb22318a827": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Positive feedback expressing that the app is good"
+  },
+  "04fbb0f95c6ffd54a615fcda2e2266127150b1bcf734c2d2840a8553f45e0dc9": {
+    "theme": "failed_transaction",
+    "severity": "high",
+    "sentiment_score": -0.9,
+    "one_line_summary": "Payment debited but merchant didn't receive it, support unresponsive"
+  },
+  "e61753576cacc5da2d9ec50450567604d74ff0b6f426761e86aa1e50edae56ca": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User expresses high satisfaction with the app"
+  },
+  "268bc1833e83306f48ae6203eefb86e7a39dedb1d3d6df99c18ef70aa61ef84d": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "User expresses gratitude with a short thank you"
+  },
+  "04ebd3fe1f8487790ebe438243e52ae93329e61df948d060b5e6fb7f5a76d0cb": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Positive review praising the app as awesome"
+  },
+  "8de99c3fff53795ab6381e063ca82298974752b517b614af2b47fa3185649dd3": {
+    "theme": "app_crash_bug",
+    "severity": "high",
+    "sentiment_score": -0.9,
+    "one_line_summary": "Unable to use the app due to a device security error and unhelpful customer support"
+  },
+  "871c96a10d6f530e4510c57c180225f217320fd44d5ea8952080ac91d15140e5": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User praises the app as a great payment option"
+  },
+  "8e48c50fe774cea2a45bb45c520652980006fbfabb9c4216c92b5f60a1b9e64b": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 1.0,
+    "one_line_summary": "User expresses great satisfaction with the app"
+  },
+  "9740b159d560c98a4f8a16861aa27a66df45bec4b946463e5346bbe7ddcc6a11": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User finds the app very easy to use"
+  },
+  "e9aef465b70fe562ba7b81328d492e9bb9d3d271c6173afb61b0917dd66e008c": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 1.0,
+    "one_line_summary": "User commends the app's outstanding performance"
+  },
+  "cee24762d9692b2361227431a4850f9cfe550d58aad80d94d31b5a20d1591e64": {
+    "theme": "failed_transaction",
+    "severity": "high",
+    "sentiment_score": -0.9,
+    "one_line_summary": "User is unable to send payments due to a blocked/blacked status error"
+  },
+  "cab2644828bcc1f220612fde559864da2c5bf0c6eebdcadbb4a4c88c9fcf3927": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.5,
+    "one_line_summary": "Simple positive feedback"
+  },
+  "08eb58292e187fc2a5cdd7d98086d3236a7d7e6c52f13af3065ce7c9c06db9c5": {
+    "theme": "ui_confusion",
+    "severity": "medium",
+    "sentiment_score": -0.6,
+    "one_line_summary": "Overall amount missing from transaction history"
+  },
+  "db2c45a8edb378094f655c95502344772e295f0e7bad3ca9b78b6e50e0f1e0be": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Super positive reaction"
+  },
+  "5bcca52406d067e81ec4ded2604d7c1f1f0f0d517165f8234a268d4ec4fc916d": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Friendly greeting and praise"
+  },
+  "44ef5d1b528e1af505ec2c5d91ba0219f3c6353b0d021adf9516be8972a58ba9": {
+    "theme": "refund_delay",
+    "severity": "high",
+    "sentiment_score": -0.8,
+    "one_line_summary": "Refund not received despite request"
+  },
+  "89a6cfd756a65de7cf7d5dcb0d7ada6db44d96b76f46ed296ea968f903572e08": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Very useful experience"
+  },
+  "cbbebf68afc76a152632c04da99d0d352a9128e02f56f9ff46dfd8f856847feb": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Positive emojis indicating satisfaction"
+  },
+  "542713158af91d7190faf907cba7ff3737797c3fb9dbff070c16fe0d6137a58a": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Unclear comment"
+  },
+  "24e5e75ce18f8a958ad9d70f63bc3381c90349a560056c0e12fcc965416b3662": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User reports very nice experience"
+  },
+  "85e3b9c3ea1ac5c51120a4184d519016d9f83a0406a8d67334216e50cbf73f48": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User likes the app"
+  },
+  "05d96884de1836c28a74dcc59736931200c2d8606c5ba705de19dc916222212c": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Unclear short comment"
+  },
+  "296b9f6934bb4ac063a27de8b375412a8cc941153d32f450856b7b863a39423f": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.5,
+    "one_line_summary": "User says it's okay"
+  },
+  "11e73c79058ab809dc65ad3b7660f0042ce83c28a38a8a77409cc72871769209": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Expresses love with heart emojis"
+  },
+  "492253433a3eca6218259451b5030368d7086d0ed7ea331fb74ac07a82c39c90": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Calls the platform perfect"
+  },
+  "8c1092d0b1e1022069a298b43d4e33c9097ac35307c863e7d0e70e3d6cdecb87": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Says UPI is good"
+  },
+  "b489f1cd61035d41bfc144eb970537eae9b734338d96ae453476904e7900ee16": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Shows enthusiasm with nice emoji"
+  },
+  "abc291da28cd842b5adb15855f91cc73b662255f9dad2949c3106199b4f72072": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Compliments Google Pay service"
+  },
+  "118fc4a97a2780cf20486bf2cdb8bd7ea2d3be93d2d93e7870869dbe07ff56bf": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.6,
+    "one_line_summary": "States it is not good without specifics"
+  },
+  "67c3390d1d0d1a11b4059835acfb02f5f77bdd675b558e89632b54d88739366f": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Positive short remark, ok super"
+  },
+  "f6571d5d739b32f754190311ab78f928aaad8f37754fe06815b5f3c6bbf13010": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Thankful and appreciative message"
+  },
+  "cf71729994f4d98f40e3a41a180c71240c6eb0dd6b702b24a300f91b7835f577": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Friendly greeting and positive comment"
+  },
+  "921cd0acd314dd87fa3c6acb7d856f1ce42ce736b52848e9bcd36961d3c93847": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Very good performance, user satisfied"
+  },
+  "3be4eb05782ab429707e09897731385f7f3405dbc6233f7beef0a56eda413a52": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.85,
+    "one_line_summary": "Smooth UPI transaction, user happy"
+  },
+  "b8c53752e49dd2d46c58022ee5f368514a9a41f925ac7e16df43f6b836e50b09": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Excellent app, user appreciates"
+  },
+  "6054da09b804e87031d516d54d09fabac0862cc9fd39b62bd123652b6b910f16": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.95,
+    "one_line_summary": "User praises Google Pay's instant UPI transfers and overall service"
+  },
+  "4af9d37ca6607969eec1e30019cf8282e6c4728d15f96759cc4bbdc65d15eb35": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Positive about Google Pay security"
+  },
+  "f21cfe8c8de372b37e489832bb577bf34bf1480cacbe25bec9d8e765c431c1a4": {
+    "theme": "app_crash_bug",
+    "severity": "high",
+    "sentiment_score": -0.7,
+    "one_line_summary": "Frequent access problems preventing app use"
+  },
+  "79a7b81c7426cde3cdb4e9e11b8dd68d146a385c19f1dbb5f28a33a9479c9dba": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Good feedback with thumbs up"
+  },
+  "8c35466b3ec138b4ea7d3d4bb9ecf55acda5aeb22485cec1f18ad0f10be28f3a": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Good feedback with thumbs up"
+  },
+  "1a0d8a9af8f3ebde7787b1ec10de3cf3aa18849d151e804fc79486b9560c979e": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Generic ok comment"
+  },
+  "95b884a2a62b09ac431b364b0817af53d6eefc4908a787cc332f9a539091d1c3": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Outstanding app"
+  },
+  "34592a5b8fa5afcc7f6ab80b6ade8ffdcdb156a820fbb44d0aa46832df6b3e5e": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.1,
+    "one_line_summary": "Generic okay comment"
+  },
+  "e666c257b2a3bb79187718561e00386d0f15e1c5ff671d44ea5222ee8f15331d": {
+    "theme": "app_crash_bug",
+    "severity": "medium",
+    "sentiment_score": -0.7,
+    "one_line_summary": "Total not displayed and app hangs"
+  },
+  "a7d982c26a1eefe606573ec7d6452aa9a201d4a3892402cc0669924841453d78": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Great app"
+  },
+  "0cf0fde835714169cf8d631ba10b08e043b01c27bb1cea326fa7802ecc7aa8cf": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User expresses simple positive feedback"
+  },
+  "027cad60c9841bc5202413cbd58e1c77a2bba07ac0f834cd46250101bdfcc89b": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User expresses simple positive feedback"
+  },
+  "e53a9f4d881d29f2594cc079bc9b723239e59ff5ddc228423a4f2118c8bc3522": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User expresses simple positive feedback"
+  },
+  "e2247845e9bf15878b7b9db60c3e55b8823bbe4404e483a87c8a9a9faab430fa": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User expresses simple positive feedback"
+  },
+  "d206b248db287bac97b050a4480f4df9a6d20b9a3ea63bee94ead2114d42c42e": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.5,
+    "one_line_summary": "Positive but vague comment"
+  },
+  "fb75b9e598fe3f6039bf8c4b419d5edb83e27a39c4b4488a17b27ac7da138b34": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.3,
+    "one_line_summary": "States platform is important"
+  },
+  "82eca8c3765bc3d96cbf7627b0102b0a1c07da9d737df72b858d04b117d40ec6": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Emoji only comment"
+  },
+  "7aae81326ae9bf8410cee2384876e08e857f9e7bf973e455acb0e611c3df0e98": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Single character gibberish"
+  },
+  "029d03693a2a7bb542619305ed59a17efd09d2f72385ef1de2469edbd06a3ec0": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Just a name mentioned"
+  },
+  "5ffd54921fe24b9adc4e621ce99bf303f26cff80df6f75b0f76cbe437f66df84": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Very good experience"
+  },
+  "0f7ca6ae778071ff6d7e0e05b50c5cdbe5bf9f53fc7693266c0daa1503a87b52": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Unclear feedback"
+  },
+  "9adbbc276114247a52c2dbd574127d35fa4462243e9a5fdacb86fab3026ea99d": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Best service experience"
+  },
+  "548717cc8f68a3213fe9067718b3499b8e0cf8a271ed2e04c7345ec27a817d63": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Expresses enthusiasm and satisfaction with emojis"
+  },
+  "9136c764b2939aaebba81a46d7c0ff9c1d24f0ffb090a4a733fc0fa8385ef147": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Says the app is good"
+  },
+  "c6a1427d7119cd3c049d4fe08cc02f1058d15291fba68a994816ea209af73f0e": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Finds the app beautiful"
+  },
+  "26152d187cd497db6cd978c7a9c35ad6114837319f32dc3321793a4b88511139": {
+    "theme": "refund_delay",
+    "severity": "medium",
+    "sentiment_score": -0.6,
+    "one_line_summary": "Rewards are not being received"
+  },
+  "e3e336c5ba554e3d8f7dfddc348ab7985e26fea5964a8373997ed8ab36a3d97c": {
+    "theme": "refund_delay",
+    "severity": "medium",
+    "sentiment_score": -0.6,
+    "one_line_summary": "Referral reward not received"
+  },
+  "65b61069a0048e58703d6478d70f38ca324fc0d28b3c12bdc49802b8b5fdbaf7": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "App is awesome, thanks to Google Pay"
+  },
+  "65d327d922ce17345380b9eac915416968a6c7f348b303345dde9f1e1d6b276d": {
+    "theme": "refund_delay",
+    "severity": "medium",
+    "sentiment_score": -0.5,
+    "one_line_summary": "Did not receive the offer"
+  },
+  "2dd1631bce123615905f919c7887d4fa267da605d97aeef5385d0e283ab3a64b": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.5,
+    "one_line_summary": "Positive but vague feedback"
+  },
+  "fe48ea75cb4d4a4c563eac5cc8dc4b401a718a71cb01927b6a0e8724aa996991": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.5,
+    "one_line_summary": "Brief positive comment"
+  },
+  "7293b00dabe1031bf6e64a90d1fa6a35365948d41025308672b063aa38473454": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.6,
+    "one_line_summary": "Enthusiastic positive remark"
+  },
+  "36b0de9a59f3963d5ec56f21086006724770e9cdd3d25d3c5ae18cb6ec9c29b7": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Complimenting the app as super"
+  },
+  "7826479e3a439872497dd45a9d9da630b6026f2b319331e7517eb5e9b4bff12b": {
+    "theme": "app_crash_bug",
+    "severity": "low",
+    "sentiment_score": -0.3,
+    "one_line_summary": "Annoyed about needing frequent updates"
+  },
+  "b000b1e56dbc86497972921388aae56f7dd67dfaa7ad8102a5fdb960fbc9e43a": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Happy with smooth operation of GPay"
+  },
+  "a75e2f5ca74866953eb218e4e2c68d06148dc88f4f1c4fedbcc093236ede9c1a": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.5,
+    "one_line_summary": "Cheerful good luck comment"
+  },
+  "9ec91b21226f5b14b328826ff99d1e0cfd951d7cf773e874b0c9be3567a7ce7a": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Fast and safe transfers praised"
+  },
+  "bc4159bea41e075d65cfb0acf9cc2ea377f7d2284ce8e1109d73d0d4ccf5f8f5": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "General positive feedback"
+  },
+  "a7d317db288c06983d0b9aa159a3c76e6f8b0d3c8aa956cab75c33646cdb38c2": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.85,
+    "one_line_summary": "User is happy with the app"
+  },
+  "2926759919db7ac3ddf55c85ea6525011c804ba1a86db5d3ee6f400722a9fd83": {
+    "theme": "ui_confusion",
+    "severity": "low",
+    "sentiment_score": 0.3,
+    "one_line_summary": "Loves app but dislikes wording/UI element"
+  },
+  "0e85f82fb87ff69acb643adbeb9cbc4980dcc2a01646c529ded819141205a98c": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Very good overall"
+  },
+  "5c9018d7ff6d337210fad8f32165d6e7c7cb808b201a2f4ea89a27e6e73509e9": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.6,
+    "one_line_summary": "Free handling and easy to use"
+  },
+  "125c399c0164eaeb79db3efe55c0849e050b954864e3de0d67b811bf691e63b1": {
+    "theme": "ui_confusion",
+    "severity": "medium",
+    "sentiment_score": -0.5,
+    "one_line_summary": "Transaction history does not show licence deductions"
+  },
+  "ec2ff407a4f09d354765e4cf137f7732d9b265b0cf2bc59d52dcc005cdbad577": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.95,
+    "one_line_summary": "Excellent fast payment"
+  },
+  "6146299cd54818a0e659eb6ac88e80f6f8f70536bbbd962d36973f2d2323f26c": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Celebratory emoji indicating satisfaction"
+  },
+  "8d474acbd400021481d9bbf5f75d7fee363799ff15ec8eb88e0894192f92e7ba": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Calls the app amazing"
+  },
+  "1d27a658474aa89a744c1cdb1a5d7807edc11a9c7a31f5300cc821dbb0f62e7e": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Describes experience as fantastic"
+  },
+  "77dabcfeb9486fc97f18dcb504714aa57f4fa991161b65b2e105e97f82c090d5": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Just a name, no clear feedback"
+  },
+  "4a24ee7e424e75de8d7d70fa3c4c25270f9ffb465b37a2cef1134915936d33e3": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Mentions very fast and easy operation"
+  },
+  "9cbc9a33c15a421e38f593a355ae658a87685788ab9f68ad7c7f2ef1b93456e4": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User calls it the best payment app"
+  },
+  "57cbb3eb190c0c0334d60e320eb2239032e901580e89065d1e8b157569277410": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User notes good and fast service"
+  },
+  "132135e004232110e04d9ecf9b1f96aac112a0f0cde58c9ab4b937b00c6c4356": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.1,
+    "one_line_summary": "Unclear short comment"
+  },
+  "3b2bcf7b1764e13f8578ec59b1c56dec28477618c1b9ddb855dac4c2f0bf5361": {
+    "theme": "app_crash_bug",
+    "severity": "medium",
+    "sentiment_score": -0.6,
+    "one_line_summary": "User reports intermittent server downtime"
+  },
+  "e10abde4833a6ac5bf7435d5f71291bca902eec8c4a13e2ff176b1ec02ef5a77": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User says the app is excellent"
+  },
+  "781458a30b35e0b2570fe0bac413e5b45802416943770bdfe6fce2603e6deeb0": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Only a name provided, no feedback"
+  },
+  "ac55ff6b7bfcd0961df2584265075272aff4c85c795e50f499863f2f0536aa84": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Simple positive feedback"
+  },
+  "090221786105504471abb231ce2c5e61745993bce46c098bdb425237f1554d60": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Very good and nice experience"
+  },
+  "bbb0d549a593f875596606260b1d0cd7cf030dcded80d24da4397317a0bc4185": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Considers the app the best way"
+  },
+  "9b9c1e0eded7845dc1424f9c50d37a6cc8c50b95690dbad682f505158b883b85": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.6,
+    "one_line_summary": "Money handling is good for business"
+  },
+  "4fdf2d70c358c1907913fad867d5a41bf75abadb10ae29bdbaf63454e76524c4": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Timely assistance appreciated"
+  },
+  "aa7a28dd801138733b8bb414d58579816d831e4e6f271a8e47229d8a58177ef6": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.5,
+    "one_line_summary": "Mention of a name without issue"
+  },
+  "28eb890bca3ffa818f7f05e3b8d367e2fdacf216b6faa883fd2ac3a57b2048fa": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Very nice experience with Google Pay"
+  },
+  "1cc6fd363e87476d2d276af884cb19e8d903304be98bf57a3cc302227c3d13c4": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "App is faithful and reliable"
+  },
+  "d9d7b62e4f9ebe81cca2fccbc414b35f5a787987a91388524cb2483b55a05a4f": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Finds the app very useful"
+  },
+  "52df784938aad2d4e40115e5d05afd49eacaab69797aa6fae9b079dee20498bf": {
+    "theme": "refund_delay",
+    "severity": "medium",
+    "sentiment_score": -0.6,
+    "one_line_summary": "Cashback not received"
+  },
+  "fdc1f23ce7fb44834aae026def3f37695fd3855ecb35eb84da9368f6339538a8": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "\u092c\u0939\u0941\u0924 \u0905\u091a\u094d\u091b\u093e (very good)"
+  },
+  "f0221f82952c10298fb64b877e6d67ce5992c6700ee08bafaf08d0945cd91144": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.2,
+    "one_line_summary": "User finds the app okay"
+  },
+  "d251a63aceabfdd44f87be711e5c26019df6ca7972d2956e73deb02212de9de6": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User praises the app's quality"
+  },
+  "9abff1236b51c51ceedcc43984680bfad6cbf4f3e008a39bee2d49497327127c": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.6,
+    "one_line_summary": "User calls the app waste"
+  },
+  "ca000ff57c008b4a4c112a6a89cf60c86a924178c40b5aa0193dda983d128368": {
+    "theme": "failed_transaction",
+    "severity": "high",
+    "sentiment_score": -0.9,
+    "one_line_summary": "Transaction of 50000 failed and balance not updated"
+  },
+  "395a96dcc9e636ab0c8a1fd4f195e569f18d8c8a6829e26061a21ba8c8c44312": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Mention of life line apps"
+  },
+  "b234407d93f68b42688aa7eb02619c4258f6dfa315fb2daf4235a8e56e03b999": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Positive remarks about confidence and communication"
+  },
+  "a6e4fa570f88017155a3b80b60c5644b22734a1621898bc96bae07fda20df361": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 1.0,
+    "one_line_summary": "Five-star rating"
+  },
+  "c16b57d2f235cf4aae94bed4f2b93cf3a18a2f18b15b328bddf29a61bbd936dc": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Unclear short comment"
+  },
+  "312999bb8de31623746bb1667b9e94171206801b6cb39756f0a8e45361046d33": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.6,
+    "one_line_summary": "Wishes a nice day"
+  },
+  "13a42aabc2dc3f4e86a0979117ad9217ef7fb000f58c1014618d90314ce32651": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Positive vibe with heart and check emojis"
+  },
+  "1b6af678e119b5707651ff3ea6e488d9832d517c13688fa5c6ab2fffddd40852": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Misspelled 'excellent' indicating satisfaction"
+  },
+  "309f927c1c7795eb79df06988bf48f8e8c627efa2f392c636fb80536166c9bd3": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Thumbs\u2011up emoji indicating approval"
+  },
+  "43f055db1bc4a86e658772cce18826e2443c19f235b4d2efcc919cef445bb402": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Compliments safe, easy payment and overall good experience"
+  },
+  "60cb605b54d6b48ca9223d2f634acf984931d1602850501324e57a83b3232b05": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Short positive comment saying 'very nice'"
+  },
+  "9a86fb8c7269f785bb362b47e93ad06fc0438c6b5fe64c697e43f2831c58d020": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User finds app good to use"
+  },
+  "55a159ddb2bee029db0e347fe01a88497a6b29bfe5bd0b0de5412e807e064899": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User says it is very good"
+  },
+  "187d8d749b302d106a5a459be8961e1f3dfe4fa93036ace4f4df1d3f0f47f888": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "User comments nice despite random text"
+  },
+  "c732a8e45e86ca34379619049ac6eb89a972ae1ab23e5331d840860d659e6b97": {
+    "theme": "refund_delay",
+    "severity": "medium",
+    "sentiment_score": -0.6,
+    "one_line_summary": "User unhappy about not receiving cash back or gift"
+  },
+  "a107542ae88b91c8ece1bdf31fcbf5a722d2e8219d5fe7fea501638c4fc85cc2": {
+    "theme": "failed_transaction",
+    "severity": "high",
+    "sentiment_score": -0.7,
+    "one_line_summary": "Network problem prevents transaction"
+  },
+  "ad0b8210df0c983cb9f2a8efa390a9e6ad51147c9d4b8ab13116c328e2d212f8": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Positive note with a smiley"
+  },
+  "04b50301d2778e8bc3ebb8951da33c8eef571cc0adb4c7b889736e0931ed975e": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Brief positive comment"
+  },
+  "b69470d92eeb405703bbce091d193009ea115f4e8e20bb70d20a81715ba1059b": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Mention of account reviews without clear issue"
+  },
+  "3ea1c4c5f4876e71ae9e596ca58394569cd7a82d9b089973b7e8de9384fb49b0": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "User expresses very good satisfaction"
+  },
+  "a7684348ff62f176549beab965cef91a34d1a09d34e5f4def65c9a9dea33154c": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.95,
+    "one_line_summary": "User extremely pleased, very very good"
+  },
+  "cdf71dea7d7741a2b6f021f3dd344f75c8333988f547866a8fbf28f064cf7c78": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.6,
+    "one_line_summary": "Friendly greeting indicating positive mood"
+  },
+  "b51b46b18e2b4e828476b0b13b7977581d5df38dfef11ac5f56253dc3f9f2cb1": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.5,
+    "one_line_summary": "Simple acknowledgment, generally satisfied"
+  },
+  "d9e41f003ca0c9f395763a30238ee77b1cdf294d2d03f2002690e744756ff5bf": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.8,
+    "one_line_summary": "Positive remark about chargeable pay feature"
+  },
+  "4dd0999caac1e3888d96ae6b4a8bc658c3ee5296c76a08549bea5c3cdc848719": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.85,
+    "one_line_summary": "User appreciates app's security"
+  },
+  "546ce420deeb260feac563654bf20066e85dd10f6b8fa3f0a3da3563edff83ae": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.9,
+    "one_line_summary": "Praises the app as excellent and important"
+  },
+  "6ef7c9b15ecdd69083724b84cfdc2100351963488b51b4ea2fcbddf493fbec94": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Single word 'high' with no context"
+  },
+  "b70dea6303a9ceee92a17af6ec8dcbed958b5e0d17ea46da8e86c629fd5fd3e9": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Expresses thanks"
+  },
+  "fbe431c4bcf0cc362753bd061e3d48beca2077b1d8995989d0b0f6891a0e3b50": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Mentions Digital India without specific feedback"
+  },
+  "fa08c826a5bdc987eeb10e5f3b34c06f7296aeba090cc155f72b541ae57f1b25": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Unclear statement"
+  },
+  "6d5dce94a05fd89ac785194ff057bedcb8e931183cd6279e749de7ec95cebfe8": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Just a name, no specific feedback"
+  },
+  "dc23c6bc9ee4a6da41b11ebe061b3c83f94fbd2513e73c4de9fb486b2d988ebf": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": 0.0,
+    "one_line_summary": "Single word with no context"
+  },
+  "5d2d3ceb7abe552344276d47d36a8175b7aeb250a9bf0bf00e850cd23ecf2e43": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.1,
+    "one_line_summary": "Mention of security without clear complaint or praise"
+  },
+  "86ac114ded33e18fa31c5e965323431893f24ffb3d596a68e9d326608d26566a": {
+    "theme": "praise_no_issue",
+    "severity": "low",
+    "sentiment_score": 0.7,
+    "one_line_summary": "Positive emoji indicating approval"
+  },
+  "94b828ca811defd0e1cfcef48f1133498316d2204bce5bff3134d759cd4d7063": {
+    "theme": "other",
+    "severity": "low",
+    "sentiment_score": -0.5,
+    "one_line_summary": "User complains that no rewards are provided"
   }
 }
